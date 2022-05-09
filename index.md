@@ -12,7 +12,7 @@
 * Samsung (I just wanted themes for my Galaxy lol)
 * [Roblox profile (RFS_Roblox)](https://www.roblox.com/users/323158352/profile). I only played with my siblings, and I created my account before inventing the "Rudxain" username/alias.
 * [TotalJerkFace/FancyForce profile (RFSwerewolf)](https://totaljerkface.com/profile.tjf?uid=6050400). I played Happy Wheels a lot back in the day. My username was inspired by "The Werehog" from the game Sonic Unleashed (very underrated Sega game)
-* My Boomlings/RobTop Games ID is "Rudxain" (it was "RFS", before I changed it). I didn't had the chance to play Boomlings, but I knew about the game before RobTop removed it from G Play Store, all thanks to Geometry Dash. I forgot my user ID, because RT made it private to reduce the probability of being hacked
+* My Boomlings/RobTop-Games username is "Rudxain" (it was "RFS", before I changed it, now [someone else](https://gdbrowser.com/u/RFS) has that name). [My Geometry Dash profile](https://gdbrowser.com/u/Rudxain). I didn't had the chance to play Boomlings, but I knew about the game before RobTop removed it from G Play Store, all thanks to GD.
 * [osu! (RFS_Osu)](https://osu.ppy.sh/users/9905562). I guess you'll start seeing a pattern here, I **LOVE** music/rhythm games. 1 of my faves isn't mentioned on this list [(Music Racer)](https://play.google.com/store/apps/details?id=com.abstractart.music_racer), but I stopped playing it
 * My Supercell ID is "Rudxain", and my name in Brawl Stars is "Rudxain null", because apparently "Rudxain" is an *"invalid name"* but **"null" is perfectly valid** according to Supercell. I created my ID because I kinda like Brawl Stars, and I play it with my siblings. I sometimes played Clash of Clans in the past, but played as guest
 
