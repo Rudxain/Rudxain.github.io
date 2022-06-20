@@ -2,3 +2,175 @@
 ---
 
 @import "{{ site.theme }}";
+
+@media (prefers-color-scheme: light) {
+
+body {
+  background-color: #fff;
+  color:#595959;
+}
+
+h1, h2, h3, h4, h5, h6 {color:#222}
+
+h2 {color:#393939}
+
+h3, h4, h5, h6 {color:#494949}
+
+a {color:#39c}
+
+a:hover {color:#069}
+
+a small {color:#777}
+
+a:hover small {color:#777}
+
+blockquote {
+  border-left:1px solid #e5e5e5;
+}
+
+code, pre {color:#333}
+
+pre {
+  background: #f8f8f8;
+  border:1px solid #e5e5e5;
+}
+
+th, td {
+  border-bottom:1px solid #e5e5e5;
+}
+
+dt {color:#444}
+
+th {color:#444}
+
+header ul {
+  background: #f4f4f4;
+  border:1px solid #e0e0e0;
+}
+
+header li {
+  border-right:1px solid #e0e0e0;
+}
+
+header ul a {
+  color:#999;
+}
+
+header ul a:hover {
+  color:#999;
+}
+
+header ul a:active {
+  background-color:#f0f0f0;
+}
+
+strong {
+  color:#222;
+}
+
+header ul a strong {
+  color:#222;
+}
+
+hr {
+  background:#e5e5e5;
+}
+
+@media print, screen and (max-width: 960px) {
+  section {
+    border:1px solid #e5e5e5;
+  }
+}
+
+@media print {
+  body {
+    color:#444;
+  }
+}
+}
+
+@media (prefers-color-scheme: dark) {
+
+body {
+  background-color: #000;
+  color:#a6a6a6;
+}
+
+h1, h2, h3, h4, h5, h6 {color:#ddd}
+
+h2 {color:#c6c6c6}
+
+h3, h4, h5, h6 {color:#b6b6b6}
+
+a {color:#28a}
+
+a:hover {color:#057}
+
+a small {color:#888}
+
+a:hover small {color:#888}
+
+blockquote {
+  border-left:1px solid #1a1a1a;
+}
+
+code, pre {color:#ccc}
+
+pre {
+  background: #070707;
+  border:1px solid #1a1a1a;
+}
+
+th, td {
+  border-bottom:1px solid #1a1a1a;
+}
+
+dt {color:#bbb}
+
+th {color:#bbb}
+
+header ul {
+  background: #0b0b0b;
+  border:1px solid #1f1f1f;
+}
+
+header li {
+  border-right:1px solid #1f1f1f;
+}
+
+header ul a {
+  color:#666;
+}
+
+header ul a:hover {
+  color:#666;
+}
+
+header ul a:active {
+  background-color:#0f0f0f;
+}
+
+strong {
+  color:#ddd;
+}
+
+header ul a strong {
+  color:#ddd;
+}
+
+hr {
+  background:#1a1a1a;
+}
+
+@media print, screen and (max-width: 960px) {
+  section {
+    border:1px solid #1a1a1a;
+  }
+}
+
+@media print {
+  body {
+    color:#bbb;
+  }
+}
+}
