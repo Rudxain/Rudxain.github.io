@@ -4,7 +4,7 @@
 * [YouTube channel](https://www.youtube.com/c/RFSGameplayer). My custom URL has "RFSGameplayer" because I changed it long ago when YT requisites were lower, now I can't update it to Rudxain lol. I didn't even upload "gameplays" or "let's plays", I just *planned* to do so.
 * I have WhatsApp, but I don't want my personal phone number to be public. I'm considering switching to Telegram
 * [Newgrounds user page](https://Rudxain.newgrounds.com)
-* Wikipedia
+* [Wikipedia](https://en.wikipedia.org/wiki/User:Rudxain)
 * [GitHub repos](https://github.com/Rudxain?tab=repositories) & [Gists](https://gist.github.com/Rudxain)
 * [Soundcloud profile](https://soundcloud.com/Rudxain)
 * [Cymatics](https://cymatics.fm) (I don't know my "ID" because IIRC it depends on my Google account or email)
