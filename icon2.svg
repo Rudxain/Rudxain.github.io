@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewbox="0 0 9 9" height="100%" width="100%" preserveAspectRatio="xMidYMid" style="background-color:#000" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 9 9" style="background-color:#000" xmlns="http://www.w3.org/2000/svg">
 	<rect fill="#f00" height="55.55555555555556%" width="11.11111111111111%" x="22.22222222222222%" y="22.22222222222222%"/>
 	<!-- I should use a path element -->
 	<rect fill="#fff" height="11.11111111111111%" width="11.11111111111112%" x="33.33333333333333%" y="66.66666666666667%"/>
