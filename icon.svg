@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg viewBox="0 0 9 9" style="background-color:#000" xmlns="http://www.w3.org/2000/svg">
-	<line x1="2" y1="2" x2="2" y2="8" stroke="#f00"/>
-	<path stroke="#fff" d="M 3,6 h 1 v -4 h 1"/>
-	<line x1="6" y1="2" x2="6" y2="8" stroke="#0ff"/>
+	<line x1="2" y1="2" x2="2" y2="7" stroke="#f00"/>
+	<path d="M2.5,6.5 h1.5 v-4 h1.5" stroke="#fff"/>
+	<line x1="6" y1="2" x2="6" y2="7" stroke="#0ff"/>
 </svg>
