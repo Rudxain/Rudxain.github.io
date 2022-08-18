@@ -1,3 +1,8 @@
+# Sites
+* [The Matrix Digital Rain but RGB](https://Rudxain.github.io/RGB-digital-rain). Source repo [here](https://github.com/Rudxain/RGB-digital-rain)
+* [Collatz finder](https://Rudxain.github.io/Collatz-finder). [src](https://github.com/Rudxain/Collatz-finder)
+* [Byte Anim](https://Rudxain.github.io/Byte-Anim). [src](https://github.com/Rudxain/Byte-Anim)
+
 # Accounts
 * Google/Gmail
 * Microsoft/Outlook
@@ -37,8 +42,3 @@
 * G+, because it died with the social media
 * Frikipedia, also because my account died with the website itself lol
 * Cartoon Network. I had many accounts because I was a kid and I always forgot my password, lol. I liked to play as a "toonix" and playing Flash games like the one inspired by "How To Train Your Dragon". I never deleted any of the accounts, but I added it to this list because I forgor 💀 the usernames too LMAO
-
-# Sites
-* [The Matrix Digital Rain but RGB](https://Rudxain.github.io/RGB-digital-rain). Source repo [here](https://github.com/Rudxain/RGB-digital-rain)
-* [Collatz finder](https://Rudxain.github.io/Collatz-finder). [src](https://github.com/Rudxain/Collatz-finder)
-* [Byte Anim](https://Rudxain.github.io/Byte-Anim). [src](https://github.com/Rudxain/Byte-Anim)
