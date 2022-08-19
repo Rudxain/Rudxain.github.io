@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg viewBox="0 0 9 9" style="background-color:#000" xmlns="http://www.w3.org/2000/svg">
-	<path d="M2.5,2 v5" stroke="#f00"/>
-	<path d="M3,6.5 h1.5 v-4 h1.5" stroke="#fff"/>
-	<path d="M6.5,2 v5" stroke="#0ff"/>
+	<rect width="9" height="9"/><!--BG-->
+	<path d="M2.5,2 v5" stroke="#f00"/><!--red bar-->
+	<path d="M3,6.5 h1.5 v-4 h1.5" stroke="#fff"/><!--white path-->
+	<path d="M6.5,2 v5" stroke="#0ff"/><!--cyan bar-->
 </svg>
