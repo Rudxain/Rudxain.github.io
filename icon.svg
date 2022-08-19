@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg viewBox="0 0 9 9" style="background-color:#000" xmlns="http://www.w3.org/2000/svg">
-	<rect x="2" y="2" width="1" height="5" fill="#f00"/>
-	<rect x="3" y="6" width="2" height="1" fill="#fff"/>
-	<rect x="4" y="2" width="1" height="5" fill="#fff"/>
-	<rect x="4" y="2" width="2" height="1" fill="#fff"/>
-	<rect x="6" y="2" width="1" height="5" fill="#0ff"/>
+	<path d="M2.5,2 v5" stroke="#f00"/>
+	<path d="M3,6.5 h1.5 v-4 h1.5" stroke="#fff"/>
+	<path d="M6.5,2 v5" stroke="#0ff"/>
 </svg>
