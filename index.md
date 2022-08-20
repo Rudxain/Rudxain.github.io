@@ -1,6 +1,6 @@
 # Sites
 * [The Matrix Digital Rain but RGB](https://Rudxain.github.io/RGB-digital-rain). Source repo [here](https://github.com/Rudxain/RGB-digital-rain)
-* [Collatz finder](https://Rudxain.github.io/Collatz-finder). [src](https://github.com/Rudxain/Collatz-finder)
+* [Collatz finder](https://Rudxain.github.io/Collatz-finder.js). [src](https://github.com/Rudxain/Collatz-finder.js)
 * [Byte Anim](https://Rudxain.github.io/Byte-Anim). [src](https://github.com/Rudxain/Byte-Anim)
 
 # Accounts
