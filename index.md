@@ -1,7 +1,8 @@
 # Sites
 * [The Matrix Digital Rain but RGB](https://Rudxain.github.io/RGB-digital-rain). Source repo [here](https://github.com/Rudxain/RGB-digital-rain)
-* [Collatz finder](https://Rudxain.github.io/Collatz-finder.js). [src](https://github.com/Rudxain/Collatz-finder.js)
+* [Random Creeper face generator](https://Rudxain.github.io/random-creeper-generator). [src](https://github.com/Rudxain/random-creeper-generator)
 * [Byte Anim](https://Rudxain.github.io/Byte-Anim). [src](https://github.com/Rudxain/Byte-Anim)
+* [Collatz finder](https://Rudxain.github.io/Collatz-finder.js). [src](https://github.com/Rudxain/Collatz-finder.js)
 
 # Accounts
 * Google/Gmail
