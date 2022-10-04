@@ -1,0 +1,10 @@
+root = true
+
+[*]
+charset = UTF-8
+end_of_line = lf
+indent_style = tab
+trim_trailing_whitespace = true
+
+[*.{yaml,yml}]
+indent_style = space
