@@ -36,6 +36,7 @@
 * [My Xbox LIVE](https://account.xbox.com/en-us/profile?gamertag=Rudxain) Gamertag is "Rudxain"
 * I have a Hangouts (and possibly Duo) account derived from my Gmail account
 * I have a Skype account derived from my MS Outlook account
+* [ECMAScript discourse groups](https://es.discourse.group/u/rudxain)
 
 ## Deleted accounts
 
