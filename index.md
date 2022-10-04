@@ -1,9 +1,13 @@
-# Sites
+# Rudxain @ GH Pages
+
+## Sites
+
 * [The Matrix Digital Rain but RGB](https://Rudxain.github.io/RGB-digital-rain). Source repo [here](https://github.com/Rudxain/RGB-digital-rain)
 * [Random Creeper face generator](https://Rudxain.github.io/random-creeper-generator). [src](https://github.com/Rudxain/random-creeper-generator)
 * [Byte Anim](https://Rudxain.github.io/Byte-Anim). [src](https://github.com/Rudxain/Byte-Anim)
 
-# Accounts
+## Accounts
+
 * Google/Gmail
 * Microsoft/Outlook
 * [YouTube channel](https://www.youtube.com/c/RFSGameplayer). My custom URL has "RFSGameplayer" because I changed it long ago when YT requisites were lower, now I can't update it to Rudxain lol. I didn't even upload "gameplays" or "let's plays", I just *planned* to do so.
@@ -23,7 +27,8 @@
 * My Supercell ID is "Rudxain", and my name in Brawl Stars is "Rudxain null", because apparently "Rudxain" is an *"invalid name"* but **"null" is perfectly valid** according to Supercell. I created my ID because I kinda like Brawl Stars, and I play it with my siblings. I sometimes played Clash of Clans in the past, but played as guest
 * [SayMine](https://saymine.com). I discovered this one thanks to ThioJoe. It's kinda useless for me because I almost never get any mail, lol
 
-## Sub-accounts
+### Sub-accounts
+
 * [Google/Android Developers Profile](https://g.dev/rudxain)
 * Google Learn Digital Garage
 * [G Crowdsource](https://crowdsource.google.com)
@@ -32,7 +37,8 @@
 * I have a Hangouts (and possibly Duo) account derived from my Gmail account
 * I have a Skype account derived from my MS Outlook account
 
-# Deleted accounts
+## Deleted accounts
+
 * Facebook. I had 2 usernames, 1 contained the word "dragon" (old) and the other was "rudxain" I guess. I only had 1 FB account, I never forgot the password lol
 * Instagram. I had many usernames because I **deleted it 3 or 4 times**
 * Twitter. It was boring
