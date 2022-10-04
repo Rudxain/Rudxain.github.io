@@ -39,7 +39,6 @@ My username literally means "red & cyan", which are the non-grayscale colors in 
 - [Wikipedia](https://en.wikipedia.org/wiki/User:Rudxain)
 - [GitHub repos](https://github.com/Rudxain?tab=repositories) & [Gists](https://gist.github.com/Rudxain)
 - [Soundcloud profile](https://soundcloud.com/Rudxain)
-- [Cymatics](https://cymatics.fm) (I don't know my "ID" because IIRC it depends on my Google account or email)
 - [Great Internet Mersenne Prime Search](https://www.mersenne.org) (my user ID is private, and AFAIK my profile has no URL). I used to grind CPUs with Prime95, hoping to get some money, or at least help humanity get better cryptographic security
 - [My Llamalab Automate](https://llamalab.com/automate/community/flows/42921) user ID is #34225, a [JSON containing IDs of all my flows](https://llamalab.com/automate/community/api/v1/users/34225/flows) is available. When I'm not coding JS or some shell lang, I use AM because it offers fast and easy access to Android system APIs. I usually don't automate stuff because I would rather do some stuff manually than to have a background process always consuming the little RAM my device has
 - Samsung (I just wanted themes for my Galaxy lol)
