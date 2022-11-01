@@ -1,18 +1,37 @@
 # Rudxain @ GH Pages
 
-My username literally means "red & cyan", which are the non-grayscale colors in my isotype (AKA "logo")
+My username literally means "red & cyan", which are the non-grayscale colors in my isotype (AKA "logo").
+
+I...
+- reply/react to posts regardless of their ⌛date (I'm "oldness-agnostic", lol). [I'm kind of a historian/paleontologist myself](https://pbs.twimg.com/media/FFcEIG5WQAgBo33.jpg) XD .
+- **❤LOVE** 🎵music mashups! If you've seen my YT and SC playlists, you'll know I'm **very** serious.
+- hate hypocrisy, even my own (if I ever become unintentionally hypocrite).
+- like learning, and am skeptical of myself. So I'll admit being wrong, if I recognize that I'm wrong, and I'll try my best to find flaws in my reasoning. I'll also thank anyone who corrects me (properly and respectfully).
+- am an atheist open to beliefs (as long as they're rational).
+- like Greek & Hinduism lore, despite not believing those.
+- have the creativity to think about new beliefs, like the "Universe = Dead Deity" hypothesis, and the hypothesis that "deities may exist but none created our universe".
+- am not agnostic, because I don't assume that deities are the only kind of transcendental thing that could exist.
+- think religion should be treated like art/entertainment, not a mindset, not a lifestyle.
+- am an 🍎Apple Boycotter. Even if I were rich, I **wouldn't buy a single product** from them, unless I'm *forced* to.
+- think abortion should be replaced by adoption. If you ban adoption, you can't ban abortion, otherwise you're a clown 🤡. "pro-life" usually means "pro-birth". The majority doesn't care about the baby's life, they just want it to be born, peak hypocrisy.
+- think humanity is not **mature** (lol) enough for abortion, because some people may abuse the law, and others will harass the people who don't abuse.
+- am anti-sexist. ♀️Feminism is just ♂️Machismo for girls. I agree that gender differences shouldn't be ignored, but that doesn't mean we should do unnecessary discrimination. There's good and bad discrimination, learn the difference, be wiser.
+- am anti-racist, but I like some racist jokes, even if it "offends my race".
+- am partially vegan, consuming animal-based products as least as possible.
+- **recycle almost anything**, as much as possible. However, that may be bad for my health, because I do it with water bottles, so I may be ingesting nano-plastics 😥. I hope grapheme becomes mainstream sooner.
+- love minimalism, hate redundancy (except when it's truly necessary)
 
 ## Sites
 
-* [The Matrix Digital Rain but RGB](https://Rudxain.github.io/RGB-digital-rain). Source repo [here](https://github.com/Rudxain/RGB-digital-rain)
-* [Random Creeper face generator](https://Rudxain.github.io/random-creeper-generator). [src](https://github.com/Rudxain/random-creeper-generator)
-* [Byte Anim](https://Rudxain.github.io/Byte-Anim). [src](https://github.com/Rudxain/Byte-Anim)
+- [The Matrix Digital Rain but RGB](https://Rudxain.github.io/RGB-digital-rain). Source repo [here](https://github.com/Rudxain/RGB-digital-rain)
+- [Random Creeper face generator](https://Rudxain.github.io/random-creeper-generator). [src](https://github.com/Rudxain/random-creeper-generator)
+- [Byte Anim](https://Rudxain.github.io/Byte-Anim). [src](https://github.com/Rudxain/Byte-Anim)
 
 ## Accounts
 
 * Google/Gmail
 * Microsoft/Outlook
-* [YouTube channel](https://www.youtube.com/c/RFSGameplayer). My custom URL has "RFSGameplayer" because I changed it long ago when YT requisites were lower, now I can't update it to Rudxain lol. I didn't even upload "gameplays" or "let's plays", I just *planned* to do so.
+* [YouTube channel](https://youtube.com/c/RFSGameplayer). My custom URL has "RFSGameplayer" because I changed it long ago when YT requisites were lower, now I can't update it to Rudxain lol. I didn't even upload "gameplays" or "let's plays", I just *planned* to do so.
 * I have WhatsApp, but I don't want my personal phone number to be public. I'm considering switching to Telegram
 * [Newgrounds user page](https://Rudxain.newgrounds.com)
 * [Wikipedia](https://en.wikipedia.org/wiki/User:Rudxain)
