@@ -4,232 +4,114 @@
 
 	body {
 		background-color: #fff;
-		color: #595959;
+		color: #555;
 	}
 
 	h1,
+	strong,
+	header ul a strong {color: #222}
+
 	h2,
-	h3,
-	h4,
-	h5,
-	h6 {
-		color: #222
-	}
-
-	h2 {
-		color: #393939
-	}
-
-	h3,
-	h4,
-	h5,
-	h6 {
-		color: #494949
-	}
-
-	a {
-		color: #39c
-	}
-
-	a:hover {
-		color: #069
-	}
-
-	a small {
-		color: #777
-	}
-
-	a:hover small {
-		color: #777
-	}
-
-	blockquote {
-		border-left: 1px solid #e5e5e5;
-	}
-
 	code,
-	pre {
-		color: #333
-	}
+	pre {color: #333}
+
+	h3,
+	h4,
+	h5,
+	h6,
+	dt,
+	th {color: #444}
+
+	a {color: #0cc}
+	a:hover {color: #0ff}
+	a small,
+	a:hover small {color: #777}
+
+	blockquote {border-left: 1px solid #eee}
 
 	pre {
-		background: #f8f8f8;
-		border: 1px solid #e5e5e5;
+		background: #fff;
+		border: 1px solid #eee;
 	}
 
 	th,
 	td {
-		border-bottom: 1px solid #e5e5e5;
-	}
-
-	dt {
-		color: #444
-	}
-
-	th {
-		color: #444
+		border-bottom: 1px solid #eee;
 	}
 
 	header ul {
-		background: #f4f4f4;
-		border: 1px solid #e0e0e0;
+		background: #eee;
+		border: 1px solid #eee;
 	}
 
-	header li {
-		border-right: 1px solid #e0e0e0;
-	}
+	header li {border-right: 1px solid #eee}
 
-	header ul a {
-		color: #999;
-	}
+	header ul a,
+	header ul a:hover {color: #999}
+	header ul a:active {background-color: #eee}
 
-	header ul a:hover {
-		color: #999;
-	}
-
-	header ul a:active {
-		background-color: #f0f0f0;
-	}
-
-	strong {
-		color: #222;
-	}
-
-	header ul a strong {
-		color: #222;
-	}
-
-	hr {
-		background: #e5e5e5;
-	}
+	hr {background: #eee}
 
 	@media print,
-	screen and (max-width: 960px) {
-		section {
-			border: 1px solid #e5e5e5;
-		}
-	}
+	screen and (max-width: 960px) {section {border: 1px solid #eee}}
 
-	@media print {
-		body {
-			color: #444;
-		}
-	}
+	@media print {body {color: #444}}
 }
 
 @media (prefers-color-scheme: dark) {
 
 	body {
 		background-color: #000;
-		color: #a6a6a6;
+		color: #aaa;
 	}
 
 	h1,
+	strong,
+	header ul a strong {color: #ddd}
+
 	h2,
-	h3,
-	h4,
-	h5,
-	h6 {
-		color: #ddd
-	}
-
-	h2 {
-		color: #c6c6c6
-	}
-
-	h3,
-	h4,
-	h5,
-	h6 {
-		color: #b6b6b6
-	}
-
-	a {
-		color: #f82
-	}
-
-	a:hover {
-		color: #b50
-	}
-
-	a small {
-		color: #888
-	}
-
-	a:hover small {
-		color: #888
-	}
-
-	blockquote {
-		border-left: 1px solid #1a1a1a;
-	}
-
 	code,
-	pre {
-		color: #ccc
-	}
+	pre {color: #ccc}
+
+	h3,
+	h4,
+	h5,
+	h6,
+	dt,
+	th {color: #bbb}
+
+	a {color: #c00}
+	a:hover {color: #f00}
+	a small,
+	a:hover small {color: #888}
+
+	blockquote {border-left: 1px solid #111}
 
 	pre {
-		background: #070707;
-		border: 1px solid #1a1a1a;
+		background: #000;
+		border: 1px solid #111;
 	}
 
 	th,
 	td {
-		border-bottom: 1px solid #1a1a1a;
-	}
-
-	dt {
-		color: #bbb
-	}
-
-	th {
-		color: #bbb
+		border-bottom: 1px solid #111;
 	}
 
 	header ul {
-		background: #0b0b0b;
-		border: 1px solid #1f1f1f;
+		background: #111;
+		border: 1px solid #111;
 	}
 
-	header li {
-		border-right: 1px solid #1f1f1f;
-	}
+	header li {border-right: 1px solid #111}
 
-	header ul a {
-		color: #666;
-	}
+	header ul a,
+	header ul a:hover {color: #666}
+	header ul a:active {background-color: #111}
 
-	header ul a:hover {
-		color: #666;
-	}
-
-	header ul a:active {
-		background-color: #0f0f0f;
-	}
-
-	strong {
-		color: #ddd;
-	}
-
-	header ul a strong {
-		color: #ddd;
-	}
-
-	hr {
-		background: #1a1a1a;
-	}
+	hr {background: #111}
 
 	@media print,
-	screen and (max-width: 960px) {
-		section {
-			border: 1px solid #1a1a1a;
-		}
-	}
+	screen and (max-width: 960px) {section {border: 1px solid #111}}
 
-	@media print {
-		body {
-			color: #bbb;
-		}
-	}
+	@media print {body {color: #bbb}}
 }
