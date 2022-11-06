@@ -15,12 +15,12 @@ I...
 - think religion should be treated like art/entertainment, not a mindset, not a lifestyle.
 - am an 🍎Apple Boycotter. Even if I were rich, I **wouldn't buy a single product** from them, unless I'm *forced* to.
 - think abortion should be replaced by adoption. If you ban adoption, you can't ban abortion, otherwise you're a clown 🤡. "pro-life" usually means "pro-birth". The majority doesn't care about the baby's life, they just want it to be born, peak hypocrisy.
-- think humanity is not **mature** (lol) enough for abortion, because some people may abuse the law, and others will harass the people who don't abuse.
 - am anti-sexist. ♀️Feminism is just ♂️Machismo for girls. I agree that gender differences shouldn't be ignored, but that doesn't mean we should do unnecessary discrimination. There's good and bad discrimination, learn the difference, be wiser.
 - am anti-racist, but I like some racist jokes, even if it "offends my race".
 - am partially vegan, consuming animal-based products as least as possible.
 - **recycle almost anything**, as much as possible. However, that may be bad for my health, because I do it with water bottles, so I may be ingesting nano-plastics 😥. I hope grapheme becomes mainstream sooner.
 - love minimalism, hate redundancy (except when it's truly necessary)
+- want my body to contribute to the ecosystem. So when I die, I don't want to be buried in a coffin, let my body serve as nutritious material for plants!
 
 ## Sites
 
