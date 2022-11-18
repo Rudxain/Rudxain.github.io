@@ -2,7 +2,7 @@
 
 My username literally means "red & cyan", which are the non-grayscale colors in my isotype (AKA "logo").
 
-I...
+## I...
 
 - reply/react to posts regardless of their ⌛date (I'm "oldness-agnostic", lol). [I'm kind of a historian/paleontologist myself](https://pbs.twimg.com/media/FFcEIG5WQAgBo33.jpg) XD .
 - **❤LOVE** 🎵music mashups! If you've seen my YT and SC playlists, you'll know I'm **very** serious.
