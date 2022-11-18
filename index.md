@@ -21,6 +21,8 @@ I...
 - **recycle almost anything**, as much as possible. However, that may be bad for my health, because I do it with water bottles, so I may be ingesting nano-plastics 😥. I hope grapheme becomes mainstream sooner.
 - love minimalism, hate redundancy (except when it's truly necessary)
 - want my body to contribute to the ecosystem. So when I die, I don't want to be buried in a coffin, let my body serve as nutritious material for plants!
+- sleep without pillow
+- don't care too much about my birthday (or most "special" dates, for that matter). "Time is relative"
 
 ## Sites
 
