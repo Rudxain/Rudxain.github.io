@@ -4,26 +4,25 @@ My username literally means "red & cyan", which are the non-grayscale colors in 
 
 ## I...
 
+- sleep without pillow... yeah, it's more comfortable.
 - reply/react to posts regardless of their ⌛date (I'm "ancient-agnostic", lol). [I'm kind of a historian/paleontologist myself](https://pbs.twimg.com/media/FFcEIG5WQAgBo33.jpg) XD .
 - **❤LOVE** 🎵music mashups! If you've seen my YT and SC playlists, you'll know I'm **very** serious.
 - hate hypocrisy, even my own (if I ever become unintentionally hypocrite).
-- like learning, and am skeptical of myself. So I'll admit being wrong, if I recognize that I'm wrong, and I'll try my best to find flaws in my reasoning. I'll also thank anyone who corrects me (properly and respectfully).
+- like learning, and am skeptical of **myself**. So I'll admit being wrong, if I recognize that I'm wrong, and I'll try my best to find flaws in my reasoning. I'll also thank anyone who corrects me (properly and respectfully). Fake skeptics are *not skeptical of themselves*, they won't accept constructive criticism from anyone.
 - am an atheist open to beliefs (as long as they're rational).
-- am skeptic, that is, I'm skeptic of **myself**, other people, and the environment. Fake skeptics are *not skeptical of themselves*, they won't accept constructive criticism from anyone.
-- like Greek & Hinduism lore, despite not believing those.
+- like mythology (and religious lore) in general, despite not believing it.
 - have the creativity to think about new beliefs, like the "Universe = Dead Deity" hypothesis, and the hypothesis that "deities may exist but none created our universe".
 - am not agnostic, because I don't assume that deities are the only kind of transcendental thing that could exist.
 - think religion should be treated like art/entertainment, not a mindset, not a lifestyle.
 - am an 🍎Apple Boycotter. Even if I were rich, I **wouldn't buy a single product** from them, unless I'm *forced* to.
 - think abortion should be replaced by adoption. If you ban adoption, you can't ban abortion, otherwise you're a clown 🤡. "pro-life" usually means "pro-birth". The majority doesn't care about the baby's life, they just want it to be born, peak hypocrisy. [Related](https://amptoons.com/blog/?p=13565).
-- am anti-sexist. ♀️Feminism is just ♂️Machismo for girls. I agree that gender differences shouldn't be ignored, but that doesn't mean we should do unnecessary discrimination. There's good and bad discrimination, learn the difference, be wiser.
+- am anti-sexist. ♀️Feminism is just ♂️Machismo for females. Gender differences shouldn't be ignored, but that doesn't mean we should do unjustified discrimination. There's good (justifiable) and bad (irrational) discrimination, learn the difference, be wiser.
 - am anti-racist, but I like some racist jokes, even if it "offends my race".
 - am partially vegan, consuming animal-based products as least as possible.
 - **recycle almost anything**, as much as possible. However, that may be bad for my health, because I do it with water bottles, so I may be ingesting nano-plastics 😥. I hope graphene becomes mainstream sooner.
 - love minimalism, hate redundancy (except when it's truly necessary)
 - want euthanasia. If my body no longer works "good enough", just end my life peacefully.
 - want my body to contribute to the ecosystem. So when I die, I don't want to be buried in a coffin, let my body serve as nutritious material for plants!
-- sleep without pillow... yeah, it's more comfortable
 - don't care too much about my birthday (or most "special" dates, for that matter). "Time is relative"
 
 ## Sites
