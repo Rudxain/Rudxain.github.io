@@ -9,7 +9,7 @@ My username literally means "red & cyan", which are the non-grayscale colors in 
 - **❤LOVE** 🎵music mashups! If you've seen my YT and SC playlists, you'll know I'm **very** serious.
 - hate hypocrisy, even my own (if I ever become unintentionally hypocrite).
 - like learning, and am skeptical of **myself**. So I'll admit being wrong, if I recognize that I'm wrong, and I'll try my best to find flaws in my reasoning. I'll also thank anyone who corrects me (properly and respectfully). Pseudo-skeptics are *not skeptical of themselves*, they won't accept constructive criticism from anyone.
-- am an atheist open to beliefs (as long as they're rational).
+- am an atheist open to beliefs (as long as they're rational). [More info](https://reddit.com/r/atheism/wiki/faq).
 - like mythology (and religious lore) in general, despite not believing it.
 - have the creativity to think about new beliefs, like the "Universe = Dead Deity" hypothesis, and the hypothesis that "deities may exist but none created our universe".
 - am not agnostic, because I don't assume that deities are the only kind of transcendental thing that could exist, and I don't assume that transcendental stuff exists. Supernatural stuff can't exist, because it's "unnatural and natural" by definition, making it a contradiction. Transcendental stuff isn't bound by the laws of nature, and therefore, its unfalsifiable potential existence isn't contradictory.
