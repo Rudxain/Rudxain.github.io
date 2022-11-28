@@ -4,7 +4,7 @@ My username literally means "red & cyan", which are the non-grayscale colors in 
 
 ## I...
 
-- sleep without pillow... yeah, it's more comfortable
+- sleep without pillow... yeah, it's more comfortable.
 - reply/react to posts regardless of their ⌛date (I'm "ancient-agnostic", lol). [I'm kind of a historian/paleontologist myself](https://pbs.twimg.com/media/FFcEIG5WQAgBo33.jpg) XD .
 - **❤LOVE** 🎵music mashups! If you've seen my YT and SC playlists, you'll know I'm **very** serious.
 - hate hypocrisy, even my own (if I ever become unintentionally hypocrite).
