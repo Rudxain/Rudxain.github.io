@@ -50,7 +50,6 @@ My username literally means "red & cyan", which are the non-grayscale colors in 
 - My Boomlings/RobTop-Games username is "Rudxain" (it was "RFS", before I changed it, now [someone else](https://gdbrowser.com/u/RFS) has that name). [My Geometry Dash profile](https://gdbrowser.com/u/Rudxain). I didn't had the chance to play Boomlings, but I knew about the game before RobTop removed it from G Play Store, all thanks to GD.
 - [osu! (RFS_Osu)](https://osu.ppy.sh/users/9905562). I guess you'll start seeing a pattern here, I **LOVE** music/rhythm games. 1 of my faves isn't mentioned on this list [(Music Racer)](https://play.google.com/store/apps/details?id=com.abstractart.music_racer), but I stopped playing it
 - My Supercell ID is "Rudxain", and my name in Brawl Stars is "Rudxain null", because apparently "Rudxain" is an *"invalid name"* but **"null" is perfectly valid** according to Supercell. I created my ID because I kinda like Brawl Stars, and I play it with my siblings. I sometimes played Clash of Clans in the past, but played as guest
-- [SayMine](https://saymine.com). I discovered this one thanks to ThioJoe. It's kinda useless for me because I almost never get any mail, lol
 
 ### Sub-accounts
 
@@ -75,3 +74,4 @@ My username literally means "red & cyan", which are the non-grayscale colors in 
 - G+, because it died with the social media
 - Frikipedia, also because my account died with the website itself lol
 - Cartoon Network. I had many accounts because I was a kid and I always forgot my password, lol. I liked to play as a "toonix" and playing Flash games like the one inspired by "How To Train Your Dragon". I never deleted any of the accounts, but I added it to this list because I forgor 💀 the usernames too LMAO
+- [SayMine](https://saymine.com). I discovered this one thanks to ThioJoe. It's kinda useless for me because I almost never get any mail, lol
