@@ -12,7 +12,7 @@ My username literally means "red & cyan", which are the non-grayscale colors in 
 - am an atheist open to beliefs (as long as they're rational).
 - like mythology (and religious lore) in general, despite not believing it.
 - have the creativity to think about new beliefs, like the "Universe = Dead Deity" hypothesis, and the hypothesis that "deities may exist but none created our universe".
-- am not agnostic, because I don't assume that deities are the only kind of transcendental thing that could exist.
+- am not agnostic, because I don't assume that deities are the only kind of transcendental thing that could exist, and I don't assume that transcendental stuff exists. Supernatural stuff can't exist, because it's "unnatural and natural" by definition, making it a contradiction. Transcendental stuff isn't bound by the laws of nature, and therefore, its unfalsifiable potential existence isn't contradictory.
 - think religion should be treated like art/entertainment, not a mindset, not a lifestyle.
 - am an 🍎Apple Boycotter. Even if I were rich, I **wouldn't buy a single product** from them, unless I'm *forced* to.
 - think abortion should be replaced by adoption. If you ban adoption, you can't ban abortion, otherwise you're a clown 🤡. "pro-life" usually means "pro-birth". The majority doesn't care about the baby's life, they just want it to be born, peak hypocrisy. [Related](https://amptoons.com/blog/?p=13565).
