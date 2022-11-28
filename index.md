@@ -4,11 +4,12 @@ My username literally means "red & cyan", which are the non-grayscale colors in 
 
 ## I...
 
-- reply/react to posts regardless of their ⌛date (I'm "oldness-agnostic", lol). [I'm kind of a historian/paleontologist myself](https://pbs.twimg.com/media/FFcEIG5WQAgBo33.jpg) XD .
+- reply/react to posts regardless of their ⌛date (I'm "ancient-agnostic", lol). [I'm kind of a historian/paleontologist myself](https://pbs.twimg.com/media/FFcEIG5WQAgBo33.jpg) XD .
 - **❤LOVE** 🎵music mashups! If you've seen my YT and SC playlists, you'll know I'm **very** serious.
 - hate hypocrisy, even my own (if I ever become unintentionally hypocrite).
 - like learning, and am skeptical of myself. So I'll admit being wrong, if I recognize that I'm wrong, and I'll try my best to find flaws in my reasoning. I'll also thank anyone who corrects me (properly and respectfully).
 - am an atheist open to beliefs (as long as they're rational).
+- am skeptic, that is, I'm skeptic of **myself**, other people, and the environment. Fake skeptics are *not skeptical of themselves*, they won't accept constructive criticism from anyone.
 - like Greek & Hinduism lore, despite not believing those.
 - have the creativity to think about new beliefs, like the "Universe = Dead Deity" hypothesis, and the hypothesis that "deities may exist but none created our universe".
 - am not agnostic, because I don't assume that deities are the only kind of transcendental thing that could exist.
