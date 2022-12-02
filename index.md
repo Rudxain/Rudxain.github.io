@@ -41,6 +41,9 @@ My username literally means "red & cyan", which are the non-grayscale colors in 
 - [Newgrounds user page](https://Rudxain.newgrounds.com)
 - [Wikipedia](https://en.wikipedia.org/wiki/User:Rudxain)
 - [GitHub repos](https://github.com/Rudxain?tab=repositories) & [Gists](https://gist.github.com/Rudxain)
+- [Crates.io](https://crates.io/users/Rudxain)
+- [Rust user forum](https://users.rust-lang.org/u/rudxain) & [Rust internals forum](https://internals.rust-lang.org/u/rudxain)
+- [ECMAScript discourse groups](https://es.discourse.group/u/rudxain)
 - [Soundcloud profile](https://soundcloud.com/Rudxain)
 - [Great Internet Mersenne Prime Search](https://www.mersenne.org) (my user ID is private, and AFAIK my profile has no URL). I used to grind CPUs with Prime95, hoping to get some money, or at least help humanity get better cryptographic security
 - [My Llamalab Automate](https://llamalab.com/automate/community/flows/42921) user ID is #34225, a [JSON containing IDs of all my flows](https://llamalab.com/automate/community/api/v1/users/34225/flows) is available. When I'm not coding JS or some shell lang, I use AM because it offers fast and easy access to Android system APIs. I usually don't automate stuff because I would rather do some stuff manually than to have a background process always consuming the little RAM my device has
@@ -50,7 +53,6 @@ My username literally means "red & cyan", which are the non-grayscale colors in 
 - My Boomlings/RobTop-Games username is "Rudxain" (it was "RFS", before I changed it, now [someone else](https://gdbrowser.com/u/RFS) has that name). [My Geometry Dash profile](https://gdbrowser.com/u/Rudxain). I didn't had the chance to play Boomlings, but I knew about the game before RobTop removed it from G Play Store, all thanks to GD.
 - [osu! (RFS_Osu)](https://osu.ppy.sh/users/9905562). I guess you'll start seeing a pattern here, I **LOVE** music/rhythm games. 1 of my faves isn't mentioned on this list [(Music Racer)](https://play.google.com/store/apps/details?id=com.abstractart.music_racer), but I stopped playing it
 - My Supercell ID is "Rudxain", and my name in Brawl Stars is "Rudxain null", because apparently "Rudxain" is an *"invalid name"* but **"null" is perfectly valid** according to Supercell. I created my ID because I kinda like Brawl Stars, and I play it with my siblings. I sometimes played Clash of Clans in the past, but played as guest
-- [ECMAScript discourse groups](https://es.discourse.group/u/rudxain)
 
 ### Sub-accounts
 
