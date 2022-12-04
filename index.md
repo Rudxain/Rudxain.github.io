@@ -58,10 +58,11 @@ My username literally means "red & cyan", which are the non-grayscale colors in 
 
 - [Google/Android Developers Profile](https://g.dev/rudxain)
 - Google Learn Digital Garage
+- Microsoft Learn
 - [G Crowdsource](https://crowdsource.google.com)
 - My G Play Games Gamer ID is "rudxain"
 - [My Xbox LIVE](https://account.xbox.com/en-us/profile?gamertag=Rudxain) Gamertag is "Rudxain"
-- I have a Hangouts (and possibly Duo) account derived from my Gmail account
+- I have Hangouts and Duo accounts derived from my Gmail account
 - I have a Skype account derived from my MS Outlook account
 
 ## Deleted accounts
