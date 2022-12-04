@@ -58,7 +58,7 @@ My username literally means "red & cyan", which are the non-grayscale colors in 
 
 - [Google/Android Developers Profile](https://g.dev/rudxain)
 - Google Learn Digital Garage
-- [Microsoft Learn](https://learn.microsoft.com/en-us/users/ricardofernndezserrata-0525)
+- [Microsoft Learn](https://learn.microsoft.com/en-us/users/Rudxain)
 - [G Crowdsource](https://crowdsource.google.com)
 - My G Play Games Gamer ID is "rudxain"
 - [My Xbox LIVE](https://account.xbox.com/en-us/profile?gamertag=Rudxain) Gamertag is "Rudxain"
