@@ -38,7 +38,7 @@ My username literally means "red & cyan", which are the non-grayscale colors in 
 
 - Google/Gmail
 - Microsoft/Outlook
-- [YouTube channel](https://youtube.com/c/RFSGameplayer). My custom URL has "RFSGameplayer" because I changed it long ago when YT requisites were lower, now I can't update it to Rudxain lol. I didn't even upload "gameplays" or "let's plays", I just *planned* to do so.
+- [YouTube channel](https://youtube.com/@Rudxain). [My custom URL](https://youtube.com/c/RFSGameplayer) has "RFSGameplayer" because I changed it long ago when YT requisites were lower, now I can't update it to Rudxain, lol (but I have it as a handle now!). I didn't even upload "gameplays" or "let's plays", I just *planned* to do so.
 - I have WhatsApp, but I don't want my personal phone number to be public. I'm considering switching to Telegram
 - [Newgrounds user page](https://Rudxain.newgrounds.com)
 - [Wikipedia](https://en.wikipedia.org/wiki/User:Rudxain)
