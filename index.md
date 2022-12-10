@@ -48,7 +48,7 @@ My username literally means "red & cyan", which are the non-grayscale colors in 
 - [ECMAScript discourse groups](https://es.discourse.group/u/rudxain)
 - [Soundcloud profile](https://soundcloud.com/Rudxain)
 - [Great Internet Mersenne Prime Search](https://www.mersenne.org) (my user ID is private, and AFAIK my profile has no URL). I used to grind CPUs with Prime95, hoping to get some money, or at least help humanity get better cryptographic security
-- [My Llamalab Automate](https://llamalab.com/automate/community/flows/42921) user ID is #34225, a [JSON containing IDs of all my flows](https://llamalab.com/automate/community/api/v1/users/34225/flows) is available. When I'm not coding JS or some shell lang, I use AM because it offers fast and easy access to Android system APIs. I usually don't automate stuff because I would rather do some stuff manually than to have a background process always consuming the little RAM my device has
+- [My Llamalab Automate](https://llamalab.com/automate/community/flows/42921) user ID is #34225, a [JSON containing IDs of all my flows](https://llamalab.com/automate/community/api/v1/users/34225/flows) is available
 - Samsung (I just wanted themes for my Galaxy lol)
 - [Roblox profile (RFS_Roblox)](https://www.roblox.com/users/323158352/profile). I only played with my siblings, and I created my account before inventing the "Rudxain" username/alias.
 - [TotalJerkFace/FancyForce profile (RFSwerewolf)](https://totaljerkface.com/profile.tjf?uid=6050400). I played Happy Wheels a lot back in the day. My username was inspired by "The Werehog" from the game Sonic Unleashed (very underrated Sega game)
