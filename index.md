@@ -6,7 +6,9 @@ My username literally means "red & cyan", which are the non-grayscale colors in 
 
 - am comfortable with any pronouns, but I may laugh if you call me a "she"
 - am a software developer (if it wasn't obvious already)
-- sleep without pillow... yeah, it's more comfortable.
+- speak Español and English. I wish I learned an international [conlang](https://en.wikipedia.org/wiki/Constructed_language)
+- don't like pillows
+- am single, and waiting to meet someone that would change that state
 - reply/react to posts regardless of their ⌛date (I'm "ancient-agnostic", lol). [I'm kind of a historian/paleontologist myself](https://pbs.twimg.com/media/FFcEIG5WQAgBo33.jpg) XD .
 - **❤LOVE** 🎵music mashups! If you've seen my YT and SC playlists, you'll know I'm **very** serious.
 - hate hypocrisy, even my own (if I ever become unintentionally hypocrite).
