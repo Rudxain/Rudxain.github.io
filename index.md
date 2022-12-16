@@ -64,8 +64,8 @@ My username literally means "red & cyan", which are the non-grayscale colors in 
 - Google Learn Digital Garage
 - [Microsoft Learn profile](https://learn.microsoft.com/en-us/users/Rudxain)
 - [G Crowdsource](https://crowdsource.google.com)
-- My G Play Games Gamer ID is "rudxain"
-- [Xbox LIVE profile](https://account.xbox.com/en-us/profile?gamertag=Rudxain) Gamertag is "Rudxain"
+- My G Play Games "Gamer-ID" is "rudxain"
+- [Xbox LIVE profile](https://account.xbox.com/en-us/profile?gamertag=Rudxain)
 - I have Hangouts and Duo accounts derived from my Gmail account
 - I have a Skype account derived from my MS Outlook account
 
@@ -78,7 +78,7 @@ My username literally means "red & cyan", which are the non-grayscale colors in 
 - Desmos. Saving projects on the cloud is useful, but I realized I don't need it
 - Adobe. They're like Apple, but worse
 - Newgrounds. Username: RFS-Gamer.
-- G+, because it died with the social media
+- Google+, because it died with the social media
 - Frikipedia, also because my account died with the website itself lol
 - Cartoon Network. I had many accounts because I was a kid and I always forgot my password, lol. I liked to play as a "toonix" and playing Flash games like the one inspired by "How To Train Your Dragon". I never deleted any of the accounts, but I added it to this list because I forgor 💀 the usernames too LMAO
 - [SayMine](https://saymine.com). I discovered this one thanks to ThioJoe. It's useless for me, because I almost never get any mail, lol
