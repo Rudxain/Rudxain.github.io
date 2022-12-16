@@ -10,7 +10,6 @@ My username literally means "red & cyan", which are the non-grayscale colors in 
 - don't like pillows
 - am single, and waiting to meet someone that would change that state
 - reply/react to posts regardless of their ⌛date (I'm "ancient-agnostic", lol). [I'm kind of a historian/paleontologist myself](https://pbs.twimg.com/media/FFcEIG5WQAgBo33.jpg) XD .
-- **❤LOVE** 🎵music mashups! If you've seen my YT and SC playlists, you'll know I'm **very** serious.
 - hate hypocrisy, even my own (if I ever become unintentionally hypocrite).
 - like learning, and am skeptical of **myself**. So I'll admit being wrong, if I recognize that I'm wrong, and I'll try my best to find flaws in my reasoning. I'll also thank anyone who corrects me (properly and respectfully). Pseudo-skeptics are *not skeptical of themselves*, they won't accept constructive criticism from anyone.
 - am an atheist open to beliefs (as long as they're rational). [More info](https://reddit.com/r/atheism/wiki/faq).
