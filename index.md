@@ -8,7 +8,7 @@ The pronunciation is up to interpretation. It usually sounds similar to "Roxanne
 ## I...
 
 - am comfortable with any pronouns, but I may laugh if you call me a "she"
-- am a software developer (if it wasn't obvious already)
+- am partially autistic
 - speak Español and English. I wish I learned an international [conlang](https://en.wikipedia.org/wiki/Constructed_language)
 - don't like pillows
 - am single, and waiting to meet someone that would change that state
@@ -29,6 +29,7 @@ The pronunciation is up to interpretation. It usually sounds similar to "Roxanne
 - am partially vegan, consuming animal-based products as least as possible.
 - **recycle almost anything**, as much as possible. However, that may be bad for my health, because I do it with water bottles, so I may be ingesting nano-plastics 😥. I hope [graphene](https://en.wikipedia.org/wiki/Graphene) becomes mainstream sooner.
 - love minimalism, hate redundancy (except when it's truly necessary)
+- am kinda interested in psychology and philosophy
 - want euthanasia. If my body no longer works "good enough", just end my life peacefully.
 - want my body to contribute to the ecosystem. So when I die, I don't want to be buried in a coffin, let my body serve as nutritious material for plants!
 - don't care too much about my birthday (or most "special" dates, for that matter). "Time is relative"
