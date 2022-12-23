@@ -4,6 +4,7 @@ These aren't my actual bookmarks/favorites. This list only contains URLs that I 
 
 ## Documentation
 
+- [Web-Safe Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals#web_safe_fonts)
 - [List of built-in CLI utilities in Android (all versions)](https://chromium.googlesource.com/aosp/platform/system/core/+/refs/heads/upstream/shell_and_utilities). This is like ["Can I Use"](https://caniuse.com), but for Android shell scripts
 - [MKSH manual](http://www.mirbsd.org/htman/i386/man1/mksh.htm). These docs are so obscure, that they're hard to find on any search engine
 - [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://www.jagregory.com/abrash-black-book). bit-hacks lol
