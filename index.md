@@ -65,7 +65,7 @@ The pronunciation is up to interpretation. It usually sounds similar to "Roxanne
 
 - [YouTube channel](https://youtube.com/@Rudxain). [My custom URL](https://youtube.com/c/RFSGameplayer) has "RFSGameplayer" because I changed it long ago when YT requisites were lower, now I can't update it to Rudxain, lol (but I have it as a handle now!). I didn't even upload "gameplays" or "let's plays", I just *planned* to do so
 - [Google/Android Developers Profile](https://g.dev/rudxain)
-- Google Learn Digital Garage
+- [G Learn Digital](https://learndigital.withgoogle.com)
 - [Microsoft Learn profile](https://learn.microsoft.com/en-us/users/Rudxain)
 - [G Crowdsource](https://crowdsource.google.com)
 - My G Play Games "Gamer-ID" is "rudxain"
