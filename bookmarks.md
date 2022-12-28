@@ -15,6 +15,8 @@ This list only contains URLs that I haven't linked anywhere else
 
 - [OVC](https://onlinevideoconverter.com). [YTDL](https://github.com/ytdl-org/youtube-dl) is better, but OVC can slice/crop at timestamps
 - [Wayback Machine](https://archive.org/web) (web archives)
+- [WolframAlpha](https://www.wolframalpha.com)
+- [Desmos Graphing Calculator (plotter)](https://www.desmos.com/calculator)
 - [Szynalski tone generator](https://www.szynalski.com/tone-generator)
 
 ### Screen/Display tests
