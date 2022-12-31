@@ -51,8 +51,14 @@ This list only contains URLs that I haven't linked anywhere else
 - ["Doodle: Go home after practice~ 🎸"](https://twitter.com/ttguweiz/status/789792797041635328) (alt="'anime' girl with guitar-case walking on the street in a rainy day"). My favorite wallpaper!
 - [sunset in a cloudy city](https://pixiv.net/en/artworks/53727984). My 2nd fave
 - [minimalist Material-Design plane on cyan background](https://pinterest.com/pin/652670170976893995). I wish I had an SVG version of this
+- [minimalist Material-Design blue lines/ribbons](https://w0.peakpx.com/wallpaper/375/980/HD-wallpaper-tariq-collection-abstract-black-blue-design-material-pattern-premium-theme-white.jpg)
 - [minimalist Tron: Legacy digital bike](https://wallpapercave.com/wp/wp4939898.jpg)
 - [cat scribbles on lined paper](https://i.imgur.com/LiaZKxX.jpg). Very creative use of lines!
 - [same cat as above, but sliced by the lines (mild gore)](https://i.imgur.com/V3AZ5S0.jpeg)
+- [Binary stars and planet](https://assets.gtgraphics.de/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjRGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1bc77e38e87ba735172121ab42d608807113f377/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--7169841a733ae5073a9c105751b6e0a10336b854/duality.jpg)
+- [Planet Rings](https://w0.peakpx.com/wallpaper/294/109/HD-wallpaper-space-abstract-galaxy.jpg)
 - [black-hole/quasar sucking a star](https://deviantart.com/andrewvideos510art/art/Blaze-To-Galaxy-828750511)
+- [Galaxy paint](https://w0.peakpx.com/wallpaper/797/22/HD-wallpaper-outer-space-3d-art-galaxy-planets-sky.jpg)
+- [Sombrero galaxy](https://r4.wallpaperflare.com/wallpaper/305/448/985/galaxy-stars-sombrero-galaxy-hd-wallpaper-d940583d817a7d0b362788df402116ed.jpg)
+- [🦢swan in the ocean sunset](https://pinterest.com/pin/swan-digital-art-4k-background--688558230527276725)
 - [article/gallery about Adin Campbell](https://designyoutrust.com/2020/04/these-surreal-landscapes-look-like-they-are-from-another-planet). My fave is the 1st sunset
