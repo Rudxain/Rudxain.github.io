@@ -54,3 +54,4 @@ This list only contains URLs that I haven't linked anywhere else
 - [minimalist Tron: Legacy digital bike](https://wallpapercave.com/wp/wp4939898.jpg)
 - [cat scribbles on lined paper](https://i.imgur.com/LiaZKxX.jpg). Very creative use of lines!
 - [same cat as above, but sliced by the lines (mild gore)](https://i.imgur.com/V3AZ5S0.jpeg)
+- [black-hole/quasar sucking a star](https://deviantart.com/andrewvideos510art/art/Blaze-To-Galaxy-828750511)
