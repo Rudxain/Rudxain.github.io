@@ -49,6 +49,7 @@ This list only contains URLs that I haven't linked anywhere else
 ## Image
 
 - ["Doodle: Go home after practice~ 🎸"](https://twitter.com/ttguweiz/status/789792797041635328) (alt="'anime' girl with guitar-case walking on the street in a rainy day"). My favorite wallpaper!
+- [sunset in a cloudy city](https://pixiv.net/en/artworks/53727984). My 2nd fave
 - [minimalist Material-Design plane on cyan background](https://pinterest.com/pin/652670170976893995). I wish I had an SVG version of this
 - [minimalist Tron: Legacy digital bike](https://wallpapercave.com/wp/wp4939898.jpg)
 - [cat scribbles on lined paper](https://i.imgur.com/LiaZKxX.jpg). Very creative use of lines!
