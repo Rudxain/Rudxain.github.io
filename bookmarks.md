@@ -55,4 +55,5 @@ This list only contains URLs that I haven't linked anywhere else
 - [cat scribbles on lined paper](https://i.imgur.com/LiaZKxX.jpg). Very creative use of lines!
 - [same cat as above, but sliced by the lines (mild gore)](https://i.imgur.com/V3AZ5S0.jpeg)
 - [black-hole/quasar sucking a star](https://deviantart.com/andrewvideos510art/art/Blaze-To-Galaxy-828750511)
+- [🦢swan in the ocean sunset](https://pinterest.com/pin/swan-digital-art-4k-background--688558230527276725)
 - [article/gallery about Adin Campbell](https://designyoutrust.com/2020/04/these-surreal-landscapes-look-like-they-are-from-another-planet). My fave is the 1st sunset
