@@ -41,4 +41,4 @@ This list only contains URLs that I haven't linked anywhere else
 
 ## Image
 
-- [minimalist Material-Design plane on cyan background](https://pinterest.com/pin/652670170976893995)
+- [minimalist Material-Design plane on cyan background](https://pinterest.com/pin/652670170976893995). I wish I had an SVG version of this
