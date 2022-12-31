@@ -2,7 +2,12 @@
 
 This list only contains URLs that I haven't linked anywhere else
 
-## Documentation
+## Text
+
+- ["If it's free you're the product" is wrong](https://techdirt.com/2012/12/20/stop-saying-if-youre-not-paying-youre-product)
+- [Most 🔥fire poem by Ron Lorent/Israel](https://cdn.verbub.com/images/ella-queria-signos-de-admiracion-el-le-daba-signos-de-interrogacion-el-112821.jpg)
+
+### Documentation
 
 - [Web-Safe Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals#web_safe_fonts)
 - [List of built-in CLI utilities in Android (all versions)](https://chromium.googlesource.com/aosp/platform/system/core/+/refs/heads/upstream/shell_and_utilities). This is like ["Can I Use"](https://caniuse.com), but for Android shell scripts
@@ -30,13 +35,6 @@ This list only contains URLs that I haven't linked anywhere else
 
 - [Windows 93](https://windows93.net)
 - [YAML bad](https://noyaml.com)
-
-
-## Text
-
-- ["If it's free you're the product" is wrong](https://techdirt.com/2012/12/20/stop-saying-if-youre-not-paying-youre-product)
-- [Most 🔥fire poem by Ron Lorent/Israel](https://cdn.verbub.com/images/ella-queria-signos-de-admiracion-el-le-daba-signos-de-interrogacion-el-112821.jpg)
-
 
 ## Audio
 
