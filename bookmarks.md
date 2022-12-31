@@ -31,6 +31,12 @@ This list only contains URLs that I haven't linked anywhere else
 - [Windows 93](https://www.windows93.net)
 - [YAML bad](https://noyaml.com)
 
+
+## Text
+
+- ["If it's free you're the product" is wrong](https://techdirt.com/2012/12/20/stop-saying-if-youre-not-paying-youre-product)
+
+
 ## Audio
 
 - https://wurstcaptures.untergrund.net/music
