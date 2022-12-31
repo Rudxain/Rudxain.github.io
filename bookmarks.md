@@ -50,3 +50,4 @@ This list only contains URLs that I haven't linked anywhere else
 
 - ["Doodle: Go home after practice~ 🎸"](https://twitter.com/ttguweiz/status/789792797041635328) (alt="'anime' girl with guitar-case walking on the street in a rainy day"). My favorite wallpaper!
 - [minimalist Material-Design plane on cyan background](https://pinterest.com/pin/652670170976893995). I wish I had an SVG version of this
+- [minimalist Tron: Legacy digital bike](https://wallpapercave.com/wp/wp4939898.jpg)
