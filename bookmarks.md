@@ -58,6 +58,7 @@ This list only contains URLs that I haven't linked anywhere else
 - [same cat as above, but sliced by the lines (mild gore)](https://i.imgur.com/V3AZ5S0.jpeg)
 - [black-hole/quasar sucking a star](https://deviantart.com/andrewvideos510art/art/Blaze-To-Galaxy-828750511)
 - [🦢swan in the ocean sunset](https://pinterest.com/pin/swan-digital-art-4k-background--688558230527276725)
+- [【新作】議事堂前大階段の木陰で](https://twitter.com/yyish/status/1614067352236326912?s=20&t=m9Vux0MvlMd1aBIMSAwhzQ). A beautiful medieval village
 - [article/gallery about Adin Campbell](https://designyoutrust.com/2020/04/these-surreal-landscapes-look-like-they-are-from-another-planet). My fave is the 1st sunset
 - [Donald Trump Playskool meme](https://pbs.twimg.com/media/En2aRLAXcAAytL2.jpg)
 - ["Oh No" Penguin meme template](https://i.pinimg.com/736x/cc/f9/a0/ccf9a0a1f853d06263faa3e29f7c2702.jpg)
