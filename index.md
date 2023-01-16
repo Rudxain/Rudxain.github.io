@@ -81,6 +81,7 @@ The pronunciation is up to interpretation. It usually sounds similar to "Roxanne
 - Duolingo. I liked it, and completed the full English & Spanish courses with high scores. I learned some Greek, Latin, Esperanto, Portuguese, Japanese Hiragana, Chinese Mandarin, Italian, French, and German. But I forgot about most of them lol
 - Desmos. Saving projects on the cloud is useful, but I realized I don't need it
 - Adobe. They're like Apple, but worse
+- SoundCloud. I thought I wouldn't need it, because I never uploaded audio
 - Newgrounds. Username: RFS-Gamer.
 - Google+, because it died with the social media
 - Frikipedia, also because my account died with the website itself lol
