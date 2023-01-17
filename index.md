@@ -54,7 +54,6 @@ The pronunciation is up to interpretation. It usually sounds similar to "Roxanne
 - [Soundcloud profile](https://soundcloud.com/Rudxain)
 - [Great Internet Mersenne Prime Search](https://www.mersenne.org). My user ID is private, and AFAIK my profile has no URL. I used to grind CPUs with Prime95, hoping to get some money, or at least help humanity get better crypto-security
 - [My Llamalab Automate](https://llamalab.com/automate/community/flows/42921) user-ID is #34225. A [JSON containing IDs of all my flows](https://llamalab.com/automate/community/api/v1/users/34225/flows) is available
-- Samsung. I just wanted a dark theme on my Galaxy J3 Mission (it had Android 8), so I installed the most "vanilla"/"faithful" theme (I don't remember the name, but it was "high contrast"). Now I'm forced to have a S-account because Samsung sucks
 - [Roblox profile (RFS_Roblox)](https://roblox.com/users/323158352/profile). I only played with my siblings, and I created my account before inventing the "Rudxain" username/alias.
 - [TotalJerkFace/FancyForce profile (RFSwerewolf)](https://totaljerkface.com/profile.tjf?uid=6050400). I played Happy Wheels a lot back in the day. My username was inspired by "The Werehog" from the game Sonic Unleashed (very underrated Sega game)
 - My RobTop-Games/Boomlings username is "Rudxain" (it was "RFS", before I changed it, now [someone else](https://gdbrowser.com/u/RFS) has that name). [My Geometry Dash profile](https://gdbrowser.com/u/Rudxain). I didn't had the chance to play Boomlings, but I knew about the game before RobTop removed it from G Play Store, all thanks to GD.
@@ -75,15 +74,16 @@ The pronunciation is up to interpretation. It usually sounds similar to "Roxanne
 
 ## Deleted accounts
 
+- Google+. Because it died with the social media
 - Facebook. I had ~2 usernames, 1 contained the word "dragon". I only had 1 account, I never forgot the password (unlike other people, lol)
 - Instagram. I had many usernames because I **deleted it 3 or 4 times**
 - Twitter. It was boring, now it's the opposite!
 - Duolingo. I liked it, and completed the full English & Spanish courses with high scores. I learned some Greek, Latin, Esperanto, Portuguese, Japanese Hiragana, Chinese Mandarin, Italian, French, and German. But I forgot about most of them lol
 - Desmos. Saving projects on the cloud is useful, but I realized I don't need it
+- Samsung. I just wanted a dark theme on my Galaxy J3 Mission (it had Android 8), so I installed the most "vanilla"/"faithful" theme (I don't remember the name, but it was "high contrast")
 - Adobe. They're like Apple, but worse
 - SoundCloud. I thought I wouldn't need it, because I never uploaded audio
 - Newgrounds. Username: RFS-Gamer.
-- Google+, because it died with the social media
 - Frikipedia, also because my account died with the website itself lol
 - Cartoon Network. I had many accounts because I was a kid and I always forgot my password, lol. I liked to play as a "toonix" and playing Flash games like the one inspired by "How To Train Your Dragon". I never deleted any of the accounts, but I added it to this list because I forgor 💀 the usernames too LMAO
 - AI Dungeon.
