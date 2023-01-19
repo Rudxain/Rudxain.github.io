@@ -93,3 +93,5 @@ The pronunciation is up to interpretation. It usually sounds similar to "Roxanne
 ## Quotes
 
 > "Theory" is to "Hypothesis" what "Hacking" is to "Cracking"
+
+> Tremolo is to Vibrato what AM is to FM
