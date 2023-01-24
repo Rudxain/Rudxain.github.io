@@ -82,7 +82,7 @@ The pronunciation is up to interpretation. It usually sounds similar to "Roxanne
 - Desmos. Saving projects on the cloud is useful, but I realized I don't need it
 - Samsung. I just wanted a dark theme on my Galaxy J3 Mission (it had Android 8), so I installed the most "vanilla"/"faithful" theme (I don't remember the name, but it was "high contrast")
 - Adobe. They're like Apple, but worse
-- SoundCloud. I thought I wouldn't need it, because I never uploaded audio
+- SoundCloud (rfs-680354630). I thought I wouldn't need it, because I never uploaded audio
 - Newgrounds. Username: RFS-Gamer.
 - Frikipedia, also because my account died with the website itself lol
 - Cartoon Network. I had many accounts because I was a kid and I always forgot my password, lol. I liked to play as a "toonix" and playing Flash games like the one inspired by "How To Train Your Dragon". I never deleted any of the accounts, but I added it to this list because I forgor 💀 the usernames too LMAO
