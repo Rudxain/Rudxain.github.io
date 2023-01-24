@@ -75,7 +75,7 @@ The pronunciation is up to interpretation. It usually sounds similar to "Roxanne
 ## Deleted accounts
 
 - Google+. Because it died with the social media
-- Facebook. I had ~2 usernames, 1 contained the word "dragon". I only had 1 account, I never forgot the password (unlike other people, lol)
+- Facebook. Usernames (sorted from oldest to newest): faladagron, faladragon, Bitscardo, RFSgp, RicardoFSerrata, RicardoFernandezSerrata, Rudxain. I only had 1 account, I never forgot the password (unlike other people, lol)
 - Instagram. I had many usernames because I **deleted it 3 or 4 times**
 - Twitter. It was boring, now it's the opposite!
 - Duolingo. I liked it, and completed the full English & Spanish courses with high scores. I learned some Greek, Latin, Esperanto, Portuguese, Japanese Hiragana, Chinese Mandarin, Italian, French, and German. But I forgot about most of them lol
