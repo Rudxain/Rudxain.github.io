@@ -42,6 +42,7 @@ This list only contains URLs that I haven't linked anywhere else
 - [YAML bad](https://noyaml.com)
 - [Will You Press The Button?](https://willyoupressthebutton.com)
 - [Useless Websites](https://theuselessweb.com)
+- [Click x4](https://clickclickclick.click)
 
 ## Audio
 
