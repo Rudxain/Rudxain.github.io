@@ -8,31 +8,18 @@ The pronunciation is up to interpretation. It usually sounds similar to "Roxanne
 ## I...
 
 - am comfortable with any pronouns, but I may laugh if you call me a "she"
-- am partially autistic
 - speak Español and English. I wish I learned an international [conlang](https://en.wikipedia.org/wiki/Constructed_language)
-- don't like pillows
 - am single, and waiting to meet someone that would change that state
 - reply/react to posts regardless of their ⌛date (I'm "ancient-agnostic", lol). [I'm kind of a historian/paleontologist myself](https://pbs.twimg.com/media/FFcEIG5WQAgBo33.jpg) XD .
-- **LOVE** music/rhythm games. 1 of my faves was [Music Racer](https://play.google.com/store/apps/details?id=com.abstractart.music_racer)
-- hate hypocrisy, even my own (if I ever become unintentionally hypocrite (i.e. cognitive dissonance)).
-- like learning, and am skeptical of **myself**. So I'll admit being wrong, if I recognize that I'm wrong, and I'll try my best to find flaws in my reasoning. I'll also thank anyone who corrects me (properly and respectfully). Pseudo-skeptics are *not skeptical of themselves*, they won't accept constructive criticism from anyone.
-- am an atheist open to beliefs (as long as they're rational). [More info](https://reddit.com/r/atheism/wiki/faq).
-- am not necesarily anti-theist, but I'm definetely against child indoctrination/brainwashing, religious or secular. I've been a victim of that, and I know how hard it is to see reality outside that mental prison.
-- like mythology (and religious lore) in general, despite not believing it.
-- have the creativity to think about new beliefs, like the "Universe = Dead Deity" hypothesis, and the hypothesis that "deities may exist but none created our universe".
-- am not agnostic, because I don't assume that deities are the only kind of transcendental thing that could exist, and I don't assume that transcendental stuff exists. Supernatural stuff can't exist, because it's "unnatural and natural" by definition, making it a contradiction. Transcendental stuff isn't bound by the laws of nature, and therefore, its unfalsifiable potential existence isn't contradictory.
-- think religion should be treated like art/entertainment, not a mindset, not a lifestyle.
-- am an 🍎Apple Boycotter. Even if I were rich, I **wouldn't buy a single product** from them, unless I'm *forced* to.
-- think abortion should be replaced by adoption. If you ban adoption, you can't ban abortion, otherwise you're a clown 🤡. "pro-life" usually means "pro-birth". The majority doesn't care about the baby's life, they just want it to be born, peak hypocrisy. [Related](https://amptoons.com/blog/?p=13565).
-- am anti-sexist. ♀️Feminism is just ♂️Machismo for females. Gender differences shouldn't be ignored, but that doesn't mean we should do unjustified discrimination. There's good (justifiable) and bad (irrational) discrimination, learn the difference, be wiser.
-- am anti-racist, but I like some racist jokes, even if it "offends my race".
-- am partially vegan, consuming animal-based products as least as possible.
-- **recycle almost anything**, as much as possible. However, that may be bad for my health, because I do it with water bottles, so I may be ingesting nano-plastics 😥. I hope [graphene](https://en.wikipedia.org/wiki/Graphene) becomes mainstream sooner.
-- love minimalism, hate redundancy (except when it's truly necessary)
-- am kinda interested in psychology and philosophy
+- am not anti-theist, but I'm definetely against child indoctrination/brainwashing, religious or secular. I've been a victim of that, and I know how hard it is to break out of the mental prison.
+- am an Adobe, 🍎Apple, Samsung, and Nestlé boycotter. Even if I were rich, I **wouldn't buy a single product** from them, unless I'm *forced* to.
+- [am pro-adoption, pro-choice, and pro-life, not pro-birth](https://amptoons.com/blog/?p=13565)
+- am anti-sexist and anti-racist, but I can laugh at sexist and racist jokes
+- am partially vegan (I consume animal-based products, as least as possible)
+- recycle almost anything
+- love minimalism, hate redundancy (except when it's necessary)
 - want euthanasia. If my body no longer works "good enough", just end my life peacefully.
-- want my body to contribute to the ecosystem. So when I die, I don't want to be buried in a coffin, let my body serve as nutritious material for plants!
-- don't care too much about my birthday (or most "special" dates, for that matter). "Time is relative"
+- want my body to contribute to the ecosystem. So when I die, I don't want to be buried in a coffin. Let my body become nutritious material for plants!
 
 ## Sites
 
@@ -44,9 +31,9 @@ The pronunciation is up to interpretation. It usually sounds similar to "Roxanne
 
 - Google/Gmail
 - Microsoft/Outlook
-- I have WhatsApp, but I don't want my personal phone number to be public. I'm considering switching to Telegram
+- WhatsApp. I'm considering switching to Discord or Telegram
 - [Newgrounds user page](https://Rudxain.newgrounds.com)
-- [Wikipedia](https://en.wikipedia.org/wiki/User:Rudxain)
+- [Wikipedia Profile](https://en.wikipedia.org/wiki/User:Rudxain)
 - [GitHub repos](https://github.com/Rudxain?tab=repositories) & [Gists](https://gist.github.com/Rudxain)
 - [Crates.io](https://crates.io/users/Rudxain)
 - [Rust user forum](https://users.rust-lang.org/u/rudxain) & [Rust internals forum](https://internals.rust-lang.org/u/rudxain)
@@ -74,7 +61,7 @@ The pronunciation is up to interpretation. It usually sounds similar to "Roxanne
 
 ## Deleted accounts
 
-- Google+. Because it died with the social media
+- Google+. Because it died with the social media, lol
 - Facebook. Usernames (sorted from oldest to newest): faladagron, faladragon, Bitscardo, RFSgp, RicardoFSerrata, RicardoFernandezSerrata, Rudxain. I only had 1 account, I never forgot the password (unlike other people, lol)
 - Instagram. I had many usernames because I **deleted it 3 or 4 times**
 - Twitter. It was boring, now it's the opposite!
@@ -83,11 +70,11 @@ The pronunciation is up to interpretation. It usually sounds similar to "Roxanne
 - Samsung. I just wanted a dark theme on my Galaxy J3 Mission (it had Android 8), so I installed the most "vanilla"/"faithful" theme (I don't remember the name, but it was "high contrast")
 - Adobe. They're like Apple, but worse
 - SoundCloud (rfs-680354630). I thought I wouldn't need it, because I never uploaded audio
-- Newgrounds. Username: RFS-Gamer.
-- Frikipedia, also because my account died with the website itself lol
+- Newgrounds (RFS-Gamer)
+- Frikipedia. Because it died with the website. RIP both
 - Cartoon Network. I had many accounts because I was a kid and I always forgot my password, lol. I liked to play as a "toonix" and playing Flash games like the one inspired by "How To Train Your Dragon". I never deleted any of the accounts, but I added it to this list because I forgor 💀 the usernames too LMAO
-- AI Dungeon.
-- [SayMine](https://saymine.com). I discovered this one thanks to ThioJoe. It's useless for me, because I almost never get any mail, lol
+- AI Dungeon
+- [SayMine](https://saymine.com). I discovered this one thanks to ThioJoe. It's useless for me, because I rarely get mails, lol
 
 
 ## Quotes
