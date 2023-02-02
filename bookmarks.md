@@ -16,6 +16,7 @@ This list only contains URLs that I haven't linked anywhere else
 - [Web-Safe Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals#web_safe_fonts)
 - [List of built-in CLI utilities in Android (all versions)](https://chromium.googlesource.com/aosp/platform/system/core/+/refs/heads/upstream/shell_and_utilities). This is like ["Can I Use"](https://caniuse.com), but for Android shell scripts
 - [MKSH manual](http://mirbsd.org/htman/i386/man1/mksh.htm). These docs are so obscure, that they're hard to find on any search engine
+- [Android bloat list](https://raw.githubusercontent.com/0x192/universal-android-debloater/main/resources/assets/uad_lists.json)
 - [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://jagregory.com/abrash-black-book). bit-hacks lol
 - [Llamalab Automate planned-features to-do list](https://docs.google.com/spreadsheets/u/0/d/163JyjXq3e4vWxb2mIaM2e4hObrYH6O4uIAfacCZE70c/htmlview) ([source](https://groups.google.com/g/automate-user/c/ieFxvzSiWkA/m/KubwQ4Q2AgAJ)). I use this to avoid opening duplicate issues on [the forum](https://groups.google.com/g/automate-user)
 - [Paper about ByteBeat](https://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html)
