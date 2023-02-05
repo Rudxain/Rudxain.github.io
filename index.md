@@ -34,14 +34,15 @@ The pronunciation is up to interpretation. It usually sounds similar to "Roxanne
 - Microsoft/Outlook
 - WhatsApp. I'm considering switching to Discord or Telegram
 - [Newgrounds user page](https://Rudxain.newgrounds.com)
+- [Soundcloud profile](https://soundcloud.com/Rudxain)
 - [Wikipedia Profile](https://en.wikipedia.org/wiki/User:Rudxain)
 - [GitHub repos](https://github.com/Rudxain?tab=repositories) & [Gists](https://gist.github.com/Rudxain)
+- [My Llamalab Automate](https://llamalab.com/automate/community/flows/42921) user-ID is #34225. A [JSON containing IDs of all my flows](https://llamalab.com/automate/community/api/v1/users/34225/flows) is available
 - [Crates.io](https://crates.io/users/Rudxain)
 - [Rust user forum](https://users.rust-lang.org/u/rudxain) & [Rust internals forum](https://internals.rust-lang.org/u/rudxain)
 - [ECMAScript discourse groups](https://es.discourse.group/u/rudxain)
-- [Soundcloud profile](https://soundcloud.com/Rudxain)
 - [Great Internet Mersenne Prime Search](https://www.mersenne.org). My user ID is private, and AFAIK my profile has no URL. I used to grind CPUs with Prime95, hoping to get some money, or at least help humanity get better crypto-security
-- [My Llamalab Automate](https://llamalab.com/automate/community/flows/42921) user-ID is #34225. A [JSON containing IDs of all my flows](https://llamalab.com/automate/community/api/v1/users/34225/flows) is available
+- OpenAI/ChatGPT
 - [Roblox profile (RFS_Roblox)](https://roblox.com/users/323158352/profile). I only played with my siblings, and I created my account before inventing the "Rudxain" username/alias.
 - [TotalJerkFace/FancyForce profile (RFSwerewolf)](https://totaljerkface.com/profile.tjf?uid=6050400). I played Happy Wheels a lot back in the day. My username was inspired by "The Werehog" from the game Sonic Unleashed (very underrated Sega game)
 - My RobTop-Games/Boomlings username is "Rudxain" (it was "RFS", before I changed it, now [someone else](https://gdbrowser.com/u/RFS) has that name). [My Geometry Dash profile](https://gdbrowser.com/u/Rudxain). I didn't had the chance to play Boomlings, but I knew about the game before RobTop removed it from G Play Store, all thanks to GD.
