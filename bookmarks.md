@@ -30,6 +30,7 @@ This list only contains URLs that I haven't linked anywhere else
 - [Convert rasters to SVGs](https://svgco.de)
 - [Wayback Machine](https://archive.org/web) (web archives)
 - [Down Detector](https://downdetector.com). To know if it's just my connection, or if other users have the same problems
+- [Try It Online](https://tio.run). A comprehensive collection of interpreters for normal langs and esolangs
 - [WolframAlpha](https://wolframalpha.com)
 - [Desmos Graphing Calculator (plotter)](https://desmos.com/calculator)
 - [Szynalski tone generator](https://szynalski.com/tone-generator)
