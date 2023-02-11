@@ -5,6 +5,8 @@ I came up with that name after translating it to multiple languages.
 
 The pronunciation is up to interpretation. It usually sounds similar to "Roxanne", but I suggest "Rod-xaeen"
 
+My "fuller" name is Ricardo Fernández Abud Serrata Cabrera
+
 ## I...
 
 - am comfortable with any pronouns, but I may laugh if you call me a "she"
