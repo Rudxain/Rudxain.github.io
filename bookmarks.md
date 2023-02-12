@@ -34,6 +34,7 @@ This list only contains URLs that I haven't linked anywhere else
 - [WolframAlpha](https://wolframalpha.com)
 - [Desmos Graphing Calculator (plotter)](https://desmos.com/calculator)
 - [Szynalski tone generator](https://szynalski.com/tone-generator)
+- [PDF viewer PWA](https://webbrowsertools.com/pdf-reader)
 
 ### Screen/Display tests
 
