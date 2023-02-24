@@ -16,7 +16,7 @@ My "fuller" name is Ricardo Fernández Abud Serrata Cabrera
 - reply/react to posts regardless of their ⌛date (I'm "ancient-agnostic", lol). [I'm kind of a historian/paleontologist myself](https://pbs.twimg.com/media/FFcEIG5WQAgBo33.jpg) XD .
 - am not anti-theist, but I'm definetely against child indoctrination/brainwashing, religious or secular. I've been a victim of that, and I know how hard it is to break out of the mental prison.
 - am an Adobe, 🍎Apple, Samsung, and Nestlé boycotter. Even if I were rich, I **wouldn't buy a single product** from them, unless I'm *forced* to.
-- [am pro-adoption, pro-choice, and pro-life, not pro-birth](https://amptoons.com/blog/?p=13565)
+- [am pro-adoption, pro-need (not pro-choice), and pro-life (not pro-birth)](https://amptoons.com/blog/?p=13565)
 - am anti-sexist and anti-racist, but I can laugh at sexist and racist jokes
 - am partially vegan (I consume animal-based products, as least as possible)
 - recycle almost anything
