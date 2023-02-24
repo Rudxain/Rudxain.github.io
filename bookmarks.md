@@ -8,6 +8,7 @@ This list only contains URLs that I haven't linked anywhere else
 - [Most 🔥fire poem by Ron Lorent/Israel](https://cdn.verbub.com/images/ella-queria-signos-de-admiracion-el-le-daba-signos-de-interrogacion-el-112821.jpg)
 - [Free alts to paid software](https://alternativeto.net)
 - [NEVER PARSE HTML WITH REGEX](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
+- [How async programming should be designed](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function)
 - [Urban Dictionary](https://urbandictionary.com)
 
 ### Documentation
