@@ -38,6 +38,7 @@ My "fuller" name is Ricardo Fernández Abud Serrata Cabrera
 - WhatsApp. I'm considering switching to Discord or Telegram
 - [Newgrounds user page](https://Rudxain.newgrounds.com)
 - [Soundcloud profile](https://soundcloud.com/Rudxain)
+- [Twitter](https://twitter.com/rudxain)
 - [Wikipedia Profile](https://en.wikipedia.org/wiki/User:Rudxain)
 - [GitHub repos](https://github.com/Rudxain?tab=repositories) & [Gists](https://gist.github.com/Rudxain)
 - [My Llamalab Automate](https://llamalab.com/automate/community/flows/42921) user-ID is #34225. A [JSON containing IDs of all my flows](https://llamalab.com/automate/community/api/v1/users/34225/flows) is available
@@ -80,10 +81,3 @@ My "fuller" name is Ricardo Fernández Abud Serrata Cabrera
 - Cartoon Network. I had many accounts because I was a kid and I always forgot my password, lol. I liked to play as a "toonix" and playing Flash games like the one inspired by "How To Train Your Dragon". I never deleted any of the accounts, but I added it to this list because I forgor 💀 the usernames too LMAO
 - AI Dungeon
 - [SayMine](https://saymine.com). I discovered this one thanks to ThioJoe. It's useless for me, because I rarely get mails, lol
-
-
-## Quotes
-
-> "Theory" is to "Hypothesis" what "Hacking" is to "Cracking"
-
-> Tremolo is to Vibrato what AM is to FM
