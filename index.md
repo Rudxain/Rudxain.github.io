@@ -38,6 +38,7 @@ My "fuller" name is Ricardo Fernández Abud Serrata Cabrera
 - WhatsApp. I'm considering switching to Discord or Telegram
 - [Newgrounds user page](https://Rudxain.newgrounds.com)
 - [Soundcloud profile](https://soundcloud.com/Rudxain)
+- [Twitter](https://twitter.com/rudxain)
 - [Wikipedia Profile](https://en.wikipedia.org/wiki/User:Rudxain)
 - [GitHub repos](https://github.com/Rudxain?tab=repositories) & [Gists](https://gist.github.com/Rudxain)
 - [My Llamalab Automate](https://llamalab.com/automate/community/flows/42921) user-ID is #34225. A [JSON containing IDs of all my flows](https://llamalab.com/automate/community/api/v1/users/34225/flows) is available
