@@ -16,6 +16,7 @@ This list only contains URLs that I haven't linked anywhere else
 - [UTF-8 Manifesto](https://utf8everywhere.org)
 - [Esoteric Programming Languages](https://esolangs.org)
 - [Web-Safe Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals#web_safe_fonts)
+- [Safer shell scripting](https://sipb.mit.edu/doc/safe-shell)
 - [List of built-in CLI utilities in Android (all versions)](https://chromium.googlesource.com/aosp/platform/system/core/+/refs/heads/upstream/shell_and_utilities). This is like ["Can I Use"](https://caniuse.com), but for Android shell scripts
 - [MKSH manual](http://mirbsd.org/htman/i386/man1/mksh.htm). These docs are so obscure, that they're hard to find on any search engine
 - [Android bloat list](https://raw.githubusercontent.com/0x192/universal-android-debloater/main/resources/assets/uad_lists.json)
