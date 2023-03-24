@@ -52,6 +52,7 @@ My "fuller" name is Ricardo Fernández Abud Serrata Cabrera
 - My RobTop-Games/Boomlings username is "Rudxain" (it was "RFS", before I changed it, now [someone else](https://gdbrowser.com/u/RFS) has that name). [My Geometry Dash profile](https://gdbrowser.com/u/Rudxain). I didn't had the chance to play Boomlings, but I knew about the game before RobTop removed it from G Play Store, all thanks to GD.
 - [osu! (RFS_Osu)](https://osu.ppy.sh/users/9905562)
 - My Supercell ID is "Rudxain", and my name in Brawl Stars is "Rudxain null", because apparently "Rudxain" is an *"invalid name"* but **"null" is perfectly valid** according to Supercell. I created my ID because I kinda like Brawl Stars, and I play it with my siblings. I sometimes played Clash of Clans in the past, but played as guest
+- [Coursera profile](https://www.coursera.org/user/cdfd656c5769f1b3785e1ae95a5d57c2)
 
 ### Sub-accounts
 
