@@ -29,6 +29,7 @@ This list only contains URLs that I haven't linked anywhere else
 ## Tools
 
 - [HTML Preview](http://htmlpreview.github.io)
+- [QR-gen PWA](https://vinceumo.github.io/qr-code-generator/generator)
 - [password leak check](https://haveibeenpwned.com)
 - [Most active GH users in Dominican Republic](https://commits.top/dominican_republic.html). I'm at top 3 !
 - [OVC](https://onlinevideoconverter.com). [YTDL](https://github.com/ytdl-org/youtube-dl) is better, but OVC can slice/crop at timestamps
