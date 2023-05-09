@@ -29,12 +29,13 @@ This list only contains URLs that I haven't linked anywhere else
 ## Tools
 
 - [HTML Preview](http://htmlpreview.github.io)
+- [Wayback Machine](https://archive.org/web) (web archives)
+- [Web fingerprint uniqueness](https://amiunique.org)
 - [QR-gen PWA](https://vinceumo.github.io/qr-code-generator/generator)
 - [password leak check](https://haveibeenpwned.com)
 - [Most active GH users in Dominican Republic](https://commits.top/dominican_republic.html). I'm at top 3 !
 - [OVC](https://onlinevideoconverter.com). [YTDL](https://github.com/ytdl-org/youtube-dl) is better, but OVC can slice/crop at timestamps
 - [Convert rasters to SVGs](https://svgco.de)
-- [Wayback Machine](https://archive.org/web) (web archives)
 - [Down Detector](https://downdetector.com). To know if it's just my connection, or if other users have the same problems
 - [Try It Online](https://tio.run). A comprehensive collection of interpreters for normal langs and esolangs
 - [LAN file share](https://share-anywhere.com)
@@ -50,6 +51,9 @@ This list only contains URLs that I haven't linked anywhere else
 - [Photo Friday calibration](https://photofriday.com/info/calibrate)
 - [Lagom LCD tests](http://lagom.nl/lcd-test)
 - [TestUFO / Blur Busters](https://testufo.com)
+
+## Games
+> to-do
 
 ## Fun
 
