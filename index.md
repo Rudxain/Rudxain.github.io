@@ -14,7 +14,8 @@ My "fuller" name is Ricardo Fernández Abud Serrata Cabrera
 - am single, and waiting to meet someone that would change that state
 - studied in "Colegio Divina Pastora", "Colegio Jesús En Ti Confío", "Liceo Católico Tecnológico de Barahona", "Universidad Católica Tecnológica de Barahona" (1 semester), "Instituto Tecnológico de Santo Domingo" (only once)
 - reply/react to posts regardless of their ⌛date (I'm "ancient-agnostic", lol). [I'm kind of a historian/paleontologist myself](https://pbs.twimg.com/media/FFcEIG5WQAgBo33.jpg) XD .
-- am not anti-theist, but I'm definetely against child indoctrination/brainwashing, religious or secular. I've been a victim of that, and I know how hard it is to break out of the mental prison.
+- am against indoctrination/brainwashing, religious and secular alike. I've been a victim of that, and I know how hard it is to break out of the mental prison.
+- am anti-dogmatism and anti-faith. Not anti-hope. Not anti-trust.
 - am an Adobe, 🍎Apple, Samsung, and Nestlé boycotter. Even if I were rich, I **wouldn't buy a single product** from them, unless I'm *forced* to.
 - [am anti-DRM](https://defectivebydesign.org)
 - [am pro-adoption, pro-need (not pro-choice), and pro-life (not pro-birth)](https://amptoons.com/blog/?p=13565)
