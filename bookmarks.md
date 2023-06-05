@@ -79,6 +79,7 @@ This list only contains URLs that I haven't linked anywhere else
 
 ## Image
 
+- [Futuristic building](https://cdn.midjourney.com/611bfcf1-78df-4dd2-853f-59d15efd6324/0_2.webp)
 - ["Doodle: Go home after practice~ 🎸"](https://twitter.com/ttguweiz/status/789792797041635328) (alt="'anime' girl with guitar-case walking on the street in a rainy day"). My favorite wallpaper!
 - [sunset in a cloudy city](https://pixiv.net/en/artworks/53727984). My 2nd fave
 - [minimalist Material-Design plane on cyan background](https://pinterest.com/pin/652670170976893995). I wish I had an SVG version of this
