@@ -41,7 +41,6 @@ My "fuller" name is Ricardo Fernández Abud Serrata Cabrera
 - Uber
 - [Newgrounds user page](https://Rudxain.newgrounds.com)
 - [Soundcloud profile](https://soundcloud.com/Rudxain)
-- [Twitter](https://twitter.com/rudxain)
 - [Wikipedia Profile](https://en.wikipedia.org/wiki/User:Rudxain)
 - [GitHub repos](https://github.com/Rudxain?tab=repositories) & [Gists](https://gist.github.com/Rudxain)
 - [My Llamalab Automate](https://llamalab.com/automate/community/flows/42921) user-ID is #34225. A [JSON containing IDs of all my flows](https://llamalab.com/automate/community/api/v1/users/34225/flows) is available
@@ -75,7 +74,7 @@ My "fuller" name is Ricardo Fernández Abud Serrata Cabrera
 - Google+. Because it died with the social media, lol
 - Facebook. Usernames (sorted from oldest to newest): faladagron, faladragon, Bitscardo, RFSgp, RicardoFSerrata, RicardoFernandezSerrata, Rudxain. I only had 1 account, I never forgot the password (unlike other people, lol)
 - Instagram. I had many usernames because I **deleted it 3 or 4 times**
-- Twitter. It was boring, now it's the opposite!
+- Twitter. It was boring circa ~2016, now it became corrupted by greed (Elon Musk)
 - Duolingo. I liked it, and completed the full English & Spanish courses with high scores. I learned some Greek, Latin, Esperanto, Portuguese, Japanese Hiragana, Chinese Mandarin, Italian, French, and German. But I forgot about most of them, lol
 - Desmos. Saving projects on the cloud is useful, but I realized I don't need it. I prefer WolframAlpha
 - Samsung. I just wanted a dark theme on my Galaxy J3 Mission (it had Android 8), so I installed the most "vanilla"/"faithful" theme (I don't remember the name, but it was "high contrast")
