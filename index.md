@@ -55,6 +55,7 @@ My "fuller" name is Ricardo Fernández Abud Serrata Cabrera
 - My Supercell ID is "Rudxain", and my name in Brawl Stars is "Rudxain null", because apparently "Rudxain" is an *"invalid name"* but **"null" is perfectly valid** according to Supercell. I created my ID because I kinda like Brawl Stars, and I play it with my siblings. I sometimes played Clash of Clans in the past, but played as guest
 - [Khan Academy profile](http://khanacademy.org/profile/Rudxain)
 - [Coursera profile](https://www.coursera.org/user/cdfd656c5769f1b3785e1ae95a5d57c2)
+- [edX Profile](https://profile.edx.org/u/Rudxain)
 
 ### Sub-accounts
 
