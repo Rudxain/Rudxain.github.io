@@ -19,10 +19,9 @@ My "fuller" name is Ricardo Fernández Abud Serrata Cabrera
 - am an Adobe, 🍎Apple, Samsung, and Nestlé boycotter. Even if I were rich, I **wouldn't buy a single product** from them, unless I'm *forced* to.
 - [am anti-DRM](https://defectivebydesign.org)
 - [am pro-adoption, pro-need (not pro-choice), and pro-life (not pro-birth)](https://amptoons.com/blog/?p=13565)
-- am anti-sexist and anti-racist, but I can laugh at sexist and racist jokes (I'm not "woke")
 - am partially vegan (I consume animal-based products, as least as possible)
-- recycle almost anything
-- love minimalism, hate redundancy (except when it's necessary)
+- recycle almost anything.
+- love minimalism, hate bloat.
 - want euthanasia. If my body no longer works "good enough", just end my life peacefully.
 - want my body to contribute to the ecosystem. So when I die, I don't want to be buried in a coffin. Let my body become nutritious material for plants!
 
