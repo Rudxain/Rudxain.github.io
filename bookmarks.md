@@ -79,6 +79,8 @@ This list only contains URLs that I haven't linked anywhere else
 
 ## Image
 
+- [BNA poster wallpaper](https://wallpapercave.com/wp/wp6213041.png)
+- [Michiru Kagemori outro looking up (phone wallpaper edit)](https://i.redd.it/6u9ggfr7ff951.jpg)
 - [Futuristic building](https://cdn.midjourney.com/611bfcf1-78df-4dd2-853f-59d15efd6324/0_2.webp)
 - ["Doodle: Go home after practice~ 🎸"](https://twitter.com/ttguweiz/status/789792797041635328) (alt="'anime' girl with guitar-case walking on the street in a rainy day"). My favorite wallpaper!
 - [sunset in a cloudy city](https://pixiv.net/en/artworks/53727984). My 2nd fave
