@@ -66,8 +66,8 @@ My "fuller" name is Ricardo Fernández Abud Serrata Cabrera
 - [G Crowdsource](https://crowdsource.google.com)
 - My G Play Games "Gamer-ID" is "rudxain"
 - [Xbox LIVE profile](https://account.xbox.com/en-us/profile?gamertag=Rudxain)
-- I have Hangouts and Duo accounts derived from my Gmail account
-- I have a Skype account derived from my MS Outlook account
+- G Hangouts and G Duo
+- MS Outlook Skype
 
 ## Deleted accounts
 
