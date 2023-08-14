@@ -37,6 +37,7 @@ My "fuller" name is Ricardo Fernández Abud Serrata Cabrera
 - Google/Gmail
 - Microsoft/Outlook
 - WhatsApp. I'm considering switching to Telegram or Signal. Also interested in Discord
+- Qik. Donate here: 1000893125
 - Uber
 - [Newgrounds user page](https://Rudxain.newgrounds.com)
 - [Soundcloud profile](https://soundcloud.com/Rudxain)
