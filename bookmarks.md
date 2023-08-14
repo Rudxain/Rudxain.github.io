@@ -91,6 +91,7 @@ This list only contains URLs that I haven't linked anywhere else
 - [🦢swan in the ocean sunset](https://pinterest.com/pin/swan-digital-art-4k-background--688558230527276725)
 - [【新作】議事堂前大階段の木陰で](https://twitter.com/yyish/status/1614067352236326912?s=20&t=m9Vux0MvlMd1aBIMSAwhzQ). A beautiful medieval village
 - [article/gallery about Adin Campbell](https://designyoutrust.com/2020/04/these-surreal-landscapes-look-like-they-are-from-another-planet). My fave is the 1st sunset
+- [Elemental Spices](https://i.redd.it/q2fzkh53in171.jpg)
 - [Donald Trump Playskool meme](https://pbs.twimg.com/media/En2aRLAXcAAytL2.jpg)
 - ["Oh No" Penguin meme template](https://i.pinimg.com/736x/cc/f9/a0/ccf9a0a1f853d06263faa3e29f7c2702.jpg)
 - [Yoda Obama Keanu Thanos, Venn diagram](https://reddit.com/r/memes/comments/cbzu2u/credit_to_udiebetic_dodobird_it_didnt_let_me)
