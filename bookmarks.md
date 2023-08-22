@@ -10,6 +10,7 @@ This list only contains URLs that I haven't linked anywhere else
 - [How async programming should be designed](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function)
 - [SSH should replace HTTPS](https://shazow.net/posts/ssh-how-does-it-even)
 - [Urban Dictionary](https://urbandictionary.com)
+- [Paper about ByteBeat](https://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html)
 
 ### Documentation
 
@@ -24,7 +25,6 @@ This list only contains URLs that I haven't linked anywhere else
 - [Community Android CPU governors](https://forum.xda-developers.com/t/cpu-governors-explained.1736168)
 - [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://jagregory.com/abrash-black-book). bit-hacks lol
 - [Llamalab Automate planned-features to-do list](https://docs.google.com/spreadsheets/u/0/d/163JyjXq3e4vWxb2mIaM2e4hObrYH6O4uIAfacCZE70c/htmlview) ([source](https://groups.google.com/g/automate-user/c/ieFxvzSiWkA/m/KubwQ4Q2AgAJ)). I use this to avoid opening duplicate issues on [the forum](https://groups.google.com/g/automate-user)
-- [Paper about ByteBeat](https://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html)
 
 ## Tools
 
