@@ -30,7 +30,6 @@ This list only contains URLs that I haven't linked anywhere else
 
 - [HTML Preview](http://htmlpreview.github.io)
 - [Wayback Machine](https://archive.org/web) (web archives)
-- [Web fingerprint uniqueness](https://amiunique.org)
 - [QR-gen PWA](https://vinceumo.github.io/qr-code-generator/generator)
 - [Most active GH users in Dominican Republic](https://commits.top/dominican_republic.html). I'm at top 3 !
 - [OVC](https://onlinevideoconverter.com). [YTDL](https://github.com/ytdl-org/youtube-dl) is better, but OVC can slice/crop at timestamps
