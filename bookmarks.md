@@ -5,6 +5,7 @@ This list only contains URLs that I haven't linked anywhere else
 ## Text
 
 - [CPU Land](https://cpu.land)
+- [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://jagregory.com/abrash-black-book). bit-hacks lol
 - ["If it's free you're the product" is wrong](https://techdirt.com/2012/12/20/stop-saying-if-youre-not-paying-youre-product)
 - [Most 🔥fire poem by Ron Lorent/Israel](https://cdn.verbub.com/images/ella-queria-signos-de-admiracion-el-le-daba-signos-de-interrogacion-el-112821.jpg)
 - [NEVER PARSE HTML WITH REGEX](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
@@ -23,7 +24,6 @@ This list only contains URLs that I haven't linked anywhere else
 - [Android bloat list](https://raw.githubusercontent.com/0x192/universal-android-debloater/main/resources/assets/uad_lists.json)
 - [Official Android CPU governors](https://android.googlesource.com/kernel/common/+/a7827a2a60218b25f222b54f77ed38f57aebe08b/Documentation/cpu-freq/governors.txt)
 - [Community Android CPU governors](https://forum.xda-developers.com/t/cpu-governors-explained.1736168)
-- [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://jagregory.com/abrash-black-book). bit-hacks lol
 - [Llamalab Automate planned-features to-do list](https://docs.google.com/spreadsheets/u/0/d/163JyjXq3e4vWxb2mIaM2e4hObrYH6O4uIAfacCZE70c/htmlview) ([source](https://groups.google.com/g/automate-user/c/ieFxvzSiWkA/m/KubwQ4Q2AgAJ)). I use this to avoid opening duplicate issues on [the forum](https://groups.google.com/g/automate-user)
 
 ## Tools
