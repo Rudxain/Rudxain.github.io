@@ -9,7 +9,6 @@ This list only contains URLs that I haven't linked anywhere else
 - [NEVER PARSE HTML WITH REGEX](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
 - [How async programming should be designed](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function)
 - [SSH should replace HTTPS](https://shazow.net/posts/ssh-how-does-it-even)
-- [Urban Dictionary](https://urbandictionary.com)
 - [Paper about ByteBeat](https://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html)
 
 ### Documentation
