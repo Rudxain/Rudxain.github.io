@@ -36,9 +36,7 @@ This list only contains URLs that I haven't linked anywhere else
 - [Convert rasters to SVGs](https://svgco.de)
 - [Down Detector](https://downdetector.com). To know if it's just my connection, or if other users have the same problems
 - [Try It Online](https://tio.run). A comprehensive collection of interpreters for normal langs and esolangs
-- [LAN file share](https://share-anywhere.com)
-- [WebADB](https://webadb.com)
-- [WolframAlpha](https://wolframalpha.com)
+- [LAN file share](https://share-anywhere.com). I must replace it by a FLOSS alt.
 - [Desmos Graphing Calculator](https://desmos.com/calculator) (plotter)
 - [Szynalski tone generator](https://szynalski.com/tone-generator)
 - [PDF viewer PWA](https://webbrowsertools.com/pdf-reader)
