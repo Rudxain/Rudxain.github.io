@@ -5,7 +5,8 @@ This list only contains URLs that I haven't linked anywhere else
 ## Text
 
 - [CPU Land](https://cpu.land)
-- [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://jagregory.com/abrash-black-book). bit-hacks lol
+- [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html).
+- [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://jagregory.com/abrash-black-book).
 - ["If it's free you're the product" is wrong](https://techdirt.com/2012/12/20/stop-saying-if-youre-not-paying-youre-product)
 - [Most 🔥fire poem by Ron Lorent/Israel](https://cdn.verbub.com/images/ella-queria-signos-de-admiracion-el-le-daba-signos-de-interrogacion-el-112821.jpg)
 - [NEVER PARSE HTML WITH REGEX](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
