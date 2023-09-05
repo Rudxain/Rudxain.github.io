@@ -40,7 +40,6 @@ This list only contains URLs that I haven't linked anywhere else
 - [LAN file share](https://share-anywhere.com). I must replace it by a FLOSS alt.
 - [Desmos Graphing Calculator](https://desmos.com/calculator) (plotter)
 - [Szynalski tone generator](https://szynalski.com/tone-generator)
-- [PDF viewer PWA](https://webbrowsertools.com/pdf-reader)
 
 ### Screen/Display tests
 
