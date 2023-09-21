@@ -1,5 +1,6 @@
-# Active
+# Accounts
 
+## Active
 - Google/Gmail
 - Microsoft/Outlook
 - WhatsApp. I'm considering switching to Telegram or Signal. Also interested in Discord
@@ -24,8 +25,7 @@
 - [Coursera profile](https://www.coursera.org/user/cdfd656c5769f1b3785e1ae95a5d57c2)
 - [edX Profile](https://profile.edx.org/u/Rudxain)
 
-## Sub
-
+### Sub
 - [YouTube channel](https://youtube.com/@Rudxain). [My custom URL](https://youtube.com/c/RFSGameplayer) has "RFSGameplayer" because I changed it long ago when YT requisites were lower, now I can't update it to Rudxain, lol (but I have it as a handle now!). I didn't even upload "gameplays" or "let's plays", I just *planned* to do so
 - [Google/Android Developers Profile](https://g.dev/rudxain)
 - [G Learn Digital](https://learndigital.withgoogle.com)
@@ -36,8 +36,7 @@
 - G Hangouts and G Duo
 - MS Outlook Skype
 
-# Deleted
-
+## Deleted
 - Google+. Because it died with the social media, lol
 - Facebook. Usernames (sorted from oldest to newest): faladagron, faladragon, Bitscardo, RFSgp, RicardoFSerrata, RicardoFernandezSerrata, Rudxain. I only had 1 account, I never forgot the password (unlike other people, lol)
 - Instagram. I had many usernames because I **deleted it 3 or 4 times**
