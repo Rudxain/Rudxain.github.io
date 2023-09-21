@@ -7,7 +7,9 @@ The pronunciation is up to interpretation. It usually sounds similar to "Roxanne
 
 # Real
 
-My "fuller" name is Ricardo Fernández Abud Serrata Cabrera
+Ricardo Fernández Serrata. 2 surnames.
+
+My "fuller" name would include "Cabrera" and "Abud", as surnames.
 
 # Nick
 
