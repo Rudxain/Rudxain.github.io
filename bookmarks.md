@@ -78,6 +78,7 @@ This list only contains URLs that I haven't linked anywhere else
 
 ## Image
 
+- [Algorithmic Wallpaper Gen](https://bggenerator.com) (no AI)
 - [Michiru Kagemori outro looking up (phone wallpaper edit)](https://i.redd.it/6u9ggfr7ff951.jpg)
 - [Futuristic building](https://cdn.midjourney.com/611bfcf1-78df-4dd2-853f-59d15efd6324/0_2.webp)
 - ["Doodle: Go home after practice~ 🎸"](https://twitter.com/ttguweiz/status/789792797041635328) (alt="'anime' girl with guitar-case walking on the street in a rainy day"). My favorite wallpaper!
