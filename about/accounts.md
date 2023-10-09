@@ -1,11 +1,12 @@
 # Accounts
 
-## Active
-- Google/Gmail
-- Microsoft/Outlook
-- WhatsApp. I'm considering switching to Telegram or Signal. Also interested in Discord
+## Existent
+- Google. Same address as Outlook, but with `@gmail.com` suffix.
+- Microsoft. Same address as Gmail, but with `@outlook.com` suffix.
+- WhatsApp. I want to switch to Telegram or Signal. Also interested in Discord.
 - [Banco Qik RD](https://qik.do). Please, support/donate here: `DO52QDDM1000893125` (IBAN)
 - [Newgrounds user page](https://Rudxain.newgrounds.com)
+- [Reddit](https://reddit.com/u/Rudxain). [**DON'T CONTACT ME THERE**](https://reddit.com/user/Rudxain/comments/15esvam/thanks_for_betraying_me_reddit_ceos)
 - [Soundcloud profile](https://soundcloud.com/Rudxain)
 - [Wikipedia Profile](https://en.wikipedia.org/wiki/User:Rudxain)
 - [GitHub repos](https://github.com/Rudxain?tab=repositories) & [Gists](https://gist.github.com/Rudxain)
