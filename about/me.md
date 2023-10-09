@@ -7,7 +7,7 @@
 - reply/react to posts regardless of their ⌛date (I'm "ancient-agnostic", lol). [I'm kind of a historian/paleontologist myself](https://pbs.twimg.com/media/FFcEIG5WQAgBo33.jpg) XD .
 - am against indoctrination/brainwashing, religious and secular alike. I've been a victim of that, and I know how hard it is to break out of the mental prison.
 - am anti-dogmatism and anti-faith. Not anti-hope. Not anti-trust.
-- boycott: Reddit, Adobe, Apple, Samsung, and Nestlé. Even if I were rich, I **wouldn't buy a single product** from them, unless I'm *forced* to.
+- boycott: Twitter, Reddit, Adobe, Apple, Samsung, Nestlé, and Meta. Even if I were rich, I **wouldn't buy a single product** from them, unless I'm *forced* to.
 - [am anti-DRM](https://defectivebydesign.org)
 - [am pro-adoption, pro-need (not pro-choice), and pro-life (not pro-birth)](https://amptoons.com/blog/?p=13565)
 - am partially vegan (I consume animal-based products, as least as possible)
