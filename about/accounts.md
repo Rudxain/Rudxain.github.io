@@ -9,6 +9,9 @@
 - [Reddit](https://reddit.com/u/Rudxain). [**DON'T CONTACT ME THERE**](https://reddit.com/user/Rudxain/comments/15esvam/thanks_for_betraying_me_reddit_ceos)
 - [Soundcloud profile](https://soundcloud.com/Rudxain)
 - [Wikipedia Profile](https://en.wikipedia.org/wiki/User:Rudxain)
+- [Khan Academy profile](http://khanacademy.org/profile/Rudxain)
+- [Coursera profile](https://coursera.org/user/cdfd656c5769f1b3785e1ae95a5d57c2)
+- [edX Profile](https://profile.edx.org/u/Rudxain)
 - [GitHub repos](https://github.com/Rudxain?tab=repositories) & [Gists](https://gist.github.com/Rudxain)
 - [My Llamalab Automate](https://llamalab.com/automate/community/flows/42921) user-ID is #34225. A [JSON containing IDs of all my flows](https://llamalab.com/automate/community/api/v1/users/34225/flows) is available
 - [Crates.io](https://crates.io/users/Rudxain)
@@ -21,9 +24,6 @@
 - My RobTop-Games/Boomlings username is "Rudxain" (it was "RFS", before I changed it, now [someone else](https://gdbrowser.com/u/RFS) has that name). [My Geometry Dash profile](https://gdbrowser.com/u/Rudxain). I didn't had the chance to play Boomlings, but I knew about the game before RobTop removed it from G Play Store, all thanks to GD.
 - [osu! (RFS_Osu)](https://osu.ppy.sh/users/9905562)
 - My Supercell ID is "Rudxain", and my name in Brawl Stars is "Rudxain null", because apparently "Rudxain" is an *"invalid name"* but **"null" is perfectly valid** according to Supercell. I created my ID because I kinda like Brawl Stars, and I play it with my siblings. I sometimes played Clash of Clans in the past, but played as guest
-- [Khan Academy profile](http://khanacademy.org/profile/Rudxain)
-- [Coursera profile](https://www.coursera.org/user/cdfd656c5769f1b3785e1ae95a5d57c2)
-- [edX Profile](https://profile.edx.org/u/Rudxain)
 
 ### Sub
 - [YouTube channel](https://youtube.com/@Rudxain). [My custom URL](https://youtube.com/c/RFSGameplayer) has "RFSGameplayer" because I changed it long ago when YT requisites were lower, now I can't update it to Rudxain, lol (but I have it as a handle now!). I didn't even upload "gameplays" or "let's plays", I just *planned* to do so
