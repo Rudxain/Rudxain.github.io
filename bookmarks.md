@@ -34,6 +34,7 @@ This list only contains URLs that I haven't linked anywhere else
 - [Wayback Machine](https://archive.org/web) (web archives)
 - [QR-gen PWA](https://vinceumo.github.io/qr-code-generator/generator)
 - [Most active GH users in Dominican Republic](https://committers.top/dominican_republic_public). I'm at top 3 !
+- [Wasm Audacity](https://wavacity.com)
 - [OVC](https://onlinevideoconverter.com). [YTDL](https://github.com/ytdl-org/youtube-dl) is better, but OVC can slice/crop at timestamps
 - [Convert rasters to SVGs](https://svgco.de)
 - [Down Detector](https://downdetector.com). To know if it's just my connection, or if other users have the same problems
