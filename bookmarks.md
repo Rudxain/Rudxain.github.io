@@ -38,7 +38,6 @@ This list only contains URLs that I haven't linked anywhere else
 - [Wasm Audacity](https://wavacity.com)
 - [OVC](https://onlinevideoconverter.com). [YTDL](https://github.com/ytdl-org/youtube-dl) is better, but OVC can slice/crop at timestamps
 - [Convert rasters to SVGs](https://svgco.de)
-- [Down Detector](https://downdetector.com). To know if it's just my connection, or if other users have the same problems
 - [Try It Online](https://tio.run). A comprehensive collection of interpreters for normal langs and esolangs
 - [LAN file share](https://share-anywhere.com). I must replace it by a FLOSS alt.
 - [Desmos Graphing Calculator](https://desmos.com/calculator) (plotter)
@@ -46,10 +45,10 @@ This list only contains URLs that I haven't linked anywhere else
 
 ### Screen/Display tests
 
-- [Display Tester](https://play.google.com/store/apps/details?id=com.gombosdev.displaytester) (for Android)
-- [Photo Friday calibration](https://photofriday.com/info/calibrate)
+- [Android Display Tester](https://play.google.com/store/apps/details?id=com.gombosdev.displaytester)
+- [basic calibration](https://photofriday.com/info/calibrate)
 - [Lagom LCD tests](http://lagom.nl/lcd-test)
-- [TestUFO / Blur Busters](https://testufo.com)
+- [Blur Busters](https://testufo.com)
 
 ## Fun
 
@@ -58,7 +57,6 @@ This list only contains URLs that I haven't linked anywhere else
 - [Cucumber Quest](https://cucumber.gigidigi.com/cq/page-1)
 - [Windows 93](https://windows93.net)
 - [YAML bad](https://noyaml.com)
-- [Will You Press The Button?](https://willyoupressthebutton.com)
 - [Useless Websites](https://theuselessweb.com)
 - [Click x4](https://clickclickclick.click)
 
