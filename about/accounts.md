@@ -5,7 +5,6 @@
 - Microsoft. Same address as Gmail, but with `@outlook.com` suffix.
 - WhatsApp. I want to switch to Telegram or Signal. Also interested in Discord.
 - Qik. Donate here: 1000893125
-- Uber (ID unknown)
 - [Newgrounds user page](https://Rudxain.newgrounds.com)
 - [Reddit](https://reddit.com/u/Rudxain). [DON'T CONTACT ME THERE](https://reddit.com/user/Rudxain/comments/15esvam/thanks_for_betraying_me_reddit_ceos).
 - [Soundcloud profile](https://soundcloud.com/Rudxain)
