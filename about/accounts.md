@@ -4,7 +4,7 @@
 - Google. Same address as Outlook, but with `@gmail.com` suffix.
 - Microsoft. Same address as Gmail, but with `@outlook.com` suffix.
 - WhatsApp. I want to switch to Telegram or Signal. Also interested in Discord.
-- Qik. Donate here: 1000893125
+- [Banco Qik RD](https://qik.do). Donate here: `1000893125`
 - [NewGrounds user page](https://Rudxain.newgrounds.com)
 - [My Reddit](https://reddit.com/u/Rudxain). [DON'T CONTACT ME THERE](https://reddit.com/user/Rudxain/comments/15esvam/thanks_for_betraying_me_reddit_ceos).
 - [My SoundCloud](https://soundcloud.com/Rudxain)
