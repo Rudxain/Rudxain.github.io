@@ -9,20 +9,20 @@
 - [My Reddit](https://reddit.com/u/Rudxain). [DON'T CONTACT ME THERE](https://reddit.com/user/Rudxain/comments/15esvam/thanks_for_betraying_me_reddit_ceos).
 - [My SoundCloud](https://soundcloud.com/Rudxain)
 - [Wikipedia Profile](https://en.wikipedia.org/wiki/User:Rudxain)
-- [Khan Academy](http://khanacademy.org/profile/Rudxain)
+- [My Khan Academy](http://khanacademy.org/profile/Rudxain)
 - [Coursera profile](https://coursera.org/user/cdfd656c5769f1b3785e1ae95a5d57c2)
 - [My edX](https://profile.edx.org/u/Rudxain)
 - [GH repos](https://github.com/Rudxain?tab=repositories) & [Gists](https://gist.github.com/Rudxain)
 - [LL-AM quasi-profile](https://llamalab.com/automate/community/flows/42921). User-id: `#34225`. A [live JSON of all my flows](https://llamalab.com/automate/community/api/v1/users/34225/flows) is available.
-- [Crates.io](https://crates.io/users/Rudxain)
-- Rust [User](https://users.rust-lang.org/u/rudxain) & [Internals](https://internals.rust-lang.org/u/rudxain) forums.
-- [ECMAScript Discourse group](https://es.discourse.group/u/rudxain)
+- [My Crates.io](https://crates.io/users/Rudxain)
+- My Rust [User](https://users.rust-lang.org/u/rudxain) & [Internals](https://internals.rust-lang.org/u/rudxain) forum profiles.
+- [ECMAScript Discourse profile](https://es.discourse.group/u/rudxain)
 - Great Internet Mersenne Prime Search (mersenne.org). My user-id is private, and AFAIK my profile has no URL. I used to grind CPUs with Prime95, hoping to get some money, or at least help humanity get better crypto-security.
 - OpenAI/(ChatGPT & DALL-E)
-- [RFS_Roblox](https://roblox.com/users/323158352/profile). I only played with my siblings
+- [`RFS_Roblox`](https://roblox.com/users/323158352/profile). I only played with my siblings
 - [My TotalJerkFace/FancyForce](https://totaljerkface.com/profile.tjf?uid=6050400). Username: `RFSwerewolf`. I played Happy Wheels a lot!
 - My RobTop-Games/Boomlings username was `RFS`, now [someone else](https://gdbrowser.com/u/RFS) has it. [Geometry Dash profile](https://gdbrowser.com/u/Rudxain). I forgor my numeric ID 💀. I didn't have the chance to play Boomlings, but (thanks to GD) I knew about the game before RobTop removed it from G Play Store.
-- [RFS_Osu](https://osu.ppy.sh/users/9905562)
+- [`RFS_Osu`](https://osu.ppy.sh/users/9905562)!
 - Supercell ID: `Rudxain`. Brawl Stars name: "Rudxain null", because (according to Supercell) *"Rudxain" is "invalid"*. I registered because I kinda like Brawl Stars, and I played it with my siblings. I used to play Clash of Clans (only as guest, so far).
 
 ### Sub
