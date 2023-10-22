@@ -26,15 +26,15 @@
 - My Supercell ID is "Rudxain", and my name in Brawl Stars is "Rudxain null", because apparently "Rudxain" is an *"invalid name"* but **"null" is perfectly valid** according to Supercell. I created my ID because I kinda like Brawl Stars, and I played it with my siblings. I sometimes played Clash of Clans in the past, but played as guest.
 
 ### Sub
-- [YouTube channel](https://youtube.com/@Rudxain). [My custom URL](https://youtube.com/c/RFSGameplayer) has "RFSGameplayer" because I changed it long ago when YT requisites were lower, now I can't update it to Rudxain, lol (but I have it as a handle now!). I didn't even upload "gameplays" or "let's plays", I just *planned* to do so
-- [Google/Android Developers Profile](https://g.dev/rudxain)
+- [YouTube channel](https://youtube.com/@Rudxain). [My custom URL](https://youtube.com/c/RFSGameplayer) has "RFSGameplayer" because I changed it long ago when YT requisites were lower, now I can't update it to Rudxain, lol (but I have it as a handle now!). I didn't even upload "gameplays"/"let's plays", I just *planned* to do so.
+- [G/Android Developers Profile](https://g.dev/rudxain)
 - [G Learn Digital](https://learndigital.withgoogle.com)
-- [Microsoft Learn profile](https://learn.microsoft.com/en-us/users/Rudxain)
+- [MS Learn profile](https://learn.microsoft.com/en-us/users/Rudxain)
 - [G Crowdsource](https://crowdsource.google.com)
-- My G Play Games "Gamer-ID" is "rudxain"
+- G Play Games Gamer-ID: `rudxain`
 - [Xbox LIVE profile](https://account.xbox.com/en-us/profile?gamertag=Rudxain)
 - G Hangouts and G Duo
-- MS Outlook Skype
+- MS Skype. You can find me by my Outlook or phone-number (currently same as WhatsApp).
 
 ## Deleted
 - Google+. Because it died with the social media, lol
