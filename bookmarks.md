@@ -61,6 +61,7 @@ This list only contains URLs that I haven't linked anywhere else
 - [Click x4](https://clickclickclick.click)
 
 ### Games
+- [Evolutionary Trust Game](http://ncase.me/trust)
 - [GD](https://play.google.com/store/apps/details?id=com.robtopx.geometryjump)
 - [Osu!](https://osu.ppy.sh/home/download)
 - [Music Racer](https://play.google.com/store/apps/details?id=com.abstractart.music_racer)
