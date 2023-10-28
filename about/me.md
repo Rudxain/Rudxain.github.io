@@ -1,7 +1,7 @@
 # I...
 
-- am comfortable with any pronouns, but I may laugh if you call me a "she"
 - speak Español and English. I wish I learned an international [conlang](https://en.wikipedia.org/wiki/Constructed_language)
+- am comfortable with any pronouns, but I may laugh if you call me a "she"
 - am single, and waiting to meet someone that would change that state
 - studied in "Colegio Divina Pastora", "Colegio Jesús En Ti Confío", "Liceo Católico Tecnológico de Barahona", "Universidad Católica Tecnológica de Barahona" (1 semester), "Instituto Tecnológico de Santo Domingo" (only once)
 - reply/react to posts regardless of their ⌛date (I'm "ancient-agnostic", lol). [I'm kind of a historian/paleontologist myself](https://pbs.twimg.com/media/FFcEIG5WQAgBo33.jpg) XD .
@@ -13,5 +13,6 @@
 - am partially vegan (I consume animal-based products, as least as possible)
 - recycle almost anything.
 - love minimalism, hate bloat.
+- *have too much clothing.* **DON'T GIFT ME CLOTHES!** (buy them from me!)
 - want euthanasia. If my body no longer works "good enough", just end my life peacefully.
 - want my body to contribute to the ecosystem. So when I die, I don't want to be buried in a coffin. Let my body become nutritious material for plants!
