@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 9 9" style="background-color:#000" xmlns="http://www.w3.org/2000/svg">
-	<rect width="9" height="9"/>
-	<path d="M2.5,2 v5" stroke="#f00"/>
-	<path d="M3,6.5 h1.5 v-4 h1.5" stroke="#fff"/>
-	<path d="M6.5,2 v5" stroke="#0ff"/>
+<svg viewBox="0 0 9 9" xmlns="http://www.w3.org/2000/svg">
+	<circle cx="4.5" cy="4.5" r="4.5" fill="#000"/>
+	<line x1="2.5" y1="4.5" x2="2.5" y2="6.5" stroke="#f00" stroke-linecap="round"/>
+	<path d="M6.5,6.5 h-2 v-4 h-2" stroke="#fff" stroke-linecap="round"/>
+	<line x1="6.5" y1="2.5" x2="6.5" y2="4.5" stroke="#0ff" stroke-linecap="round"/>
 </svg>
