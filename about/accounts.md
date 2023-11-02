@@ -1,4 +1,9 @@
 # Accounts
+This page has 2 purposes:
+- Show my contact info
+- Deter impersonators
+
+If you find a user claiming to be me, but their account doesn't match anything here, it's extremely likely they are lying.
 
 ## Existent
 - Google. Same address as Outlook, but with `@gmail.com` suffix.
