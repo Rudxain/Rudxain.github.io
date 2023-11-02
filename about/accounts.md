@@ -3,7 +3,9 @@ This page has 2 purposes:
 - Show my contact info
 - Deter impersonators
 
-If you find a user claiming to be me, but their account doesn't match anything here, it's extremely likely they are lying. My emails and phones are private, to reduce spam.
+If you find a user claiming to be me, but their account doesn't match anything here, it's extremely likely they are lying.
+
+My emails and phones are private, to reduce spam.
 
 ## Existent
 - Google. Same address as Outlook, but with `@gmail.com` suffix.
@@ -29,18 +31,19 @@ If you find a user claiming to be me, but their account doesn't match anything h
 - [My TotalJerkFace/FancyForce](https://totaljerkface.com/profile.tjf?uid=6050400). Username: `RFSwerewolf`. I played Happy Wheels a lot!
 - My RobTop-Games/Boomlings username was `RFS`, now [someone else](https://gdbrowser.com/u/RFS) has it. [Geometry Dash profile](https://gdbrowser.com/u/Rudxain). I forgor my numeric ID 💀. I didn't have the chance to play Boomlings, but (thanks to GD) I knew about the game before RobTop removed it from G Play Store.
 - [`RFS_Osu`](https://osu.ppy.sh/users/9905562)!
-- Supercell ID: `Rudxain`. Brawl Stars name: "Rudxain null", because (according to Supercell) *"Rudxain" is "invalid"*. I registered because I kinda like Brawl Stars, and I played it with my siblings. I used to play Clash of Clans (only as guest, so far).
+- SuperCell. I registered because I kinda like Brawl Stars, and I played it with my siblings. I used to play Clash of Clans (only as guest, so far).
 
 ### Sub
 - [YT channel](https://youtube.com/@Rudxain). I registered [my custom URL](https://youtube.com/c/RFSGameplayer) when requisites were lower, now I can't update/remove it 💀. I didn't even upload "gameplays"/"let's plays", I just *planned* to do so.
+- G Hangouts and G Duo
+- MS Skype. You can find me by my phone-number (currently same as WhatsApp).
 - [My G/Android Developers](https://g.dev/rudxain)
 - G Learn Digital (learndigital.withgoogle.com)
 - [My MS Learn](https://learn.microsoft.com/en-us/users/Rudxain)
 - G CrowdSource (crowdsource.google.com)
-- G Play Games Gamer-ID: `rudxain`
+- G Play Games Gamer-ID
 - [My Xbox LIVE](https://account.xbox.com/en-us/profile?gamertag=Rudxain)
-- G Hangouts and G Duo
-- MS Skype. You can find me by my phone-number (currently same as WhatsApp).
+- Brawl Stars: "Rudxain null", because (according to Supercell) *"Rudxain" is "invalid"*.
 
 ## Lost
 - Google+. Because it died with the social media, lol.
