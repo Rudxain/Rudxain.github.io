@@ -32,7 +32,7 @@ If you find a user claiming to be me, but their account doesn't match anything h
 - Supercell ID: `Rudxain`. Brawl Stars name: "Rudxain null", because (according to Supercell) *"Rudxain" is "invalid"*. I registered because I kinda like Brawl Stars, and I played it with my siblings. I used to play Clash of Clans (only as guest, so far).
 
 ### Sub
-- [YT channel](https://youtube.com/@Rudxain). [My custom URL](https://youtube.com/c/RFSGameplayer) has "RFSGameplayer" because I changed it long ago when YT requisites were lower, now I can't update it 💀. I didn't even upload "gameplays"/"let's plays", I just *planned* to do so.
+- [YT channel](https://youtube.com/@Rudxain). I registered [my custom URL](https://youtube.com/c/RFSGameplayer) when requisites were lower, now I can't update/remove it 💀. I didn't even upload "gameplays"/"let's plays", I just *planned* to do so.
 - [My G/Android Developers](https://g.dev/rudxain)
 - G Learn Digital (learndigital.withgoogle.com)
 - [My MS Learn](https://learn.microsoft.com/en-us/users/Rudxain)
