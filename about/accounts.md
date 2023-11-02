@@ -3,7 +3,7 @@ This page has 2 purposes:
 - Show my contact info
 - Deter impersonators
 
-If you find a user claiming to be me, but their account doesn't match anything here, it's extremely likely they are lying.
+If you find a user claiming to be me, but their account doesn't match anything here, it's extremely likely they are lying. My emails and phones are private, to reduce spam.
 
 ## Existent
 - Google. Same address as Outlook, but with `@gmail.com` suffix.
