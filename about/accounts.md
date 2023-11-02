@@ -23,7 +23,7 @@ If you find a user claiming to be me, but their account doesn't match anything h
 - [My Crates.io](https://crates.io/users/Rudxain)
 - My Rust [User](https://users.rust-lang.org/u/rudxain) & [Internals](https://internals.rust-lang.org/u/rudxain) forum profiles.
 - [ECMAScript Discourse profile](https://es.discourse.group/u/rudxain)
-- Great Internet Mersenne Prime Search (mersenne.org). My user-id is private, and AFAIK my profile has no URL. I used to grind CPUs with Prime95, hoping to get some money, or at least help humanity get better crypto-security.
+- G.I.M.P.S. (mersenne.org). My user-id is private, and AFAIK my profile has no URL. I used to grind CPUs with Prime95, hoping to get some money, or at least help humanity get better crypto-security.
 - OpenAI/(ChatGPT & DALL-E)
 - [`RFS_Roblox`](https://roblox.com/users/323158352/profile). I only played with my siblings
 - [My TotalJerkFace/FancyForce](https://totaljerkface.com/profile.tjf?uid=6050400). Username: `RFSwerewolf`. I played Happy Wheels a lot!
