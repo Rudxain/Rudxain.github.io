@@ -10,7 +10,7 @@ My emails and phones are private, to reduce spam.
 ## Existent
 - Google. Same address as Outlook, but with `@gmail.com` suffix.
 - Microsoft. Same address as Gmail, but with `@outlook.com` suffix.
-- Discord.
+- [My Discord](https://discord.com/users/1168914552323326002)
 - WhatsApp. **I really want to switch** to Signal, Telegram, or any alt.
 - [Banco Qik RD](https://qik.do). Donate here: `1000893125`
 - [NewGrounds user page](https://Rudxain.newgrounds.com)
