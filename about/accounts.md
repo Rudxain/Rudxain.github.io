@@ -35,7 +35,7 @@ My emails and phones are private, to reduce spam.
 
 ### Sub
 - [YT channel](https://youtube.com/@Rudxain). I registered [my custom URL](https://youtube.com/c/RFSGameplayer) when requisites were lower, now I can't update/remove it 💀. I didn't even upload "gameplays"/"let's plays", I just *planned* to do so.
-- G Hangouts and G Duo
+- G Duo
 - MS Skype. You can find me by my phone-number (currently same as WhatsApp).
 - [My G/Android Developers](https://g.dev/rudxain)
 - G Learn Digital (learndigital.withgoogle.com)
@@ -48,7 +48,7 @@ My emails and phones are private, to reduce spam.
 ## Lost
 - Google+. Because it died with the social media, lol.
 - Frikipedia. Because it died with the website. R.I.P. both.
-- Cartoon Network. I had many accounts because I was a kid and I always forgot my password, lol. I liked to play as a "toonix" and playing Flash games like the one inspired by "How To Train Your Dragon". I never deleted any of the accounts, but I added it to this list because I forgor 💀 the usernames too, LMAO.
+- Cartoon Network. I had many accounts because I always forgot the passwords and nicknames, lol. I used to play Flash games, and explore with my toonix.
 - Club Penguin. I don't even remember if I registered 💀.
 
 ## Deleted
