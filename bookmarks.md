@@ -39,7 +39,7 @@ This list only contains URLs that I haven't linked anywhere else
 - [OVC](https://onlinevideoconverter.com). [YTDL](https://github.com/ytdl-org/youtube-dl) is better, but OVC can slice/crop at timestamps
 - [Convert rasters to SVGs](https://svgco.de)
 - [Try It Online](https://tio.run). A comprehensive collection of interpreters for normal langs and esolangs
-- [LAN file share](https://share-anywhere.com). I must replace it by a FLOSS alt.
+- [LAN file share](https://pairdrop.net)
 - [Desmos Graphing Calculator](https://desmos.com/calculator) (plotter)
 - [Szynalski tone generator](https://szynalski.com/tone-generator)
 
