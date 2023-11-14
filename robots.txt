@@ -1,9 +1,10 @@
 User-agent: *
+Disallow: /humans.txt
 Disallow: /secret/
 Disallow: /easter-egg.txt
 
 User-agent: Q5U4EX7YY2E9N
 Disallow: /bananas/ # 🍌 potassium
-Disallow: /battery-acid # this may prevent Queen from getting drunk
+Disallow: /battery-acid.drink # this may prevent Queen from getting drunk
 # Queen, if you read this, don't ignore the directives!
 # You know these are for your health!
