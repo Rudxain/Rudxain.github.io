@@ -1,3 +1,7 @@
 User-agent: *
 Disallow: /secret/
 Disallow: /easter-egg.txt
+
+User-agent: Q5U4EX7YY2E9N
+Disallow: /bananas/
+Disallow: /battery-acid
