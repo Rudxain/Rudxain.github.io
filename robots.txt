@@ -1,5 +1,7 @@
 User-agent: *
 Disallow: /humans.txt
+Disallow: /animals.txt
+Disallow: /plants.txt
 Disallow: /secret/
 Disallow: /easter-egg.txt
 
