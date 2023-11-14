@@ -46,7 +46,6 @@ This list only contains URLs that I haven't linked anywhere else
 ### Screen/Display tests
 
 - [Android Display Tester](https://play.google.com/store/apps/details?id=com.gombosdev.displaytester)
-- [basic calibration](https://photofriday.com/info/calibrate)
 - [Lagom LCD tests](http://lagom.nl/lcd-test)
 - [Blur Busters](https://testufo.com)
 
