@@ -1,9 +1,7 @@
 # ⭐
-
 This list only contains URLs that I haven't linked anywhere else
 
 ## Text
-
 - [Non-linear rounding](https://brodowsky.it-sky.net/2015/02/06/geometric-and-harmonic-rounding)
 - [CPU Land](https://cpu.land)
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html).
@@ -16,7 +14,6 @@ This list only contains URLs that I haven't linked anywhere else
 - [Paper about ByteBeat](https://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html)
 
 ### Documentation
-
 - [UTF-8 Manifesto](https://utf8everywhere.org)
 - [Esoteric Programming Languages](https://esolangs.org)
 - [Web-Safe Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals#web_safe_fonts)
@@ -27,10 +24,8 @@ This list only contains URLs that I haven't linked anywhere else
 - [Official Linux CPU governors](https://www.kernel.org/doc/html/latest/admin-guide/pm/cpufreq.html#generic-scaling-governors). Weirdly enough, `Interactive` is nowhere to be found, [not even here](https://www.kernel.org/doc/Documentation/cpu-freq/governors.txt).
 - [Android CPU Governors](https://android.googlesource.com/kernel/common/+/a7827a2a60218b25f222b54f77ed38f57aebe08b/Documentation/cpu-freq/governors.txt), [and an "msm" alt](https://android.googlesource.com/kernel/msm/+/android-msm-marlin-3.18-nougat-dr1/Documentation/cpu-freq/governors.txt).
 - [Community CPU governors](https://forum.xda-developers.com/t/cpu-governors-explained.1736168), [and an alt](https://xdaforums.com/t/cpu-governors-explained.1663809/).
-- [Llamalab Automate planned-features to-do list](https://docs.google.com/spreadsheets/u/0/d/163JyjXq3e4vWxb2mIaM2e4hObrYH6O4uIAfacCZE70c/htmlview) ([source](https://groups.google.com/g/automate-user/c/ieFxvzSiWkA/m/KubwQ4Q2AgAJ)). I use this to avoid opening duplicate issues on [the forum](https://groups.google.com/g/automate-user)
 
 ## Tools
-
 - [HTML Preview](http://htmlpreview.github.io)
 - [Wayback Machine](https://archive.org/web) (web archives)
 - [QR-gen PWA](https://vinceumo.github.io/qr-code-generator/generator)
@@ -44,13 +39,11 @@ This list only contains URLs that I haven't linked anywhere else
 - [Szynalski tone generator](https://szynalski.com/tone-generator)
 
 ### Screen/Display tests
-
 - [Android Display Tester](https://play.google.com/store/apps/details?id=com.gombosdev.displaytester)
 - [Lagom LCD tests](http://lagom.nl/lcd-test)
 - [Blur Busters](https://testufo.com)
 
 ## Fun
-
 - [Neal Fun](https://neal.fun)
 - [NAND Game](https://nandgame.com)
 - [Cucumber Quest](https://cucumber.gigidigi.com/cq/page-1)
@@ -68,7 +61,6 @@ This list only contains URLs that I haven't linked anywhere else
 - [Fire-boy & Water-girl series](https://fireboynwatergirl.com). Is this the official original URL?
 
 ## Audio
-
 - [General Fibonacci Music](https://marcthespark.github.io/FibonacciMusicBox)
 - https://wurstcaptures.untergrund.net/music
 - https://dollchan.net/bytebeat
@@ -77,7 +69,6 @@ This list only contains URLs that I haven't linked anywhere else
 - [Chrome Music Lab](https://musiclab.chromeexperiments.com)
 
 ## Image
-
 - [Algorithmic Wallpaper Gen](https://bggenerator.com) (no AI)
 - [Michiru Kagemori outro looking up (phone wallpaper edit)](https://i.redd.it/6u9ggfr7ff951.jpg)
 - [Futuristic building](https://cdn.midjourney.com/611bfcf1-78df-4dd2-853f-59d15efd6324/0_2.webp)
