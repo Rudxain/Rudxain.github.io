@@ -1,13 +1,15 @@
 # I...
 
 - speak Español and English. I wish I learned an international [conlang](https://en.wikipedia.org/wiki/Constructed_language)
-- am comfortable with any pronouns, but I may laugh if you call me a "she"
+- am male, heterosexual, and (I guess?) panromantic
+- don't care about pronouns, but it's funny to address me as anything other than "he/him" or "they/them"
 - am single, and waiting to meet someone that would change that state
 - studied in "Colegio Divina Pastora", "Colegio Jesús En Ti Confío", "Liceo Católico Tecnológico de Barahona", "Universidad Católica Tecnológica de Barahona" (1 semester), "Instituto Tecnológico de Santo Domingo" (only once)
 - reply/react to posts regardless of their ⌛date (I'm "ancient-agnostic", lol). [I'm kind of a historian/paleontologist myself](https://pbs.twimg.com/media/FFcEIG5WQAgBo33.jpg) XD .
 - am against indoctrination/brainwashing, religious and secular alike. I've been a victim of that, and I know how hard it is to break out of the mental prison.
 - am anti-dogmatism and anti-faith. Not anti-hope. Not anti-trust.
-- boycott: Twitter, [Reddit](https://reddit.com/user/Rudxain/comments/15esvam/thanks_for_betraying_me_reddit_ceos), Adobe, Apple, [Samsung](https://Rudxain.github.io/Samsung-rants), Nestlé, and Meta. Even if I were rich, I **wouldn't buy a single product** from them, unless I'm *forced* to.
+- boycott: Tencent, TikTok, Twitter, [Reddit](https://reddit.com/user/Rudxain/comments/15esvam/thanks_for_betraying_me_reddit_ceos), Adobe, Spotify, [Samsung](https://Rudxain.github.io/Samsung-rants), Apple, Nestlé, and Meta. Even if I were rich, I **wouldn't buy a single product** from them, unless I'm *forced* to.
+- hate **too many** corporations (I never thought I would ever say this!). The ones I hate the most are the ones I boycott. This is why I don't boycott G or MS, despite hating them.
 - [am anti-DRM](https://defectivebydesign.org)
 - [am pro-adoption, pro-need (not pro-choice), and pro-life (not pro-birth)](https://amptoons.com/blog/?p=13565)
 - am partially vegan (I consume animal-based products, as least as possible)
