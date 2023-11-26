@@ -9,6 +9,7 @@
 - reply/react to posts regardless of their ⌛date (I'm "ancient-agnostic", lol). [I'm kind of a historian/paleontologist myself](https://pbs.twimg.com/media/FFcEIG5WQAgBo33.jpg) XD .
 - am against indoctrination/brainwashing, religious and secular alike. I've been a victim of that, and I know how hard it is to break out of the mental prison.
 - am anti-dogmatism and anti-faith. Not anti-hope. Not anti-trust.
+- am not anti-theist, just atheist.
 - boycott: Tencent, TikTok, Twitter, [Reddit](https://reddit.com/user/Rudxain/comments/15esvam/thanks_for_betraying_me_reddit_ceos), Adobe, Spotify, [Samsung](https://Rudxain.github.io/Samsung-rants), Apple, Nestlé, and Meta. Even if I were rich, I **wouldn't buy a single product** from them, unless I'm *forced* to.
 - hate **too many** corporations (I never thought I would ever say this!). The ones I hate the most are the ones I boycott. This is why I don't boycott G or MS, despite hating them.
 - [am anti-DRM](https://defectivebydesign.org)
