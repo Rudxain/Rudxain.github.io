@@ -7,6 +7,7 @@ This list only contains URLs that I haven't linked anywhere else
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html).
 - [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://jagregory.com/abrash-black-book).
 - ["If it's free you're the product" is wrong](https://techdirt.com/2012/12/20/stop-saying-if-youre-not-paying-youre-product)
+- [SU and Eternals are **way** too similar](https://vulture.com/2022/01/eternals-is-just-the-plot-of-steven-universe.html)
 - [Most 🔥fire poem by Ron Lorent/Israel](https://cdn.verbub.com/images/ella-queria-signos-de-admiracion-el-le-daba-signos-de-interrogacion-el-112821.jpg)
 - [NEVER PARSE HTML WITH REGEX](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
 - [How async programming should be designed](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function)
