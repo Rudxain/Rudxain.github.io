@@ -10,10 +10,11 @@
 - am against indoctrination/brainwashing, religious and secular alike. I've been a victim of that, and I know how hard it is to break out of the mental prison.
 - am anti-dogmatism and anti-faith. Not anti-hope. Not anti-trust.
 - am not anti-theist, just atheist.
+- think that all ideologies are crap, because they are dogmatic and absolutist. Ideologies could be used as "templates" to take *inspiration* from, but they should **never be taken as "gospel"**.
 - boycott: Tencent, TikTok, Twitter, [Reddit](https://reddit.com/user/Rudxain/comments/15esvam/thanks_for_betraying_me_reddit_ceos), Adobe, Spotify, [Samsung](https://Rudxain.github.io/Samsung-rants), Apple, Nestlé, and Meta. Even if I were rich, I **wouldn't buy a single product** from them, unless I'm *forced* to.
 - hate **too many** corporations (I never thought I would ever say this!). The ones I hate the most are the ones I boycott. This is why I don't boycott G or MS, despite hating them.
 - [am anti-DRM](https://defectivebydesign.org)
-- [am pro-adoption, pro-need (not pro-choice), and pro-life (not pro-birth)](https://amptoons.com/blog/?p=13565)
+- [am pro-adoption, pro-need (not pro-choice), and pro-life (not pro-birth)](https://amptoons.com/blog/?p=13565). Although, I don't take any position strongly, because I need more info on the subject.
 - am partially vegan (I consume animal-based products, as least as possible)
 - recycle almost anything.
 - love minimalism, hate bloat.
