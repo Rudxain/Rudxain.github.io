@@ -27,6 +27,8 @@ This list only contains URLs that I haven't linked anywhere else
 - [Community CPU governors](https://forum.xda-developers.com/t/cpu-governors-explained.1736168), [and an alt](https://xdaforums.com/t/cpu-governors-explained.1663809/).
 
 ## Tools
+- [Best Twitter client](https://nitter.net). I'm forced to use Nitter, because other people use Twitter.
+- [0JS Reddit](https://old.reddit.com). I use it for similar reasons as Nitter, not because I prefer the old GUI. Highly recommend [this browser extension](https://github.com/tom-james-watson/old-reddit-redirect), if you can't edit the `hosts` file.
 - [HTML Preview](http://htmlpreview.github.io)
 - [Wayback Machine](https://archive.org/web) (web archives)
 - [QR-gen PWA](https://vinceumo.github.io/qr-code-generator/generator)
