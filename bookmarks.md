@@ -27,16 +27,16 @@ This list only contains URLs that I haven't linked anywhere else
 - [Community CPU governors](https://forum.xda-developers.com/t/cpu-governors-explained.1736168), [and an alt](https://xdaforums.com/t/cpu-governors-explained.1663809/).
 
 ## Tools
-- [Best Twitter client](https://nitter.net). I'm forced to use Nitter, because other people use Twitter.
-- [0JS Reddit](https://old.reddit.com). I use it for similar reasons as Nitter, not because I prefer the old GUI. Highly recommend [this browser extension](https://github.com/tom-james-watson/old-reddit-redirect), if you can't edit the `hosts` file.
 - [HTML Preview](http://htmlpreview.github.io)
 - [Wayback Machine](https://archive.org/web) (web archives)
-- [QR-gen PWA](https://vinceumo.github.io/qr-code-generator/generator)
-- [Most active GH users in Dominican Republic](https://committers.top/dominican_republic_public). I'm at top 3 !
+- [Best Twitter client](https://nitter.net). I'm forced to use Nitter, because other people use Twitter. I recommend [this browser extension](https://github.com/SimonBrazell/nitter-redirect)
+- [IG proxies](https://codeberg.org/ThePenguinDev/Proxigram/wiki/Instances). Same reason as Nitter.
+- [Reddit with minimal dependency on JS](https://old.reddit.com). I use it for similar reasons as Nitter, not because I prefer the old GUI. I recommend [this browser extension](https://github.com/tom-james-watson/old-reddit-redirect), if you can't edit the `hosts` file.
+- [Most active GH users in DR](https://committers.top/dominican_republic_public).
 - [Wasm Audacity](https://wavacity.com)
-- [OVC](https://onlinevideoconverter.com). [YTDL](https://github.com/ytdl-org/youtube-dl) is better, but OVC can slice/crop at timestamps
+- [OVC](https://onlinevideoconverter.com). [YTDL](https://github.com/ytdl-org/youtube-dl) is better, but OVC can slice/crop at timestamps before downloading
 - [Convert rasters to SVGs](https://svgco.de)
-- [Try It Online](https://tio.run). A comprehensive collection of interpreters for normal langs and esolangs
+- [Try It Online](https://tio.run). A comprehensive collection of interpreters for normal langs and eso-langs
 - [LAN file share](https://pairdrop.net)
 - [Desmos Graphing Calculator](https://desmos.com/calculator) (plotter)
 - [Szynalski tone generator](https://szynalski.com/tone-generator)
