@@ -29,17 +29,17 @@ This list only contains URLs that I haven't linked anywhere else
 ## Tools
 - [HTML Preview](http://htmlpreview.github.io)
 - [Wayback Machine](https://archive.org/web) (web archives)
-- [Best Twitter client](https://nitter.net). I'm forced to use Nitter, because other people use Twitter. I recommend [this browser extension](https://github.com/SimonBrazell/nitter-redirect)
+- [Best Twitter client](https://nitter.net). I'm forced to use Nitter, because other people use Twitter. I recommend [this browser extension](https://github.com/SimonBrazell/nitter-redirect).
 - [IG proxies](https://codeberg.org/ThePenguinDev/Proxigram/wiki/Instances). Same reason as Nitter.
 - [Reddit with minimal dependency on JS](https://old.reddit.com). I use it for similar reasons as Nitter, not because I prefer the old GUI. I recommend [this browser extension](https://github.com/tom-james-watson/old-reddit-redirect), if you can't edit the `hosts` file.
 - [Most active GH users in DR](https://committers.top/dominican_republic_public).
 - [Wasm Audacity](https://wavacity.com)
-- [OVC](https://onlinevideoconverter.com). [YTDL](https://github.com/ytdl-org/youtube-dl) is better, but OVC can slice/crop at timestamps before downloading
+- [OVC](https://onlinevideoconverter.com). [YTDL](https://github.com/ytdl-org/youtube-dl) is better, but OVC can slice/crop at timestamps before downloading.
 - [Convert rasters to SVGs](https://svgco.de)
 - [Try It Online](https://tio.run). A comprehensive collection of interpreters for normal langs and eso-langs
 - [LAN file share](https://pairdrop.net)
 - [Desmos Graphing Calculator](https://desmos.com/calculator) (plotter)
-- [Szynalski tone generator](https://szynalski.com/tone-generator)
+- [Szynalski's Oscillator](https://szynalski.com/tone-generator)
 
 ### Screen/Display tests
 - [Android Display Tester](https://play.google.com/store/apps/details?id=com.gombosdev.displaytester)
@@ -58,7 +58,6 @@ This list only contains URLs that I haven't linked anywhere else
 ### Games
 - [Evolutionary Trust Game](http://ncase.me/trust)
 - [GD](https://play.google.com/store/apps/details?id=com.robtopx.geometryjump)
-- [Osu!](https://osu.ppy.sh/home/download)
 - [Music Racer](https://play.google.com/store/apps/details?id=com.abstractart.music_racer)
 - [Data Wing](https://play.google.com/store/apps/details?id=com.DanVogt.DATAWING)
 - [Fire-boy & Water-girl series](https://fireboynwatergirl.com). Is this the official original URL?
