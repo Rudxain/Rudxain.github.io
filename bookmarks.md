@@ -16,27 +16,27 @@ This list only contains URLs that I haven't linked anywhere else
 
 ### Documentation
 - [UTF-8 Manifesto](https://utf8everywhere.org)
-- [Esoteric Programming Languages](https://esolangs.org)
 - [Web-Safe Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals#web_safe_fonts)
 - [Safer shell scripting](https://sipb.mit.edu/doc/safe-shell)
 - [Android built-in CLI utilities (all versions)](https://chromium.googlesource.com/aosp/platform/system/core/+/refs/heads/upstream/shell_and_utilities). This is like ["Can I Use"](https://caniuse.com), but for shell scripts.
 - [MKSH manual](http://mirbsd.org/htman/i386/man1/mksh.htm).
 - [Android bloat list](https://github.com/0x192/universal-android-debloater/blob/main/resources/assets/uad_lists.json)
 - [Official Linux CPU governors](https://www.kernel.org/doc/html/latest/admin-guide/pm/cpufreq.html#generic-scaling-governors). Weirdly enough, `Interactive` is nowhere to be found, [not even here](https://www.kernel.org/doc/Documentation/cpu-freq/governors.txt).
-- [Android CPU Governors](https://android.googlesource.com/kernel/common/+/a7827a2a60218b25f222b54f77ed38f57aebe08b/Documentation/cpu-freq/governors.txt), [and an "msm" alt](https://android.googlesource.com/kernel/msm/+/android-msm-marlin-3.18-nougat-dr1/Documentation/cpu-freq/governors.txt).
-- [Community CPU governors](https://forum.xda-developers.com/t/cpu-governors-explained.1736168), [and an alt](https://xdaforums.com/t/cpu-governors-explained.1663809/).
+- [Android CPU Governors](https://android.googlesource.com/kernel/common/+/a7827a2a60218b25f222b54f77ed38f57aebe08b/Documentation/cpu-freq/governors.txt), and [an "msm" alt](https://android.googlesource.com/kernel/msm/+/android-msm-marlin-3.18-nougat-dr1/Documentation/cpu-freq/governors.txt).
+- [Community CPU governors](https://forum.xda-developers.com/t/cpu-governors-explained.1736168), and [an alt](https://xdaforums.com/t/cpu-governors-explained.1663809/).
 
 ## Tools
-- [HTML Preview](http://htmlpreview.github.io)
-- [Wayback Machine](https://archive.org/web) (web archives)
+- [Web repo previewer](http://htmlpreview.github.io). For repositories that don't use GH Pages.
+- [Wayback Machine](https://archive.org/web)
+- [GD web client](https://gdbrowser.com)
 - [Best Twitter client](https://nitter.net). I'm forced to use Nitter, because other people use Twitter. I recommend [this browser extension](https://github.com/SimonBrazell/nitter-redirect).
 - [IG proxies](https://codeberg.org/ThePenguinDev/Proxigram/wiki/Instances). Same reason as Nitter.
 - [Reddit with minimal dependency on JS](https://old.reddit.com). I use it for similar reasons as Nitter, not because I prefer the old GUI. I recommend [this browser extension](https://github.com/tom-james-watson/old-reddit-redirect), if you can't edit the `hosts` file.
 - [Most active GH users in DR](https://committers.top/dominican_republic_public).
 - [Wasm Audacity](https://wavacity.com)
 - [OVC](https://onlinevideoconverter.com). [YTDL](https://github.com/ytdl-org/youtube-dl) is better, but OVC can slice/crop at timestamps before downloading.
-- [Convert rasters to SVGs](https://svgco.de)
-- [Try It Online](https://tio.run). A comprehensive collection of interpreters for normal langs and eso-langs
+- [Image vectorizer](https://svgco.de)
+- [Try It Online](https://tio.run). A comprehensive collection of interpreters for normal-langs and eso-langs
 - [LAN file share](https://pairdrop.net)
 - [Desmos Graphing Calculator](https://desmos.com/calculator) (plotter)
 - [Szynalski's Oscillator](https://szynalski.com/tone-generator)
@@ -63,6 +63,7 @@ This list only contains URLs that I haven't linked anywhere else
 - [Fire-boy & Water-girl series](https://fireboynwatergirl.com). Is this the official original URL?
 
 ## Audio
+- [GDcologne's 30$ site](https://thirtydollar.website)
 - [General Fibonacci Music](https://marcthespark.github.io/FibonacciMusicBox)
 - https://wurstcaptures.untergrund.net/music
 - https://dollchan.net/bytebeat
@@ -84,6 +85,5 @@ This list only contains URLs that I haven't linked anywhere else
 - [【新作】議事堂前大階段の木陰で](https://twitter.com/yyish/status/1614067352236326912?s=20&t=m9Vux0MvlMd1aBIMSAwhzQ). A beautiful medieval village
 - [article/gallery about Adin Campbell](https://designyoutrust.com/2020/04/these-surreal-landscapes-look-like-they-are-from-another-planet). My fave is the 1st sunset
 - [Elemental Spices](https://i.redd.it/q2fzkh53in171.jpg)
-- [Donald Trump Playskool meme](https://pbs.twimg.com/media/En2aRLAXcAAytL2.jpg)
 - ["Oh No" Penguin meme template](https://i.pinimg.com/736x/cc/f9/a0/ccf9a0a1f853d06263faa3e29f7c2702.jpg)
 - [Yoda Obama Keanu Thanos, Venn diagram](https://reddit.com/r/memes/comments/cbzu2u/credit_to_udiebetic_dodobird_it_didnt_let_me)
