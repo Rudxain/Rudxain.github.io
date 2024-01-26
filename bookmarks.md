@@ -17,6 +17,7 @@ This list only contains URLs that I haven't linked anywhere else
 ### Documentation
 - [UTF-8 Manifesto](https://utf8everywhere.org)
 - [Web-Safe Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals#web_safe_fonts)
+- [Rasterize SVGs without 3p libs](https://stackoverflow.com/questions/3975499/convert-svg-to-image-jpeg-png-etc-in-the-browser/74026755#74026755)
 - [Safer shell scripting](https://sipb.mit.edu/doc/safe-shell)
 - [Android built-in CLI utilities (all versions)](https://chromium.googlesource.com/aosp/platform/system/core/+/refs/heads/upstream/shell_and_utilities). This is like ["Can I Use"](https://caniuse.com), but for shell scripts.
 - [MKSH manual](http://mirbsd.org/htman/i386/man1/mksh.htm).
