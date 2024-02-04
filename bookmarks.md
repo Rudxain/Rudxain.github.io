@@ -55,8 +55,8 @@
 - [Click x4](https://clickclickclick.click)
 
 ### Games
+- [DR](https://deltarune.com). The website has some easter-eggs (even after Spamton Sweepstakes) that will be updated when new chapters release.
 - [Evolutionary Trust Game](http://ncase.me/trust)
-- [GD](https://play.google.com/store/apps/details?id=com.robtopx.geometryjump)
 - [Music Racer](https://play.google.com/store/apps/details?id=com.abstractart.music_racer)
 - [Data Wing](https://play.google.com/store/apps/details?id=com.DanVogt.DATAWING)
 - [Fire-boy & Water-girl series](https://fireboynwatergirl.com). Is this the official original URL?
