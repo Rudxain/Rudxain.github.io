@@ -1,5 +1,4 @@
 # ⭐
-This list only contains URLs that I haven't linked anywhere else
 
 ## Text
 - [CPU Land](https://cpu.land)
