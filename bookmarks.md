@@ -1,5 +1,4 @@
 # ⭐
-This list only contains URLs that I haven't linked anywhere else
 
 ## Text
 - [Non-linear rounding](https://brodowsky.it-sky.net/2015/02/06/geometric-and-harmonic-rounding)
