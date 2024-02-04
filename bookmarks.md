@@ -31,9 +31,7 @@ This list only contains URLs that I haven't linked anywhere else
 - [Web repo previewer](http://htmlpreview.github.io). For repositories that don't use GH Pages.
 - [Wayback Machine](https://archive.org/web)
 - [GD web client](https://gdbrowser.com)
-- [Best Twitter client](https://nitter.net). I'm forced to use Nitter, because other people use Twitter. I recommend [this browser extension](https://github.com/SimonBrazell/nitter-redirect).
-- [IG proxies](https://codeberg.org/ThePenguinDev/Proxigram/wiki/Instances). Same reason as Nitter.
-- [Reddit with minimal dependency on JS](https://old.reddit.com). I use it for similar reasons as Nitter, not because I prefer the old GUI. I recommend [this browser extension](https://github.com/tom-james-watson/old-reddit-redirect), if you can't edit the `hosts` file.
+- [Less-bloated private clients for many domains](https://codeberg.org/PrivacyDev/DPR-addon/src/branch/master/README.md#redirects), which is missing these [IG proxies](https://codeberg.org/ThePenguinDev/Proxigram/wiki/Instances).
 - [Most active GH users in DR](https://committers.top/dominican_republic_public).
 - [Wasm Audacity](https://wavacity.com)
 - [OVC](https://onlinevideoconverter.com). [YTDL](https://github.com/ytdl-org/youtube-dl) is better, but OVC can slice/crop at timestamps before downloading.
