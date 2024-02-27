@@ -1,6 +1,7 @@
 # ⭐
 
 ## Text
+- [Libre Phones](https://fsfe.org/activities/android/liberate.en.html)
 - [Libre communication](https://www.fsf.org/blogs/community/better-than-zoom-try-these-free-software-tools-for-staying-in-touch)
 - [CPU Land](https://cpu.land)
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html).
