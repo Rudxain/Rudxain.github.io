@@ -1,6 +1,7 @@
 # ⭐
 
 ## Text
+- [Libre communication](https://www.fsf.org/blogs/community/better-than-zoom-try-these-free-software-tools-for-staying-in-touch)
 - [Non-linear rounding](https://brodowsky.it-sky.net/2015/02/06/geometric-and-harmonic-rounding)
 - [CPU Land](https://cpu.land)
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html).
