@@ -5,14 +5,14 @@
 - don't care about pronouns, but it's funny to address me as anything other than "he/him" or "they/them"
 - am single, and waiting to meet someone that would change that state
 - am a programmer/coder + software developer/engineer, learning and doing [STEAM](https://en.wikipedia.org/wiki/STEAM_fields) ❤, philosopher, logician experienced (not expert) in recognizing fallacies, and theologist.
-- studied in "Colegio Divina Pastora", "Colegio Jesús En Ti Confío", "Liceo Católico Tecnológico de Barahona", "Universidad Católica Tecnológica de Barahona" (1 semester), "Instituto Tecnológico de Santo Domingo" (only once)
+- I'm currently doing courses listed by [CIC](https://cincinnatus.edu.do). After I complete the capacitation phase, I'll get my 1st job!
+- studied in "Colegio Divina Pastora", "Colegio Jesús En Ti Confío", "Liceo Católico Tecnológico de Barahona", "Universidad Católica Tecnológica de Barahona" (1 semester), "Instituto Tecnológico de Santo Domingo" (only once).
 - reply/react to posts regardless of their ⌛date (I'm "ancient-agnostic", lol). [I'm kind of a historian/paleontologist myself](https://pbs.twimg.com/media/FFcEIG5WQAgBo33.jpg) XD .
 - am against indoctrination/brainwashing, religious and secular alike. I've been a victim of that, and I know how hard it is to break out of the mental prison.
 - am anti-dogmatism and anti-faith. Not anti-hope. Not anti-trust.
 - am not anti-theist, just atheist.
 - think that all ideologies are crap, because they are dogmatic and absolutist. Ideologies could be used as "templates" to take *inspiration* from, but they should **never be taken as "gospel"**.
-- boycott: Tencent, TikTok, Twitter, [Reddit](https://reddit.com/user/Rudxain/comments/15esvam/thanks_for_betraying_me_reddit_ceos), Adobe, Spotify, [Samsung](https://Rudxain.github.io/Samsung-rants), Apple, Nestlé, and Meta. Even if I were rich, I **wouldn't buy a single product** from them, unless I'm *forced* to.
-- hate **too many** corporations (I never thought I would ever say this!). The ones I hate the most are the ones I boycott. This is why I don't boycott G or MS, despite hating them.
+- [hate **too many** corporations](https://github.com/Rudxain/RX-wiki/blob/hated/wiki/List_of_things_I_hate.md). The ones I hate the most are the ones I boycott.
 - [am anti-DRM](https://defectivebydesign.org)
 - [am pro-adoption, pro-need (not pro-choice), and pro-life (not pro-birth)](https://amptoons.com/blog/?p=13565). Although, I don't take any position strongly, because I need more info on the subject.
 - am partially vegan (I consume animal-based products, as least as possible)
