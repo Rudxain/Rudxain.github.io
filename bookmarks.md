@@ -12,7 +12,8 @@
 - [Most 🔥fire poem by Ron Lorent/Israel](https://cdn.verbub.com/images/ella-queria-signos-de-admiracion-el-le-daba-signos-de-interrogacion-el-112821.jpg)
 - [NEVER PARSE HTML WITH REGEX](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
 - [Type-driven parsing](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate)
-- [How async programming should be designed](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function)
+- [How `async` can become friendlier](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function)
+- [Why `async` distinction is worth it, sometimes](https://www.thecodedmessage.com/posts/async-colors)
 - [SSH should replace HTTPS](https://shazow.net/posts/ssh-how-does-it-even)
 - [Paper about ByteBeat](https://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html)
 
