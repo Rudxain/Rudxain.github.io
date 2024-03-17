@@ -1,6 +1,8 @@
 # I...
 
 - speak Español and English. I wish I learned an international [conlang](https://en.wikipedia.org/wiki/Constructed_language)
+- prefer [positional binary numeral system](https://youtu.be/watch?v=rDDaEVcwIJM&lc=Ugz3BY_7q89KIOJSYph4AaABAg) in any [endianess](https://en.wikipedia.org/wiki/Endianess#In_real_life), but I use [arab](https://en.wikipedia.org/wiki/Arabic_digits) big-endian decimal because everyone else does. I'm interested in [BT](https://en.wikipedia.org/wiki/Balanced_ternary), too.
+- prefer [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) date-time format, but it would be much better if months and clocks were written in [dozenal](https://en.wikipedia.org/wiki/Duodecimal).
 - don't care about pronouns, but it's funny to address me as anything other than "he/him" or "they/them"
 - am male, heterosexual, and (I guess?) panromantic
 - am single, and waiting to meet someone that would change that state
