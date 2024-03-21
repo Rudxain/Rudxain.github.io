@@ -1,6 +1,7 @@
 # ⭐
 
 ## Text
+- [Wiki without Pedia](https://wiki.c2.com)
 - [Libre Phones](https://fsfe.org/activities/android/liberate.en.html)
 - [Libre communication](https://www.fsf.org/blogs/community/better-than-zoom-try-these-free-software-tools-for-staying-in-touch)
 - [Non-linear rounding](https://brodowsky.it-sky.net/2015/02/06/geometric-and-harmonic-rounding)
@@ -10,6 +11,7 @@
 - ["If it's free you're the product" is wrong](https://techdirt.com/2012/12/20/stop-saying-if-youre-not-paying-youre-product)
 - [SU and Eternals are **way** too similar](https://vulture.com/2022/01/eternals-is-just-the-plot-of-steven-universe.html)
 - [Most 🔥fire poem by Ron Lorent/Israel](https://cdn.verbub.com/images/ella-queria-signos-de-admiracion-el-le-daba-signos-de-interrogacion-el-112821.jpg)
+- [YAML bad](https://noyaml.com)
 - [NEVER PARSE HTML WITH REGEX](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
 - [Type-driven parsing](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate)
 - [How `async` can become friendlier](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function)
@@ -56,7 +58,6 @@
 - [NAND Game](https://nandgame.com)
 - [Cucumber Quest](https://cucumber.gigidigi.com/cq/page-1)
 - [Windows 93](https://windows93.net)
-- [YAML bad](https://noyaml.com)
 - [Useless Websites](https://theuselessweb.com)
 - [Click x4](https://clickclickclick.click)
 
