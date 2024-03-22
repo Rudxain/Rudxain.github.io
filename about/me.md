@@ -14,7 +14,6 @@
 - am anti-dogmatism and anti-faith. Not anti-hope. Not anti-trust.
 - am not anti-theist, just atheist.
 - believe that all ideologies are crap, because they are dogmatic and absolutist. Ideologies could be used as "templates" to take *inspiration* from, but they should **never be taken as "gospel"**.
-- [hate **too many** corporations](https://github.com/Rudxain/RX-wiki/blob/hated/wiki/List_of_things_I_hate.md).
 - [am anti-DRM](https://defectivebydesign.org)
 - [am pro-adoption, pro-need (not pro-choice), and pro-life (not pro-birth)](https://amptoons.com/blog/?p=13565). Although, I don't take any position strongly, because I need more info on the subject.
 - am partially vegan (I consume animal-based products, as least as possible)
