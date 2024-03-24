@@ -56,6 +56,7 @@
 ## Fun
 - [Neal Fun](https://neal.fun)
 - [NAND Game](https://nandgame.com)
+- [Weird emails sent to Daniel Stenberg](https://github.com/bagder/emails)
 - [Hate-mail sent to FSM](https://www.spaghettimonster.org/category/hate-mail). It's so funny reading people become heretics for the sake of defending their personal beliefs from other heretics! [Oh, the irony...](https://rudxain.github.io/RX-wiki/wiki/Calpas_Paradox.html)
 - [Cucumber Quest](https://cucumber.gigidigi.com/cq/page-1)
 - [Windows 93](https://windows93.net)
