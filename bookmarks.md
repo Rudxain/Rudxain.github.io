@@ -47,6 +47,7 @@
 - [Desmos Graphing Calculator](https://desmos.com/calculator) (plotter)
 - [Szynalski's Oscillator](https://szynalski.com/tone-generator)
 - [Enhance privacy & security on major OSes](https://privacy.sexy)
+- [Better G Play Store](https://auroraoss.com)
 
 ### Screen/Display tests
 - [Android Display Tester](https://play.google.com/store/apps/details?id=com.gombosdev.displaytester)
