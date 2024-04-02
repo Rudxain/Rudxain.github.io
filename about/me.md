@@ -7,7 +7,6 @@
 - am male, heterosexual, and (I guess?) panromantic
 - am single, and waiting to meet someone that would change that state
 - am a programmer/coder + software developer/engineer, learning and doing [STEAM](https://en.wikipedia.org/wiki/STEAM_fields) ❤, philosopher, logician experienced (not expert) in recognizing fallacies, and theologist.
-- I'm currently doing courses listed by [CIC](https://cincinnatus.edu.do). After I complete the technical-capacitation phase, I'll get my 1st job!
 - studied in "Colegio Divina Pastora", "Colegio Jesús En Ti Confío", "Liceo Católico Tecnológico de Barahona", "Universidad Católica Tecnológica de Barahona" (1 semester), "Instituto Tecnológico de Santo Domingo" (only once).
 - reply/react to posts regardless of their ⌛age (I'm "ancient-agnostic", lol). [I'm kind of a historian/paleontologist myself](https://pbs.twimg.com/media/FFcEIG5WQAgBo33.jpg) XD .
 - am against indoctrination/brainwashing, religious and secular alike. I've been a victim of that, and I know how hard it is to break out of the mental prison.
