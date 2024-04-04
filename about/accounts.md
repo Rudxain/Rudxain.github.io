@@ -3,15 +3,21 @@ This page has 2 purposes:
 - Show my contact info
 - Deter impersonators
 
-If you find a user claiming to be me, but their account doesn't match anything here, it's extremely likely they are lying.
+If you find a user claiming to be me, but their account doesn't match anything here, it's extremely likely they're lying.
 
-My emails and phones are private, to reduce spam.
+My emails and phones are private, to reduce spam. If you need those addresses, ask privately.
+
+My personal email addresses **do not contain by name, nickname**, or anything that looks similar to those.
+
+My `*.edu.do` emails **contain my shortened real name**. Such as my:
+- CIC Gmail
+- UCATEBA Outlook
 
 ## Existent
-- Google. Same address as Outlook, but with `@gmail.com` suffix.
-- Microsoft. Same address as Gmail, but with `@outlook.com` suffix.
+- Google. Same address as Outlook, but `*@gmail.com`.
+- Microsoft. Same address as Gmail, but `*@outlook.com`.
 - [My Discord](https://discord.com/users/1168914552323326002)
-- WhatsApp. **I really want to switch** to Signal, Telegram, or any alt.
+- WhatsApp. **I really want to switch** to Signal, Telegram, Matrix, or any alt.
 - [Banco Qik RD](https://qik.do). Donate here: `1000893125`
 - [NewGrounds user page](https://Rudxain.newgrounds.com)
 - [My Reddit](https://reddit.com/u/Rudxain). [DON'T CONTACT ME THERE](https://reddit.com/user/Rudxain/comments/15esvam/thanks_for_betraying_me_reddit_ceos).
