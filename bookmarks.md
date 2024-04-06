@@ -12,7 +12,7 @@
 - [SU and Eternals are **way** too similar](https://vulture.com/2022/01/eternals-is-just-the-plot-of-steven-universe.html)
 - [Most 🔥fire poem by Ron Lorent/Israel](https://cdn.verbub.com/images/ella-queria-signos-de-admiracion-el-le-daba-signos-de-interrogacion-el-112821.jpg)
 - [YAML bad](https://noyaml.com)
-- [NEVER PARSE HTML WITH REGEX](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
+- [NEVER PARSE H̸͖̤̱̺̲̼̹̹̼͉̲̎͋͛̈́̏̌̏̐̑͂͊͑͗͗͘͜͝ͅȚ̷̭̱̲͛͑̂̓̿̀͋͊͝M̴̡̑L̷̨̜̦͋̓͆̿͜͝ ̷̘͕̥͙̭̟̫̥̞̦͛̈̈̎̍̓̍͐͝W̶̭̖͙̙̟͍̳͈̭̖̬̭̳̦̭̓̉̽̈́͜͜Į̷̫͔̗̗̺̩̤̈́̔̒̎̆̐̃͒̓̈́̽̔̅͌̅͘͠T̸̢̢͇̩̤̜̫͇͚͈͇͍̘̾̇̅̉ͅH̶̖̉̏̔̊͆͜ ̴̨̳̱̖͓̺̱͈̈͒̏̅̌̌͂Ŗ̸̨̻̥̼̌͒̃̎̇̅̓̓̿̈̀̒͛̈͜ͅȄ̶̫̥̝͕̣͕̪̠̹͎͖̲͍̑̏̃̌̉̓̎͜G̵̡̯͔̝̻̲͔̹̬͙͋͋̎͗̽̈́̆̌̈̔̀Ę̴̨̛̥̩̣̫̰͈̫̬͎͖̳̠̻̯̌̏͐̇́̔̎̾̊̉̀͘͜X̷͚͍͓̻̗̼͕̝̯̿̆͑͛͜](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
 - ["Ghosts of Departed Proofs"](https://kataskeue.com/gdp.pdf), related to the next link...
 - [Type-driven parsing](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate)
 - [How `async` can become friendlier](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function)
