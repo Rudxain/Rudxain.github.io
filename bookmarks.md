@@ -45,7 +45,7 @@
 - [OVC](https://onlinevideoconverter.com). [YTDL](https://github.com/ytdl-org/youtube-dl) is better, but OVC can slice/crop at timestamps before downloading.
 - [Image vectorizer](https://svgco.de)
 - [Try It Online](https://tio.run). A comprehensive collection of interpreters for normal-langs and eso-langs
-- [LAN file share](https://pairdrop.net)
+- [LAN file share](https://pairdrop.net), and [an alt](https://www.sharedrop.io).
 - [Desmos Graphing Calculator](https://desmos.com/calculator) (plotter)
 - [Szynalski's Oscillator](https://szynalski.com/tone-generator)
 - [Enhance privacy & security on major OSes](https://privacy.sexy)
