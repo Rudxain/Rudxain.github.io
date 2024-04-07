@@ -9,7 +9,6 @@
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html).
 - [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://jagregory.com/abrash-black-book).
 - ["If it's free you're the product" is wrong](https://techdirt.com/2012/12/20/stop-saying-if-youre-not-paying-youre-product)
-- [Why faith is more nuanced than simply "delusion"](https://www.theguardian.com/science/brain-flapping/2017/sep/21/why-religious-belief-isnt-a-delusion-in-psychological-terms-at-least). I'm adding this so people can't say that I'm a "biased atheist", and because the article makes some good (and interesting) points that highlight the complexity of human psychology.
 - [SU and Eternals are **way** too similar](https://vulture.com/2022/01/eternals-is-just-the-plot-of-steven-universe.html)
 - [Most 🔥fire💯 poem by Ron Lorent/Israel](https://cdn.verbub.com/images/ella-queria-signos-de-admiracion-el-le-daba-signos-de-interrogacion-el-112821.jpg)
 - [⚠️YAML bad⚠️](https://noyaml.com)
