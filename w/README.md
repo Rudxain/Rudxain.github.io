@@ -5,6 +5,7 @@
 - [Griznoz](Griznoz.md)
 - [Phoenix Buster](Phoenix_Buster.md) <!-- BTD intentionally unlisted/unindexed -->
 - [CPU EsoGov List](List_of_CPU_Eso-Governors.md)
+- [SVA](Scalable_Vector_Audio.md)
 - [Fold Theory](Fold_Theory.md)
 - [Rosettoid](Rosetta-like.md)
 - [Non-code linter](Non-code_linter.md)
