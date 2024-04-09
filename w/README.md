@@ -7,6 +7,7 @@
 - [CPU EsoGov List](List_of_CPU_Eso-Governors.md)
 - [Fold Theory](Fold_Theory.md)
 - [Rosettoid](Rosetta-like.md)
+- [Non-code linter](Non-code_linter.md)
 - [Palindromes](Types_of_palindrome.md)
 - [`abs` quotient](Absolute_ratio.md)
 - [`P`-ness](p-ness.md)
