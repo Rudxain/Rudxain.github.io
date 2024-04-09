@@ -2,6 +2,7 @@
 
 - [ℹ️About](./about)
 - [📖Wiki](https://Rudxain.github.io/RX-wiki)
+- [📓Blog](https://Rudxain.github.io/blog)
 - [⭐️bookmarks](https://Rudxain.github.io/bookmarks)
 - [Samsung 🤬rants](https://Rudxain.github.io/Samsung-rants)
 - [The Matrix Digital Rain but RGB](https://Rudxain.github.io/RGB-digital-rain). Source repo [here](https://github.com/Rudxain/RGB-digital-rain)
