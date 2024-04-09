@@ -9,6 +9,7 @@
 - [Fold Theory](Fold_Theory.md)
 - [RASL / Min-axiom language](Min_axiom_lang.md)
 - [Rosettoid](Rosetta-like.md)
+- [Non-code linter](Non-code_linter.md)
 - [Palindromes](Types_of_palindrome.md)
 - [`abs` quotient](Absolute_ratio.md)
 - [`P`-ness](p-ness.md)
