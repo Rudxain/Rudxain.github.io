@@ -5,6 +5,7 @@
 - [Libre Phones](https://fsfe.org/activities/android/liberate.en.html)
 - [Libre communication](https://www.fsf.org/blogs/community/better-than-zoom-try-these-free-software-tools-for-staying-in-touch)
 - [Non-linear `Math.round`](https://brodowsky.it-sky.net/2015/02/06/geometric-and-harmonic-rounding)
+- [Polygon Continuum](https://chalkdustmagazine.com/blog/overturned-polygons). This is a blog-post about `0 <= sides < 3`, and it includes links to 2 other blogs about negative and fractional sides. It explores the idea of _extending polygon sides to be Real numbers_.
 - [CPU Land](https://cpu.land)
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html).
 - [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://jagregory.com/abrash-black-book).
