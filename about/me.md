@@ -11,6 +11,7 @@
 - reply/react to posts regardless of their ⌛age (I'm "ancient-agnostic", lol). [I'm kind of a historian/paleontologist myself](https://pbs.twimg.com/media/FFcEIG5WQAgBo33.jpg) XD .
 - am against indoctrination/brainwashing, religious and secular alike. I've been a victim of that, and I know how hard it is to break out of the mental prison.
 - am anti-dogmatism and anti-faith. Not anti-hope. Not anti-trust.
+- Writing algorithms/protocols is the equivalent of writing dogmas. I only support this if those dogmas are applied to non-sentient beings, such as AI (not AGI) and computers. Humans, aliens, and (most) animals deserve freedom of thought.
 - am not anti-theist, just atheist.
 - believe that all ideologies are crap, because they are dogmatic and absolutist. Ideologies could be used as "templates" to take *inspiration* from, but they should **never be taken as "gospel"**.
 - [am anti-DRM](https://defectivebydesign.org)
