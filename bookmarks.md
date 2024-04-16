@@ -30,9 +30,6 @@
 - [Android built-in CLI utilities (all versions)](https://chromium.googlesource.com/aosp/platform/system/core/+/refs/heads/upstream/shell_and_utilities). This is like ["CIU"](https://caniuse.com), but for shell scripts.
 - [MKSH manual](http://mirbsd.org/htman/i386/man1/mksh.htm).
 - [Android bloat list](https://raw.githubusercontent.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/main/resources/assets/uad_lists.json)
-- [Official Linux CPU governors](https://www.kernel.org/doc/html/latest/admin-guide/pm/cpufreq.html#generic-scaling-governors). Weirdly enough, `Interactive` is nowhere to be found, [not even here](https://www.kernel.org/doc/Documentation/cpu-freq/governors.txt).
-- [Android CPU Governors](https://android.googlesource.com/kernel/common/+/a7827a2a60218b25f222b54f77ed38f57aebe08b/Documentation/cpu-freq/governors.txt), and [an "msm" alt](https://android.googlesource.com/kernel/msm/+/android-msm-marlin-3.18-nougat-dr1/Documentation/cpu-freq/governors.txt).
-- [Community CPU governors](https://forum.xda-developers.com/t/cpu-governors-explained.1736168), and [an alt](https://xdaforums.com/t/cpu-governors-explained.1663809/).
 - [Simple alternative to Android](https://postmarketos.org)
 - [Better G Play Store](https://auroraoss.com)
 
