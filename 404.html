@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang=en>
+	<head>
+		<meta charset=UTF-8>
+		<meta name=viewport content="width=device-width, initial-scale=1">
+		<title>Not found | Rudxain @ GHP</title>
+		<link rel=icon type=image/xml+svg href=/404.svg>
+		<meta name=color-scheme content="light dark">
+		<style>html{font-family:monospace}</style>
+	</head>
+	<body>
+		<header><h1>Title not found 💀</h1></header>
+		<section>
+			<p>The file you requested doesn't exist right now.</p>
+			<p>Remember URLs are case-sensitive (except domain-names)</p>
+		</section>
+		<footer>
+			<a href="https://githubstatus.com">GH Status</a>
+		</footer>
+		<script>
+			'use strict'
+			const msgs = [
+				"It seems you're out of bounds...",
+				"Can't have pages in Ohio 💀",
+				"You just invoked Undefined Behavior!!!",
+				"Was that a typo?",
+				"bruh"
+			]
+			const title = document.querySelector("h1")
+			title.innerText = msgs[Math.random() * msgs.length >>>0]
+		</script>
+	</body>
+</html>
