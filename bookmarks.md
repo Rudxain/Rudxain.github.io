@@ -19,6 +19,9 @@
 - [How `async` can become friendlier](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function)
 - [Why `async` distinction is worth it, sometimes](https://www.thecodedmessage.com/posts/async-colors)
 - [SSH should replace HTTPS](https://shazow.net/posts/ssh-how-does-it-even)
+- [Relationship between Hawking Radiation and Casimir Effect](https://scholar.uwindsor.ca/cgi/viewcontent.cgi?article=3917&context=etd).  This is a thesis by Darragh Rooney that suggests it's connected to quantum gravity. BTW, please debate in the Wikipedia Talk pages:
+	- https://en.wikipedia.org/wiki/Talk:Casimir_effect#Hawking_radiation_%22analogy%22
+	- https://en.wikipedia.org/wiki/Talk:Hawking_radiation#Relationship_to_Casimir_Effect
 - [Paper about ByteBeat](https://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html)
 
 ### Documentation
