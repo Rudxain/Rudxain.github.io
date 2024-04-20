@@ -1,23 +1,26 @@
 # ⭐
+This is a curated collection of links to a wide gamut of content.
+
+Unlike typical browser "favorites"/"bookmarks", most of these links are _infrequently_ visited. They're here because they're **too valuable to be forgotten**. A minority of links are simply underrated.
+
+To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages domain or my GH Profile-`README`, they'll be removed from this page.
 
 ## Text
-- [Wiki without Pedia](https://wiki.c2.com)
 - [Libre Phones](https://fsfe.org/activities/android/liberate.en.html)
 - [Libre communication](https://www.fsf.org/blogs/community/better-than-zoom-try-these-free-software-tools-for-staying-in-touch)
 - [Non-linear `Math.round`](https://brodowsky.it-sky.net/2015/02/06/geometric-and-harmonic-rounding)
 - [Polygon Continuum](https://chalkdustmagazine.com/blog/overturned-polygons). This is a blog-post about `0 <= sides < 3`, and it includes links to 2 other blogs about negative and fractional sides. It explores the idea of _extending polygon sides to be Real numbers_.
-- [CPU Land](https://cpu.land)
-- [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html).
-- [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://jagregory.com/abrash-black-book).
-- ["If it's free you're the product" is wrong](https://techdirt.com/2012/12/20/stop-saying-if-youre-not-paying-youre-product)
+- ["Putting the “You” in CPU"](https://cpu.land)
+- [Bit Twiddling Tricks](https://graphics.stanford.edu/~seander/bithacks.html).
+- [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://jagregory.com/abrash-black-book). Includes an over-optimized impl of [CGoL](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+- ["If it's free you're the product" fallacy](https://techdirt.com/2012/12/20/stop-saying-if-youre-not-paying-youre-product)
 - [SU and Eternals are **way** too similar](https://vulture.com/2022/01/eternals-is-just-the-plot-of-steven-universe.html)
 - [Most 🔥fire💯 poem by Ron Lorent/Israel](https://cdn.verbub.com/images/ella-queria-signos-de-admiracion-el-le-daba-signos-de-interrogacion-el-112821.jpg)
 - [⚠️YAML bad⚠️](https://noyaml.com)
-- [NEVER PARSE H̸͖̤̱̺̲̼̹̹̼͉̲̎͋͛̈́̏̌̏̐̑͂͊͑͗͗͘͜͝ͅȚ̷̭̱̲͛͑̂̓̿̀͋͊͝M̴̡̑L̷̨̜̦͋̓͆̿͜͝ ̷̘͕̥͙̭̟̫̥̞̦͛̈̈̎̍̓̍͐͝W̶̭̖͙̙̟͍̳͈̭̖̬̭̳̦̭̓̉̽̈́͜͜Į̷̫͔̗̗̺̩̤̈́̔̒̎̆̐̃͒̓̈́̽̔̅͌̅͘͠T̸̢̢͇̩̤̜̫͇͚͈͇͍̘̾̇̅̉ͅH̶̖̉̏̔̊͆͜ ̴̨̳̱̖͓̺̱͈̈͒̏̅̌̌͂Ŗ̸̨̻̥̼̌͒̃̎̇̅̓̓̿̈̀̒͛̈͜ͅȄ̶̫̥̝͕̣͕̪̠̹͎͖̲͍̑̏̃̌̉̓̎͜G̵̡̯͔̝̻̲͔̹̬͙͋͋̎͗̽̈́̆̌̈̔̀Ę̴̨̛̥̩̣̫̰͈̫̬͎͖̳̠̻̯̌̏͐̇́̔̎̾̊̉̀͘͜X̷͚͍͓̻̗̼͕̝̯̿̆͑͛͜](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
+- [NEVER PARSE H̶͎͒̄Ṭ̴̢̺̇͒̕M̵͎̹̮̤̑L̸̥̺̩̰̔̓͊̐̔̈́ ̶̞̻̒̈́͝W̵̰̐̿̎I̶̧̩̳͈͕̽̿͜T̷͇̱̭̝̺̃H̷̢̛̳͈͔̄̍̉̾ ̶̡̬̊̏̒̂͘R̸̨͇̱̐̃͛̃̑Ḛ̷̢͎͕̊͌̊̆̈́͂G̸̲̮̥̫̐͆̅̈͛͝E̶͖͚̎X̴̨̢̹̘̲̌ͅ](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
 - ["Ghosts of Departed Proofs"](https://kataskeue.com/gdp.pdf), related to the next link...
 - [Type-driven parsing](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate)
-- [How `async` can become friendlier](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function)
-- [Why `async` distinction is worth it, sometimes](https://www.thecodedmessage.com/posts/async-colors)
+- [Why "`async` color-blindness" isn't always worth it](https://www.thecodedmessage.com/posts/async-colors)
 - [SSH should replace HTTPS](https://shazow.net/posts/ssh-how-does-it-even)
 - [Relationship between Hawking Radiation and Casimir Effect](https://scholar.uwindsor.ca/cgi/viewcontent.cgi?article=3917&context=etd).  This is a thesis by Darragh Rooney that suggests it's connected to quantum gravity. BTW, please debate in the Wikipedia Talk pages:
 	- https://en.wikipedia.org/wiki/Talk:Casimir_effect#Hawking_radiation_%22analogy%22
@@ -81,15 +84,14 @@
 
 ## Image
 - [Algorithmic Wallpaper Gen](https://bggenerator.com) (no AI)
-- ["Doodle: Go home after practice~ 🎸"](https://twitter.com/ttguweiz/status/789792797041635328) (alt="'anime' girl with guitar-case walking on the street in a rainy day"). My favorite wallpaper!
-- [sunset in a cloudy city](https://pixiv.net/en/artworks/53727984). My 2nd fave
-- [minimalist Material-Design plane on cyan background](https://pinterest.com/pin/652670170976893995). I wish I had an SVG version of this
+- ["Doodle: Go home after practice~ 🎸"](https://twitter.com/ttguweiz/status/789792797041635328) (alt="'anime' girl with guitar-case walking on the street in a rainy day")
+- [sunset in a cloudy city](https://pixiv.net/en/artworks/53727984)
+- [minimalist Material-Design plane on cyan background](https://pinterest.com/pin/652670170976893995). I wish I had an SVG version of this.
 - [minimalist "Tron: Legacy" digital bike](https://wallpapercave.com/wp/wp4939898.jpg)
 - [cat scribbles on lined paper](https://i.imgur.com/LiaZKxX.jpg). Very creative use of lines!
-- [same as above, but sliced by the lines (mild gore)](https://i.imgur.com/V3AZ5S0.jpeg)
+- [same as above, but sliced by the lines (⚠️ mild gore)](https://i.imgur.com/V3AZ5S0.jpeg)
 - [black-hole/quasar sucking a star](https://deviantart.com/andrewvideos510art/art/Blaze-To-Galaxy-828750511)
-- [🦢swan in the ocean sunset](https://pinterest.com/pin/swan-digital-art-4k-background--688558230527276725)
-- [【新作】議事堂前大階段の木陰で](https://twitter.com/yyish/status/1614067352236326912?s=20&t=m9Vux0MvlMd1aBIMSAwhzQ). A beautiful medieval village
+- [🦢swan on a body of water under a cloudy sky at sunset with lens-flare](https://i.pinimg.com/736x/ab/6b/0a/ab6b0afb9b942f85ade1b50340ac259a.jpg)
 - [article/gallery about Adin Campbell](https://designyoutrust.com/2020/04/these-surreal-landscapes-look-like-they-are-from-another-planet). My fave is the 1st sunset
 - [Elemental Spices](https://i.redd.it/q2fzkh53in171.jpg)
 - ["Oh No" Penguin meme template](https://i.pinimg.com/736x/cc/f9/a0/ccf9a0a1f853d06263faa3e29f7c2702.jpg)
