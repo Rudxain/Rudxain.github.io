@@ -37,7 +37,7 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 ## Tools
 "as-is" are apps usable as-is, for browsers. "Indirect" are non cross-platform software and hardware.
 - As-is
-	- [Web repo previewer](http://htmlpreview.github.io). For repositories that don't use GH Pages.
+	- [Web repo previewer](http://htmlpreview.github.io). For repositories that don't use GH-Pages.
 	- [Wayback Machine](https://archive.org/web)
 	- [GD web client](https://gdbrowser.com)
 	- [OVC](https://onlinevideoconverter.com). [YTDL](https://github.com/ytdl-org/youtube-dl) is better, but OVC can slice/crop at timestamps before downloading.
@@ -64,7 +64,7 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - [Useless Websites](https://theuselessweb.com)
 - [Click ×4](https://clickclickclick.click)
 - [ΔR](https://deltarune.com). The website has some easter-eggs (even after Spamton Sweepstakes) that will be updated when new chapters release.
-- [Evolutionary Trust Game](http://ncase.me/trust)
+- [Evolutionary Prisoner's Dilemma game](http://ncase.me/trust)
 - [Data Wing](https://play.google.com/store/apps/details?id=com.DanVogt.DATAWING)
 - [🔥♂️&💧♀️ saga](https://fireboynwatergirl.com). Is this the official original URL?
 
@@ -73,7 +73,7 @@ Most of these aren't audio data per-se, they're more akin to digital-audio-works
 - [Wasm Audacity](https://wavacity.com)
 - [∿ Szynalski's Oscillator](https://szynalski.com/tone-generator)
 - [GDcologne's 30$ site 🗿](https://thirtydollar.website)
-- [General Fibonacci Music](https://marcthespark.github.io/FibonacciMusicBox)
+- [Generalized Fibonacci Music](https://marcthespark.github.io/FibonacciMusicBox)
 - [Improved ByteBeat player](https://wurstcaptures.untergrund.net/music)
 - [BB DAW](https://dollchan.net/bytebeat), and [alt](https://bytebeat.ficial.net)
 - [BB waveform visualizer](https://greggman.com/downloads/examples/html5bytebeat/html5bytebeat.html)
@@ -85,11 +85,11 @@ Most of these aren't audio data per-se, they're more akin to digital-audio-works
 	- [Algorithmic Wallpaper Gen](https://bggenerator.com) (no AI)
 	- [Adin Campbell article+gallery](https://designyoutrust.com/2020/04/these-surreal-landscapes-look-like-they-are-from-another-planet). My fave is the 1st sunset.
 - Single
-	- ["Doodle: Go home after practice~ 🎸"](https://twitter.com/ttguweiz/status/789792797041635328) (alt="'anime' girl with guitar-case walking on the street in a rainy day")
+	- ["Doodle: Go home after practice~ 🎸"](https://twitter.com/ttguweiz/status/789792797041635328), alt: girl with guitar-case walking on the street in a rainy day.
 	- [sunset in a cloudy city](https://pixiv.net/en/artworks/53727984)
 	- [minimalist Material-Design plane on cyan background](https://pinterest.com/pin/652670170976893995). I wish I had an SVG version of this.
 	- [minimalist "Tron: Legacy" digital bike](https://wallpapercave.com/wp/wp4939898.jpg)
-	- [cat scribbles on lined paper](https://i.imgur.com/LiaZKxX.jpg). Very creative use of lines!
+	- [cat scribbles on lined paper](https://i.imgur.com/LiaZKxX.jpg). Creative use of lines!
 	- [same as above, but sliced by the lines (⚠️ mild gore)](https://i.imgur.com/V3AZ5S0.jpeg)
 	- [black-hole/quasar sucking a star](https://deviantart.com/andrewvideos510art/art/Blaze-To-Galaxy-828750511)
 	- [🦢swan on a body of water under a cloudy sky at sunset with lens-flare](https://i.pinimg.com/736x/ab/6b/0a/ab6b0afb9b942f85ade1b50340ac259a.jpg)
