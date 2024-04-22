@@ -8,7 +8,7 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - [Text editors are complex beasts](https://lord.io/text-editing-hates-you-too), a reply/follow-up to [_"Text Rendering Hates You"_](https://gankra.github.io/blah/text-hates-you) by Aria/Alexis Beingessner
 - [Non-linear `Math.round`](https://brodowsky.it-sky.net/2015/02/06/geometric-and-harmonic-rounding)
 - [Polygon Continuum](https://chalkdustmagazine.com/blog/overturned-polygons). This is a blog-post about `0 <= sides < 3`, and it includes links to 2 other blogs about negative and fractional sides. It explores the idea of _extending polygon sides to be Real numbers_.
-- [Bitwise Twiddling tricks](https://graphics.stanford.edu/~seander/bithacks.html).
+- [Bitwise Twiddling tricks](https://graphics.stanford.edu/~seander/bithacks.html)
 - [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://jagregory.com/abrash-black-book). Includes an over-optimized impl of [CGoL](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). I would pay >50$ for this.
 - ["If it's free you're the product" fallacy](https://techdirt.com/2012/12/20/stop-saying-if-youre-not-paying-youre-product)
 - [SU and Eternals are **way** too similar](https://vulture.com/2022/01/eternals-is-just-the-plot-of-steven-universe.html)
@@ -50,7 +50,7 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 	- [Enhance privacy & security on major OSes](https://privacy.sexy)
 	- [Libre communication](https://www.fsf.org/blogs/community/better-than-zoom-try-these-free-software-tools-for-staying-in-touch)
 	- [Less-bloated private clients for many domains](https://codeberg.org/PrivacyDev/DPR-addon/src/branch/master/README.md#redirects), which is missing these [IG proxies](https://codeberg.org/ThePenguinDev/Proxigram/wiki/Instances).
-	- [Libre Phones](https://fsfe.org/activities/android/liberate.en.html)
+	- [Libre Phones](https://fsfe.org/activities/android/liberate.en)
 	- [Simple alternative to Android](https://postmarketos.org)
 	- [Better G Play Store](https://auroraoss.com)
 	- [Android Display Tester](https://play.google.com/store/apps/details?id=com.gombosdev.displaytester)
@@ -59,7 +59,7 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - [♾️Craft](https://neal.fun/infinite-craft)
 - [💾NAND Game](https://nandgame.com)
 - [🤨Weird 📧 sent to Daniel Stenberg](https://github.com/bagder/emails)
-- [🤬📧 sent to 🪽🍝FSM](https://www.spaghettimonster.org/category/hate-mail). It's so funny reading people become heretics for the sake of defending their personal beliefs from other heretics! [Oh, the irony...](https://rudxain.github.io/RX-wiki/wiki/Calpas_Paradox.html)
+- [🤬📧 sent to 🪽🍝FSM](https://www.spaghettimonster.org/category/hate-mail). It's so funny reading people become heretics for the sake of defending their personal beliefs from other heretics! [Oh, the irony...](https://rudxain.github.io/RX-wiki/wiki/Calpas_Paradox)
 - [🥒Cucumber Quest](https://cucumber.gigidigi.com/cq/page-1)
 - [W93](https://windows93.net)
 - [Useless Websites](https://theuselessweb.com)
