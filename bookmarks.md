@@ -4,6 +4,8 @@ Unlike typical browser "favorites"/"bookmarks", most of these links are _infrequ
 To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages domain or my GH Profile-`README`, they'll be removed from this page.
 
 ## Text
+- [UTF-8 Manifesto](https://utf8everywhere.org)
+- [Text editors are complex beasts](https://lord.io/text-editing-hates-you-too), a reply/follow-up to ["Text Rendering Hates You"](https://gankra.github.io/blah/text-hates-you) by Aria/Alexis Beingessner
 - [Non-linear `Math.round`](https://brodowsky.it-sky.net/2015/02/06/geometric-and-harmonic-rounding)
 - [Polygon Continuum](https://chalkdustmagazine.com/blog/overturned-polygons). This is a blog-post about `0 <= sides < 3`, and it includes links to 2 other blogs about negative and fractional sides. It explores the idea of _extending polygon sides to be Real numbers_.
 - [Bitwise Twiddling tricks](https://graphics.stanford.edu/~seander/bithacks.html).
@@ -24,7 +26,6 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 
 ### Documentation
 - ["Putting the “You” in CPU"](https://cpu.land), learn how programs **actually** execute.
-- [UTF-8 Manifesto](https://utf8everywhere.org)
 - [In-depth JS Task-Queue optimization](https://web.dev/articles/optimize-long-tasks)
 - [Web-Safe Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals#web_safe_fonts)
 - [Rasterize SVGs without 3p libs](https://stackoverflow.com/questions/3975499/convert-svg-to-image-jpeg-png-etc-in-the-browser/74026755#74026755)
