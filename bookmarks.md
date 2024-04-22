@@ -4,6 +4,8 @@ Unlike typical browser "favorites"/"bookmarks", most of these links are _infrequ
 To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages domain or my GH Profile-`README`, they'll be removed from this page.
 
 ## Text
+- [UTF-8 Manifesto](https://utf8everywhere.org)
+- [Text editors are complex beasts](https://lord.io/text-editing-hates-you-too), a reply/follow-up to [_"Text Rendering Hates You"_](https://gankra.github.io/blah/text-hates-you) by Aria/Alexis Beingessner
 - [Polygon Continuum](https://chalkdustmagazine.com/blog/overturned-polygons). This is a blog-post about `0 <= sides < 3`, and it includes links to 2 other blogs about negative and fractional sides. It explores the idea of _extending polygon sides to be Real numbers_.
 - [Bitwise Twiddling tricks](https://graphics.stanford.edu/~seander/bithacks.html).
 - [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://jagregory.com/abrash-black-book). Includes an over-optimized impl of [CGoL](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). I would pay >50$ for this.
@@ -11,8 +13,8 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - [SU and Eternals are **way** too similar](https://vulture.com/2022/01/eternals-is-just-the-plot-of-steven-universe.html)
 - [Most 🔥fire💯 poem by Ron Lorent/Israel](https://cdn.verbub.com/images/ella-queria-signos-de-admiracion-el-le-daba-signos-de-interrogacion-el-112821.jpg)
 - [⚠️YAML bad❌](https://noyaml.com)
-- [NEVER PARSE H̶͎͒̄Ṭ̴̢̺̇͒̕M̵͎̹̮̤̑L̸̥̺̩̰̔̓͊̐̔̈́ ̶̞̻̒̈́͝W̵̰̐̿̎I̶̧̩̳͈͕̽̿͜T̷͇̱̭̝̺̃H̷̢̛̳͈͔̄̍̉̾ ̶̡̬̊̏̒̂͘R̸̨͇̱̐̃͛̃̑Ḛ̷̢͎͕̊͌̊̆̈́͂G̸̲̮̥̫̐͆̅̈͛͝E̶͖͚̎X̴̨̢̹̘̲̌ͅ](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
-- ["Ghosts of Departed Proofs"](https://kataskeue.com/gdp.pdf), related to the next link...
+- [**NEVER PARSE H̶͎͒̄Ṭ̴̢̺̇͒̕M̵͎̹̮̤̑L̸̥̺̩̰̔̓͊̐̔̈́ ̶̞̻̒̈́͝W̵̰̐̿̎I̶̧̩̳͈͕̽̿͜T̷͇̱̭̝̺̃H̷̢̛̳͈͔̄̍̉̾ ̶̡̬̊̏̒̂͘R̸̨͇̱̐̃͛̃̑Ḛ̷̢͎͕̊͌̊̆̈́͂G̸̲̮̥̫̐͆̅̈͛͝E̶͖͚̎X̴̨̢̹̘̲̌ͅ**](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
+- [_"Ghosts of Departed Proofs"_](https://kataskeue.com/gdp.pdf), related to the next link...
 - [Type-driven parsing](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate)
 - [Why "`async` color-blindness" isn't always worth it](https://www.thecodedmessage.com/posts/async-colors)
 - Proposal for [SSH to replace HTTPS](https://shazow.net/posts/ssh-how-does-it-even)
@@ -22,8 +24,7 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - [ByteBeat Scientific Paper](https://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html)
 
 ### Documentation
-- ["Putting the “You” in CPU"](https://cpu.land), learn how programs **actually** execute.
-- [UTF-8 Manifesto](https://utf8everywhere.org)
+- [_"Putting the “You” in CPU"_](https://cpu.land), learn how programs **actually** execute.
 - [In-depth JS Task-Queue optimization](https://web.dev/articles/optimize-long-tasks)
 - [Web-Safe Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals#web_safe_fonts)
 - [Rasterize SVGs without 3p libs](https://stackoverflow.com/questions/3975499/convert-svg-to-image-jpeg-png-etc-in-the-browser/74026755#74026755)
@@ -84,7 +85,7 @@ Most of these aren't audio data per-se, they're more akin to digital-audio-works
 	- [Algorithmic Wallpaper Gen](https://bggenerator.com) (no AI)
 	- [Adin Campbell article+gallery](https://designyoutrust.com/2020/04/these-surreal-landscapes-look-like-they-are-from-another-planet). My fave is the 1st sunset.
 - Single
-	- ["Doodle: Go home after practice~ 🎸"](https://twitter.com/ttguweiz/status/789792797041635328), alt: girl with guitar-case walking on the street in a rainy day.
+	- [_"Doodle: Go home after practice~ 🎸"_](https://twitter.com/ttguweiz/status/789792797041635328), alt: girl with guitar-case walking on the street in a rainy day.
 	- [sunset in a cloudy city](https://pixiv.net/en/artworks/53727984)
 	- [minimalist Material-Design plane on cyan background](https://pinterest.com/pin/652670170976893995). I wish I had an SVG version of this.
 	- [minimalist Material-Design blue lines/ribbons](https://w0.peakpx.com/wallpaper/375/980/HD-wallpaper-tariq-collection-abstract-black-blue-design-material-pattern-premium-theme-white.jpg)
