@@ -46,6 +46,7 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 	- [Try It Online](https://tio.run). A comprehensive collection of interpreters for normal-langs and eso-langs
 	- [LAN file share](https://pairdrop.net), and [an alt](https://www.sharedrop.io).
 	- [👽🛸 Blur Busters](https://testufo.com)
+	- [Browserize](https://privacycheck.sec.lrz.de). A comprehensive and detailed collection of fingerprinting methods.
 - Indirect
 	- [Enhance privacy & security on major OSes](https://privacy.sexy)
 	- [Libre communication](https://www.fsf.org/blogs/community/better-than-zoom-try-these-free-software-tools-for-staying-in-touch)
