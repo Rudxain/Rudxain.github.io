@@ -16,7 +16,7 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - [⚠️YAML bad❌](https://noyaml.com)
 - [**NEVER PARSE H̶͎͒̄Ṭ̴̢̺̇͒̕M̵͎̹̮̤̑L̸̥̺̩̰̔̓͊̐̔̈́ ̶̞̻̒̈́͝W̵̰̐̿̎I̶̧̩̳͈͕̽̿͜T̷͇̱̭̝̺̃H̷̢̛̳͈͔̄̍̉̾ ̶̡̬̊̏̒̂͘R̸̨͇̱̐̃͛̃̑Ḛ̷̢͎͕̊͌̊̆̈́͂G̸̲̮̥̫̐͆̅̈͛͝E̶͖͚̎X̴̨̢̹̘̲̌ͅ**](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
 - [_"Ghosts of Departed Proofs"_](https://kataskeue.com/gdp.pdf), related to the next link...
-- [Type-driven parsing](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate)
+- [Type-driven parsing](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate). [The Rust Book agrees with this](https://doc.rust-lang.org/book/ch09-03-to-panic-or-not-to-panic.html#creating-custom-types-for-validation).
 - [Why "`async` color-blindness" isn't always worth it](https://www.thecodedmessage.com/posts/async-colors)
 - Proposal for [SSH to replace HTTPS](https://shazow.net/posts/ssh-how-does-it-even)
 - [Relationship between Hawking Radiation and Casimir Effect](https://scholar.uwindsor.ca/cgi/viewcontent.cgi?article=3917&context=etd).  This is a thesis by Darragh Rooney that suggests it's connected to quantum gravity. BTW, please discuss in the Wikipedia Talk pages:
