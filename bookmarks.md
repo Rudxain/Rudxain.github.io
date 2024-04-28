@@ -12,7 +12,6 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - [Non-linear `Math.round`](https://brodowsky.it-sky.net/2015/02/06/geometric-and-harmonic-rounding)
 - [Polygon Continuum](https://chalkdustmagazine.com/blog/overturned-polygons). This is a blog-post about `0 <= sides < 3`, and it includes links to 2 other blogs about negative and fractional sides. It explores the idea of _extending polygon sides to be Real numbers_.
 - [Bitwise Twiddling tricks](https://graphics.stanford.edu/~seander/bithacks.html)
-- ["If it's free you're the product" fallacy](https://techdirt.com/2012/12/20/stop-saying-if-youre-not-paying-youre-product)
 - [SU and Eternals are **way** too similar](https://vulture.com/2022/01/eternals-is-just-the-plot-of-steven-universe.html)
 - [Most 🔥fire💯 poem by Ron Lorent/Israel](https://cdn.verbub.com/images/ella-queria-signos-de-admiracion-el-le-daba-signos-de-interrogacion-el-112821.jpg)
 - [⚠️YAML bad❌](https://noyaml.com)
