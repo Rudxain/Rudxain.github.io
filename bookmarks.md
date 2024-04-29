@@ -36,7 +36,7 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - [Android built-in CLI utilities (all versions)](https://chromium.googlesource.com/aosp/platform/system/core/+/refs/heads/upstream/shell_and_utilities). This is like ["CIU"](https://caniuse.com) for shell environments.
 - [Android bloat list](https://raw.githubusercontent.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/main/resources/assets/uad_lists.json)
 
-## Tools
+## 🛠️ Tools
 "as-is" are apps usable as-is, for browsers. "Indirect" are non cross-platform software and hardware.
 - As-is
 	- [Web repo previewer](http://htmlpreview.github.io). For repositories that don't use GH-Pages.
@@ -57,7 +57,7 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 	- [Better G Play Store](https://auroraoss.com)
 	- [Android Display Tester](https://play.google.com/store/apps/details?id=com.gombosdev.displaytester)
 
-## Entertainment
+## 😂🎮 Entertainment
 - [♾️Craft](https://neal.fun/infinite-craft)
 - [💾NAND Game](https://nandgame.com)
 - [🤨Weird 📧 sent to Daniel Stenberg](https://github.com/bagder/emails)
@@ -71,7 +71,7 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - [Data Wing](https://play.google.com/store/apps/details?id=com.DanVogt.DATAWING)
 - [🔥♂️&💧♀️ saga](https://fireboynwatergirl.com). Is this the official original URL?
 
-## Audio
+## 🔊 Audio
 Most of these aren't audio data per-se, they're more akin to digital-audio-workstations:
 - [Wasm Audacity](https://wavacity.com)
 - [∿ Szynalski's Oscillator](https://szynalski.com/tone-generator)
@@ -82,7 +82,7 @@ Most of these aren't audio data per-se, they're more akin to digital-audio-works
 - [BB waveform visualizer](https://greggman.com/downloads/examples/html5bytebeat/html5bytebeat.html)
 - [Chrome Music Lab](https://musiclab.chromeexperiments.com)
 
-## Image
+## 🖼️ Image
 - Multi
 	- [Lagom LCD tests](http://lagom.nl/lcd-test)
 	- [Algorithmic Wallpaper Gen](https://bggenerator.com) (no AI)
