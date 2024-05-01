@@ -32,8 +32,6 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - [Web-Safe Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals#web_safe_fonts)
 - [Rasterize SVGs without 3p libs](https://stackoverflow.com/questions/3975499/convert-svg-to-image-jpeg-png-etc-in-the-browser/74026755#74026755)
 - [Safer shell scripting](https://sipb.mit.edu/doc/safe-shell)
-- [POSIX Shell cmd lang](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html#tag_18)
-- [MKSH manual](http://www.mirbsd.org/htman/i386/man1/mksh.htm)
 - [Android built-in CLI utilities (all versions)](https://chromium.googlesource.com/aosp/platform/system/core/+/refs/heads/upstream/shell_and_utilities). This is like ["CIU"](https://caniuse.com) for shell environments.
 - [Android bloat list](https://raw.githubusercontent.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/main/resources/assets/uad_lists.json)
 
