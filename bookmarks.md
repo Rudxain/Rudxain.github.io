@@ -43,7 +43,7 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 	- [GD web client](https://gdbrowser.com)
 	- [OVC](https://onlinevideoconverter.com). [YTDL](https://github.com/ytdl-org/youtube-dl) is better, but OVC can slice/crop at timestamps before downloading.
 	- [Image vectorizer](https://svgco.de)
-	- [Try It Online](https://tio.run). A comprehensive collection of interpreters for normal-langs and eso-langs
+	- [Try It Online](https://tio.run). A comprehensive collection of interpreters for normal-langs and eso-langs.
 	- [LAN file share](https://pairdrop.net), and [an alt](https://www.sharedrop.io).
 	- [👽🛸 Blur Busters](https://testufo.com)
 	- [Browserize](https://privacycheck.sec.lrz.de). A comprehensive and detailed collection of fingerprinting methods.
@@ -62,13 +62,13 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - [🤨Weird 📧 sent to Daniel Stenberg](https://github.com/bagder/emails)
 - [🤬📧 sent to 🪽🍝FSM](https://www.spaghettimonster.org/category/hate-mail). It's so funny reading people become heretics for the sake of defending their personal beliefs from other heretics! [Oh, the irony...](https://rudxain.github.io/RX-wiki/wiki/Calpas_Paradox)
 - [🥒Cucumber Quest](https://cucumber.gigidigi.com/cq/page-1)
-- [W93](https://windows93.net)
-- [Useless Websites](https://theuselessweb.com)
-- [Click ×4](https://clickclickclick.click)
+- [🪟W93](https://windows93.net)
+- [🔀Useless 🌐Websites](https://theuselessweb.com)
+- [🖱️Click ×4](https://clickclickclick.click)
 - [ΔR](https://deltarune.com). The website has some easter-eggs (even after Spamton Sweepstakes) that will be updated when new chapters release.
 - [Evolutionary Prisoner's Dilemma game](http://ncase.me/trust)
 - [Data Wing](https://play.google.com/store/apps/details?id=com.DanVogt.DATAWING)
-- [🔥♂️&💧♀️ saga](https://fireboynwatergirl.com). Is this the official original URL?
+- [🔥♂️&💧♀️ saga](https://fireboynwatergirl.com). Is this the official URL?
 
 ## 🔊 Audio
 Most of these aren't audio data per-se, they're more akin to digital-audio-workstations:
