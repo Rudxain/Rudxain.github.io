@@ -7,7 +7,7 @@ If you find a user claiming to be me, but their account doesn't match anything h
 
 My emails and phones are private, to reduce spam. If you need those addresses, ask privately.
 
-My personal email addresses **do not contain by name, nickname**, or anything that looks similar to those.
+My personal email addresses **do not contain my name, nickname**, or anything that looks similar to those.
 
 My `*.edu.do` emails **contain my shortened real name**. Such as my:
 - CIC Gmail
