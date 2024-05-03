@@ -37,15 +37,16 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - [Android bloat list](https://raw.githubusercontent.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/main/resources/assets/uad_lists.json)
 
 ## 🛠️ Tools
-"as-is" are apps usable as-is, for browsers. "Indirect" are non cross-platform software and hardware.
+"As-is" are apps usable as-is, for browsers. "Indirect" are non cross-platform software and hardware.
 - As-is
+	- [LAN file share](https://pairdrop.net), and [an alt](https://www.sharedrop.io).
 	- [Web repo previewer](http://htmlpreview.github.io). For repositories that don't use GH-Pages.
 	- [Wayback Machine](https://archive.org/web)
 	- [GD web client](https://gdbrowser.com)
 	- [OVC](https://onlinevideoconverter.com). [YTDL](https://github.com/ytdl-org/youtube-dl) is better, but OVC can slice/crop at timestamps before downloading.
+	- [🔺Triangulart🔻](https://maxwellito.github.io/triangulart)
 	- [Image vectorizer](https://svgco.de)
 	- [Try It Online](https://tio.run). A comprehensive collection of interpreters for normal-langs and eso-langs.
-	- [LAN file share](https://pairdrop.net), and [an alt](https://www.sharedrop.io).
 	- [👽🛸 Blur Busters](https://testufo.com)
 	- [Browserize](https://privacycheck.sec.lrz.de). A comprehensive and detailed collection of fingerprinting methods.
 - Indirect
