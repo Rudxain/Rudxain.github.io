@@ -30,7 +30,7 @@
 	3. Liceo Católico Tecnológico de Barahona
 	4. Universidad Católica Tecnológica de Barahona (1 semester)
 	5. Instituto Tecnológico de Santo Domingo (only once)
-- am [against indoctrination/brainwashing](https://youtu.be/IaUhR-tRkHY)(alt: "bending truth | how adults get indoctrinated" by `@theramintrees`), religious and secular alike
+- am [against indoctrination/brainwashing](https://youtu.be/IaUhR-tRkHY)(alt: "bending truth \| how adults get indoctrinated" by `@theramintrees`), religious and secular alike
 - am anti-dogmatism (except for a [special case](https://rudxain.github.io/blog/post/dogma_non-sentient)) and anti-faith
 	- which implies I'm areligious and anti-religion (not anti-religious)
 	- but I'm pro-trust & pro-hope
