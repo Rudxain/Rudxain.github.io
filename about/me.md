@@ -1,8 +1,8 @@
 # I...
 
 - speak
-	- 🇩🇴 Español
-	- 🇺🇸 English
+	1. 🇩🇴 Español
+	2. 🇺🇸 English
 - want to learn an international [conlang](https://en.wikipedia.org/wiki/Constructed_language)
 - prefer [positional binary numeral system](https://youtu.be/watch?v=rDDaEVcwIJM&lc=Ugz3BY_7q89KIOJSYph4AaABAg) in any [endianess](https://en.wikipedia.org/wiki/Endianess#In_real_life)
 	- but I use [arab](https://en.wikipedia.org/wiki/Arabic_digits) big-endian decimal, because everyone understands it
