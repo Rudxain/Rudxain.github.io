@@ -14,10 +14,21 @@ My `*.edu.do` emails **contain my shortened real name**. Such as my:
 - UCATEBA Outlook
 
 ## Existent
-- Google. Same address as Outlook, but `*@gmail.com`.
-- Microsoft. Same address as Gmail, but `*@outlook.com`.
+- Google (same address as Outlook, but `*@gmail.com`)
+	- [YT channel](https://youtube.com/@Rudxain)
+		- I registered [my custom URL](https://youtube.com/c/RFSGameplayer) when requisites were lower, now I can't update/remove it 💀.
+	- Duo
+	- [My Android Developers](https://g.dev/rudxain)
+	- Learn Digital (learndigital.withgoogle.com)
+	- CrowdSource (crowdsource.google.com)
+	- Play Games Gamer-ID (same as my username)
+- Microsoft (same address as Gmail, but `*@outlook.com`)
+	- [My Xbox LIVE](https://account.xbox.com/en-us/profile?gamertag=Rudxain)
+	- [Learn](https://learn.microsoft.com/en-us/users/Rudxain)
+	- Skype
+		- You can find me by phone-number (same as WhatsApp)
 - [My Discord](https://discord.com/users/1168914552323326002)
-- WhatsApp. **I really want to switch** to Signal, Telegram, Matrix, or any alt.
+- WhatsApp
 - [Banco Qik RD](https://qik.do). Donate here: `1000893125`
 - [NewGrounds user page](https://Rudxain.newgrounds.com)
 - [My Reddit](https://reddit.com/u/Rudxain). [DON'T CONTACT ME THERE](https://reddit.com/user/Rudxain/comments/15esvam/thanks_for_betraying_me_reddit_ceos).
@@ -32,24 +43,15 @@ My `*.edu.do` emails **contain my shortened real name**. Such as my:
 - My Rust [User](https://users.rust-lang.org/u/rudxain) & [Internals](https://internals.rust-lang.org/u/rudxain) forum profiles.
 - [ECMAScript Discourse profile](https://es.discourse.group/u/rudxain)
 - G.I.M.P.S. (mersenne.org). My user-id is private, and AFAIK my profile has no URL. I used to grind CPUs with Prime95, hoping to get some money, or at least help humanity get better crypto-security.
-- OpenAI/(ChatGPT & DALL-E)
-- [`RFS_Roblox`](https://roblox.com/users/323158352/profile). I only played with my siblings
-- [My TotalJerkFace/FancyForce](https://totaljerkface.com/profile.tjf?uid=6050400). Username: `RFSwerewolf`. I played Happy Wheels a lot!
-- My RobTop-Games/Boomlings username was `RFS`, now [someone else](https://gdbrowser.com/u/RFS) has it. [Geometry Dash profile](https://gdbrowser.com/u/Rudxain). I forgor my numeric ID 💀. I didn't have the chance to play Boomlings, but (thanks to GD) I knew about the game before RobTop removed it from G Play Store.
+- OpenAI/(ChatGPT & DALL-E) (I'm planning to delete it)
+- [`RFS_Roblox`](https://roblox.com/users/323158352/profile)
+- [My TotalJerkFace/FancyForce (Happy Wheels)](https://totaljerkface.com/profile.tjf?uid=6050400) username: `RFSwerewolf`
+- My RobTop-Games/Boomlings username was `RFS`, now [someone else](https://gdbrowser.com/u/RFS) has it. [Geometry Dash profile](https://gdbrowser.com/u/Rudxain).
 - [`RFS_Osu`](https://osu.ppy.sh/users/9905562)!
-- SuperCell. I registered because I kinda like Brawl Stars, and I played it with my siblings. I used to play Clash of Clans (only as guest, so far).
-
-### Sub
-- [YT channel](https://youtube.com/@Rudxain). I registered [my custom URL](https://youtube.com/c/RFSGameplayer) when requisites were lower, now I can't update/remove it 💀. I didn't even upload "gameplays"/"let's plays", I just *planned* to do so.
-- G Duo
-- MS Skype. You can find me by my phone-number (currently same as WhatsApp).
-- [My G/Android Developers](https://g.dev/rudxain)
-- G Learn Digital (learndigital.withgoogle.com)
-- [My MS Learn](https://learn.microsoft.com/en-us/users/Rudxain)
-- G CrowdSource (crowdsource.google.com)
-- G Play Games Gamer-ID
-- [My Xbox LIVE](https://account.xbox.com/en-us/profile?gamertag=Rudxain)
-- Brawl Stars: "Rudxain null", because (according to Supercell) *"Rudxain" is "invalid"*.
+- SuperCell
+	- Brawl Stars: `Rudxain null`, because (according to SC) *`Rudxain` is "invalid"*.
+		- I used to play it with my siblings
+	- I used to play Clash of Clans as "guest"
 
 ## Lost
 - Google+. Because it died with the social media, lol.
