@@ -16,7 +16,7 @@ My `*.edu.do` emails **contain my shortened real name**. Such as my:
 ## Existent
 - Google (same address as Outlook, but `*@gmail.com`)
 	- [YT channel](https://youtube.com/@Rudxain)
-		- I registered [my custom URL](https://youtube.com/c/RFSGameplayer) when requisites were lower, now I can't update/remove it 💀.
+		- I registered [my custom URL](https://youtube.com/c/RFSGameplayer) when requisites were lower, now I can't update/remove it 💀
 	- 📞Duo
 	- [My Android Developers](https://g.dev/rudxain)
 	- Learn Digital (`learndigital.withgoogle.com`)
@@ -48,7 +48,7 @@ My `*.edu.do` emails **contain my shortened real name**. Such as my:
 	- ChatGPT
 	- DALL-E
 - [`RFS_Roblox`](https://roblox.com/users/323158352/profile)
-- [My TotalJerkFace/FancyForce (Happy Wheels)](https://totaljerkface.com/profile.tjf?uid=6050400) username: `RFSwerewolf`
+- [My FancyForce/Happy-Wheels](https://totaljerkface.com/profile.tjf?uid=6050400) username: `RFSwerewolf`
 - My RobTop-Games/Boomlings username was `RFS`, now [someone else](https://gdbrowser.com/u/RFS) has it. [Geometry Dash profile](https://gdbrowser.com/u/Rudxain).
 - [`RFS_Osu`](https://osu.ppy.sh/users/9905562)!
 - SuperCell
