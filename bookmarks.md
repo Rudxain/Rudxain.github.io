@@ -98,6 +98,7 @@ Most of these aren't audio data per-se, they're more akin to digital-audio-works
 	- [minimalist "Tron: Legacy" digital bike](https://wallpapercave.com/wp/wp4939898.jpg)
 	- [cat scribbles on lined paper](https://i.imgur.com/LiaZKxX.jpg). Creative use of lines!
 	- [same as above, but sliced by the lines (⚠️ mild gore)](https://i.imgur.com/V3AZ5S0.jpeg)
+	- [Neko-Miku by `Abmayo`](https://danbooru.donmai.us/posts/6418369), alt: "furryfied" Hatsune Miku getting petted (more specifically, neck scratched) by camera-man/audience (POV)
 	- [Binary stars and planet](https://assets.gtgraphics.de/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjRGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1bc77e38e87ba735172121ab42d608807113f377/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--7169841a733ae5073a9c105751b6e0a10336b854/duality.jpg)
 	- [Planet Rings](https://w0.peakpx.com/wallpaper/294/109/HD-wallpaper-space-abstract-galaxy.jpg)
 	- [black-hole/quasar sucking a star](https://deviantart.com/andrewvideos510art/art/Blaze-To-Galaxy-828750511)
