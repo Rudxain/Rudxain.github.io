@@ -71,6 +71,7 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - [ΔR](https://deltarune.com). The website has some easter-eggs (even after Spamton Sweepstakes) that will be updated when new chapters release.
 - [Evolutionary Prisoner's Dilemma game](http://ncase.me/trust)
 - [Data Wing](https://play.google.com/store/apps/details?id=com.DanVogt.DATAWING)
+- [Better than Diep.io](https://arras.io)
 - [🔥♂️&💧♀️ saga](https://fireboynwatergirl.com). Is this the official URL?
 
 ## 🔊 Audio
