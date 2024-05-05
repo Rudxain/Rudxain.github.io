@@ -97,6 +97,7 @@ Most of these aren't audio data per-se, they're more akin to digital-audio-works
 	- [minimalist "Tron: Legacy" digital bike](https://wallpapercave.com/wp/wp4939898.jpg)
 	- [cat scribbles on lined paper](https://i.imgur.com/LiaZKxX.jpg). Creative use of lines!
 	- [same as above, but sliced by the lines (⚠️ mild gore)](https://i.imgur.com/V3AZ5S0.jpeg)
+	- [Neko-Miku by `Abmayo`](https://danbooru.donmai.us/posts/6418369), alt: "furryfied" Hatsune Miku getting petted (more specifically, neck scratched) by camera-man/audience (POV)
 	- [black-hole/quasar sucking a star](https://deviantart.com/andrewvideos510art/art/Blaze-To-Galaxy-828750511)
 	- [🦢swan on a body of water under a cloudy sky at sunset with lens-flare](https://i.pinimg.com/736x/ab/6b/0a/ab6b0afb9b942f85ade1b50340ac259a.jpg)
 	- [Elemental Spices](https://i.redd.it/q2fzkh53in171.jpg)
