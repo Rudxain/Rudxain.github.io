@@ -75,6 +75,14 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - [Data Wing](https://play.google.com/store/apps/details?id=com.DanVogt.DATAWING)
 - [Better than Diep.io](https://arras.io)
 - [🔥♂️&💧♀️ saga](https://fireboynwatergirl.com). Is this the official URL?
+- [Jak & Daxter](https://en.wikipedia.org/wiki/Jak_and_Daxter)
+	- Why is this here but not "Sonic Unleashed"? because SU is something I'll never forget, and J&D is a game with interesting lore (I've only player J&D 2).
+- Devil May Cry. I've only played part 3.
+- ATV: Offroad Fury. I've only played part 4.
+- NFS. I've played:
+	- Carbon
+	- Most Wanted
+	- Undercover
 
 ## 🔊 Audio
 Most of these aren't audio data per-se, they're more akin to digital-audio-workstations:
