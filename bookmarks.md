@@ -60,6 +60,7 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 	- [Android Display Tester](https://play.google.com/store/apps/details?id=com.gombosdev.displaytester)
 
 ## 😂🎮 Entertainment
+- [Twitter for JS devs](https://www.dwitter.net)
 - [♾️Craft](https://neal.fun/infinite-craft)
 - [💾NAND Game](https://nandgame.com)
 - [🤨Weird 📧 sent to Daniel Stenberg](https://github.com/bagder/emails)
