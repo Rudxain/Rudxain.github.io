@@ -38,7 +38,7 @@ My `*.edu.do` emails **contain my shortened real name**. Such as my:
 - [Coursera profile](https://coursera.org/user/cdfd656c5769f1b3785e1ae95a5d57c2)
 - [My edX](https://profile.edx.org/u/Rudxain)
 - [GH repos](https://github.com/Rudxain?tab=repositories) & [Gists](https://gist.github.com/Rudxain)
-- [LL-AM quasi-profile](https://llamalab.com/automate/community/flows/42921). User-id: `#34225`. A [live JSON of all my flows](https://llamalab.com/automate/community/api/v1/users/34225/flows) is available.
+- [LL-AM quasi-profile](https://llamalab.com/automate/community/flows/42921). User-id: `#34225`. A [live JSON of some of my flows](https://llamalab.com/automate/community/api/v1/users/34225/flows) is available (current limit is 64).
 - [My Cargo Crates](https://crates.io/users/Rudxain)
 - My Rust [User](https://users.rust-lang.org/u/rudxain) & [Internals](https://internals.rust-lang.org/u/rudxain) forum profiles.
 - [ECMAScript Discourse profile](https://es.discourse.group/u/rudxain)
