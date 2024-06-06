@@ -9,7 +9,10 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - [Wise advice from humble dev](https://grugbrain.dev). That's why we should (at least pretend to) be dumb. Complexity bad!
 - [D.R.Y. debate](http://c2.com/cgi/wiki?DontRepeatYourself)
 - [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://jagregory.com/abrash-black-book). Includes an over-optimized impl of [CGoL](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). I would pay >50$ for this.
-- [Research on Busy-Beavers](https://www.scottaaronson.com/papers/bb.pdf)
+- ["The Busy Beaver Frontier"](https://www.scottaaronson.com/papers/bb.pdf) by Scott Aaronson, et al.
+- ["A Relatively Small Turing Machine Whose Behavior Is Independent
+of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) by Adam Yedidia & Scott Aaronson
+	- [May 13/17, 2016](https://arxiv.org/pdf/1605.04343)
 - [Non-linear `Math.round`](https://brodowsky.it-sky.net/2015/02/06/geometric-and-harmonic-rounding)
 - [How extensions of Real numbers relate to geometric curvatures](https://reddit.com/r/math/comments/7g82yv/splitcomplex_numbers/dqi8bl1). alt: Complex = Circular (+ [curv](https://en.wikipedia.org/wiki/Curvature)), Dual = Euclidean (0 curv), Split = Hyperbolic (- curv).
 - [Polygon Continuum](https://chalkdustmagazine.com/blog/overturned-polygons). This is a blog-post about `0 <= sides < 3`, and it includes links to 2 other blogs about negative and fractional sides. It explores the idea of _extending polygon sides to be Real numbers_.
