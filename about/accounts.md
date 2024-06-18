@@ -21,7 +21,7 @@ My `*.edu.do` emails **contain my shortened real name**. Such as my:
 	- [My Android Developers](https://g.dev/rudxain)
 	- Learn Digital (`learndigital.withgoogle.com`)
 	- Crowd-Source (`crowdsource.google.com`)
-	- 🎮 Play Games Gamer-ID (same as my username)
+	- 🎮 Play Games Gamer-ID (same as my YT handle)
 - Microsoft (same address as Gmail, but `*@outlook.com`)
 	- [My Xbox LIVE](https://account.xbox.com/en-us/profile?gamertag=Rudxain)
 	- [Learn](https://learn.microsoft.com/en-us/users/Rudxain)
@@ -49,7 +49,7 @@ My `*.edu.do` emails **contain my shortened real name**. Such as my:
 	- DALL-E
 - [`RFS_Roblox`](https://roblox.com/users/323158352/profile)
 - [My FancyForce/Happy-Wheels](https://totaljerkface.com/profile.tjf?uid=6050400) username: `RFSwerewolf`
-- My RobTop-Games/Boomlings username was `RFS`, now [someone else](https://gdbrowser.com/u/RFS) has it. [Geometry Dash profile](https://gdbrowser.com/u/Rudxain).
+- [Geometry Dash profile](https://gdbrowser.com/u/Rudxain). My RobTop-Games/Boomlings.com username was `RFS`, [someone else](https://gdbrowser.com/u/RFS) claimed it.
 - [`RFS_Osu`](https://osu.ppy.sh/users/9905562)!
 - SuperCell
 	- Brawl Stars: `Rudxain null`, because (according to SC) *`Rudxain` is "invalid"*.
@@ -105,5 +105,5 @@ My `*.edu.do` emails **contain my shortened real name**. Such as my:
 	- worse than Apple
 - AI Dungeon
 - `saymine.com`
-	- I found it thanks to ThioJoe
+	- I found it thanks to [TJ](https://youtube.com/@ThioJoe)
 	- It's useless for me, because I rarely get mails 💀
