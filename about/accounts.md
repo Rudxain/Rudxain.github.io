@@ -1,6 +1,6 @@
 # Accounts
 This page has 2 purposes:
-- Show my contact info
+- Provide my contact info
 - Deter impersonators
 
 If you find a user claiming to be me, but their account doesn't match anything here, it's extremely likely they're lying.
@@ -9,11 +9,12 @@ My emails and phones are private, to reduce spam. If you need those addresses, a
 
 My personal email addresses **do not contain my name, nickname**, or anything that looks similar to those.
 
-My `*.edu.do` emails **contain my shortened real name**. Such as my:
+My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 - CIC Gmail
 - UCATEBA Outlook
 
 ## Existent
+(Some may be inactive)
 - Google (same address as Outlook, but `*@gmail.com`)
 	- [YT channel](https://youtube.com/@Rudxain)
 		- I registered [my custom URL](https://youtube.com/c/RFSGameplayer) when requisites were lower, now I can't update/remove it 💀
@@ -23,10 +24,10 @@ My `*.edu.do` emails **contain my shortened real name**. Such as my:
 	- Crowd-Source (`crowdsource.google.com`)
 	- 🎮 Play Games Gamer-ID (same as my YT handle)
 - Microsoft (same address as Gmail, but `*@outlook.com`)
-	- [My Xbox LIVE](https://account.xbox.com/en-us/profile?gamertag=Rudxain)
-	- [Learn](https://learn.microsoft.com/en-us/users/Rudxain)
 	- Skype
 		- You can find me by phone-number (same as WhatsApp)
+	- [Learn](https://learn.microsoft.com/en-us/users/Rudxain)
+	- [My Xbox LIVE](https://account.xbox.com/en-us/profile?gamertag=Rudxain)
 - [My 🎮Dsc](https://discord.com/users/1168914552323326002)
 - 📞WhatsApp
 - [Banco Qik RD](https://qik.do). Please, support/donate here: `1000893125`
