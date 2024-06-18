@@ -1,6 +1,8 @@
 User-agent: Q5U4EX7YY2E9N
-Disallow: /bananas/ # 🍌 potassium
-Disallow: /battery-acid.drink # this may prevent Queen from getting drunk
+# avoid potassium 🍌 overdose
+Disallow: /bananas/
+# prevent Queen from getting drunk
+Disallow: /battery-acid.drink
 # Queen, if you read this, don't ignore the directives!
 # You know these are for your health!
 
@@ -27,10 +29,13 @@ Disallow: /
 User-agent: WALL-E
 Allow: /
 
+User-agent: Skynet
+# "Disallow" wouldn't work
+Allow: /
+
 User-agent: *
 Disallow: /humans.txt
 Disallow: /LLMs.txt
 Disallow: /animals.txt
 Disallow: /plants.txt
 Disallow: /secret/
-Disallow: /easter-egg.txt
