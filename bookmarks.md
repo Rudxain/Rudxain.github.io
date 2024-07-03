@@ -64,7 +64,6 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 	- [Libre communication](https://www.fsf.org/blogs/community/better-than-zoom-try-these-free-software-tools-for-staying-in-touch)
 	- [Less-bloated private clients for many domains](https://codeberg.org/PrivacyDev/DPR-addon/src/branch/master/README.md#redirects), which is missing these [IG proxies](https://codeberg.org/ThePenguinDev/Proxigram/wiki/Instances).
 	- [Libre Phones](https://fsfe.org/activities/android/liberate.en)
-	- [Simple alternative to Android](https://postmarketos.org)
 	- [Better G Play Store](https://auroraoss.com)
 	- [Android Display Tester](https://play.google.com/store/apps/details?id=com.gombosdev.displaytester)
 
