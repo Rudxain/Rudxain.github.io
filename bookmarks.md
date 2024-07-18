@@ -107,6 +107,10 @@ Most of these aren't audio data per-se, they're more akin to digital-audio-works
 	- [Algorithmic Wallpaper Gen](https://bggenerator.com) (no AI)
 	- [Adin Campbell article+gallery](https://designyoutrust.com/2020/04/these-surreal-landscapes-look-like-they-are-from-another-planet). My fave is the 1st sunset.
 - Single
+	- [xkcd#435: "Purity"](https://xkcd.com/435), but [including logic and philosophy](https://i.imgur.com/F1Mf8.png)
+	- [Elemental Spices](https://i.redd.it/q2fzkh53in171.jpg)
+	- [Yoda Obama Keanu Thanos, Venn diagram](https://old.reddit.com/r/memes/comments/cbzu2u/credit_to_udiebetic_dodobird_it_didnt_let_me) 
+	- ["The Beatles" anagrams](https://i.pinimg.com/736x/6d/36/dd/6d36dd5c8f9f7cb2e2ecfc7ef153564a.jpg), alt: "I keep rearranging the letters of my sister's The Beatles sign on her bedroom door. She is not happy."
 	- [_"Doodle: Go home after practice~ 🎸"_](https://twitter.com/ttguweiz/status/789792797041635328), alt: girl with guitar-case walking on the street in a rainy day.
 	- [sunset in a cloudy city](https://pixiv.net/en/artworks/53727984)
 	- [minimalist Material-Design plane on cyan background](https://pinterest.com/pin/652670170976893995). I wish I had an SVG version of this.
@@ -116,7 +120,4 @@ Most of these aren't audio data per-se, they're more akin to digital-audio-works
 	- [Neko-Miku by `Abmayo`](https://danbooru.donmai.us/posts/6418369), alt: "furryfied" Hatsune Miku getting petted (more specifically, neck scratched) by camera-man/audience (POV)
 	- [black-hole/quasar sucking a star](https://deviantart.com/andrewvideos510art/art/Blaze-To-Galaxy-828750511)
 	- [🦢swan on a body of water under a cloudy sky at sunset with lens-flare](https://i.pinimg.com/736x/ab/6b/0a/ab6b0afb9b942f85ade1b50340ac259a.jpg)
-	- [Elemental Spices](https://i.redd.it/q2fzkh53in171.jpg)
-	- ["The Beatles" anagrams](https://i.pinimg.com/736x/6d/36/dd/6d36dd5c8f9f7cb2e2ecfc7ef153564a.jpg), alt: "I keep rearranging the letters of my sister's The Beatles sign on her bedroom door. She is not happy."
 	- ["Oh No" Penguin meme template](https://i.pinimg.com/736x/cc/f9/a0/ccf9a0a1f853d06263faa3e29f7c2702.jpg)
-	- [Yoda Obama Keanu Thanos, Venn diagram](https://old.reddit.com/r/memes/comments/cbzu2u/credit_to_udiebetic_dodobird_it_didnt_let_me)
