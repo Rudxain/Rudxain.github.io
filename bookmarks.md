@@ -13,6 +13,7 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - ["A Relatively Small Turing Machine Whose Behavior Is Independent
 of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) by Adam Yedidia & Scott Aaronson
 	- [May 13/17, 2016](https://arxiv.org/pdf/1605.04343)
+- [Graphical Linear Algebra](https://graphicallinearalgebra.net)
 - [Non-linear `Math.round`](https://brodowsky.it-sky.net/2015/02/06/geometric-and-harmonic-rounding)
 - [🔁Tur(n)ing](https://jk-keller.com/o__o/rotational_growth)
 - [How extensions of Real numbers relate to geometric curvatures](https://reddit.com/r/math/comments/7g82yv/splitcomplex_numbers/dqi8bl1). alt: Complex = Circular (+ [curv](https://en.wikipedia.org/wiki/Curvature)), Dual = Euclidean (0 curv), Split = Hyperbolic (- curv).
