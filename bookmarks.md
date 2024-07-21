@@ -71,7 +71,7 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 - [♾️Craft](https://neal.fun/infinite-craft)
 - [💾NAND Game](https://nandgame.com)
 - [🤨Weird 📧 sent to Daniel Stenberg](https://github.com/bagder/emails)
-- [🤬📧 sent to 🪽🍝FSM](https://www.spaghettimonster.org/category/hate-mail). It's so funny reading people become heretics for the sake of defending their personal beliefs from other heretics! [Oh, the irony...](https://rudxain.github.io/RX-wiki/wiki/Calpas_Paradox)
+- [🤬📧 sent to 🪽🍝FSM](https://www.spaghettimonster.org/category/hate-mail). It's funny when people become heretics for the sake of defending their personal beliefs from other heretics! [Oh, the irony...](https://rudxain.github.io/RX-wiki/wiki/Calpas_Paradox)
 - [🥒Cucumber Quest](https://cucumber.gigidigi.com/cq/page-1)
 - [🪟W93](https://windows93.net)
 - [🔀Useless 🌐Websites](https://theuselessweb.com)
@@ -108,7 +108,7 @@ Most of these aren't audio data per-se, they're more akin to digital-audio-works
 - Single
 	- [xkcd#435: "Purity"](https://xkcd.com/435), but [including logic and philosophy](https://i.imgur.com/F1Mf8.png)
 	- [Elemental Spices](https://i.redd.it/q2fzkh53in171.jpg)
-	- [Yoda Obama Keanu Thanos, Venn diagram](https://old.reddit.com/r/memes/comments/cbzu2u/credit_to_udiebetic_dodobird_it_didnt_let_me) 
+	- [Yoda Obama Keanu Thanos, Venn diagram](https://old.reddit.com/r/memes/comments/cbzu2u/credit_to_udiebetic_dodobird_it_didnt_let_me)
 	- ["The Beatles" anagrams](https://i.pinimg.com/736x/6d/36/dd/6d36dd5c8f9f7cb2e2ecfc7ef153564a.jpg), alt: "I keep rearranging the letters of my sister's The Beatles sign on her bedroom door. She is not happy."
 	- [_"Doodle: Go home after practice~ 🎸"_](https://twitter.com/ttguweiz/status/789792797041635328), alt: girl with guitar-case walking on the street in a rainy day.
 	- [sunset in a cloudy city](https://pixiv.net/en/artworks/53727984)
@@ -123,5 +123,4 @@ Most of these aren't audio data per-se, they're more akin to digital-audio-works
 	- [black-hole/quasar sucking a star](https://deviantart.com/andrewvideos510art/art/Blaze-To-Galaxy-828750511)
 	- [Galaxy paint](https://w0.peakpx.com/wallpaper/797/22/HD-wallpaper-outer-space-3d-art-galaxy-planets-sky.jpg)
 	- [Sombrero galaxy](https://r4.wallpaperflare.com/wallpaper/305/448/985/galaxy-stars-sombrero-galaxy-hd-wallpaper-d940583d817a7d0b362788df402116ed.jpg)
-	- [🦢swan on a body of water under a cloudy sky at sunset with lens-flare](https://i.pinimg.com/736x/ab/6b/0a/ab6b0afb9b942f85ade1b50340ac259a.jpg)
 	- ["Oh No" Penguin meme template](https://i.pinimg.com/736x/cc/f9/a0/ccf9a0a1f853d06263faa3e29f7c2702.jpg)
