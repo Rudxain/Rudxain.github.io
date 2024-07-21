@@ -13,6 +13,7 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - ["A Relatively Small Turing Machine Whose Behavior Is Independent
 of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) by Adam Yedidia & Scott Aaronson
 	- [May 13/17, 2016](https://arxiv.org/pdf/1605.04343)
+- [Graphical Linear Algebra](https://graphicallinearalgebra.net)
 - [🔁Tur(n)ing](https://jk-keller.com/o__o/rotational_growth)
 - [How extensions of Real numbers relate to geometric curvatures](https://reddit.com/r/math/comments/7g82yv/splitcomplex_numbers/dqi8bl1). alt: Complex = Circular (+ [curv](https://en.wikipedia.org/wiki/Curvature)), Dual = Euclidean (0 curv), Split = Hyperbolic (- curv).
 - [Polygon Continuum](https://chalkdustmagazine.com/blog/overturned-polygons). This is a blog-post about `0 <= sides < 3`, and it includes links to 2 other blogs about negative and fractional sides. It explores the idea of _extending polygon sides to be Real numbers_.
@@ -106,7 +107,7 @@ Most of these aren't audio data per-se, they're more akin to digital-audio-works
 - Single
 	- [xkcd#435: "Purity"](https://xkcd.com/435), but [including logic and philosophy](https://i.imgur.com/F1Mf8.png)
 	- [Elemental Spices](https://i.redd.it/q2fzkh53in171.jpg)
-	- [Yoda Obama Keanu Thanos, Venn diagram](https://old.reddit.com/r/memes/comments/cbzu2u/credit_to_udiebetic_dodobird_it_didnt_let_me) 
+	- [Yoda Obama Keanu Thanos, Venn diagram](https://old.reddit.com/r/memes/comments/cbzu2u/credit_to_udiebetic_dodobird_it_didnt_let_me)
 	- ["The Beatles" anagrams](https://i.pinimg.com/736x/6d/36/dd/6d36dd5c8f9f7cb2e2ecfc7ef153564a.jpg), alt: "I keep rearranging the letters of my sister's The Beatles sign on her bedroom door. She is not happy."
 	- [_"Doodle: Go home after practice~ 🎸"_](https://twitter.com/ttguweiz/status/789792797041635328), alt: girl with guitar-case walking on the street in a rainy day.
 	- [sunset in a cloudy city](https://pixiv.net/en/artworks/53727984)
