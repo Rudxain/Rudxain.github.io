@@ -13,6 +13,7 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - ["A Relatively Small Turing Machine Whose Behavior Is Independent
 of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) by Adam Yedidia & Scott Aaronson
 	- [May 13/17, 2016](https://arxiv.org/pdf/1605.04343)
+- [💩 Enshittification is coming for everything](https://pluralistic.net/2024/01/30/go-nuts-meine-kerle/#ich-bin-ein-bratapfel)
 - Likely, [the most comprehensive debunking of theistic religions](https://www.whywontgodhealamputees.com)
 - [Graphical Linear Algebra](https://graphicallinearalgebra.net)
 - [Non-linear `Math.round`](https://brodowsky.it-sky.net/2015/02/06/geometric-and-harmonic-rounding)
