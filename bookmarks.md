@@ -1,5 +1,5 @@
 # ⭐
-Unlike typical browser "favorites"/"bookmarks", most of these links are _infrequently_ visited. They're here because they're **too valuable to be forgotten**. A minority of links are simply underrated.
+Unlike typical browser "favorites"/"bookmarks", most of these links are _infrequently_ visited (low-traffic). These are here because they're **too valuable to be forgotten**. A minority of links are simply underrated.
 
 To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages domain or my GH Profile-`README`, they'll be removed from this page.
 
