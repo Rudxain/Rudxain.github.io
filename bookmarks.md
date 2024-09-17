@@ -5,16 +5,17 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 
 ## Text
 - [UTF-8 Manifesto](https://utf8everywhere.org)
+- [Unicode is a mess because languages are a mess](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode)
+- [Unicode "chars" are meaningless by default](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points)
 - [Text editors are complex beasts](https://lord.io/text-editing-hates-you-too), a reply/follow-up to [_"Text Rendering Hates You"_](https://gankra.github.io/blah/text-hates-you) by Aria/Alexis Beingessner
 - [Wise advice from humble dev](https://grugbrain.dev). That's why we should (at least pretend to) be dumb. Complexity bad!
 - [D.R.Y. debate](http://c2.com/cgi/wiki?DontRepeatYourself)
+- [_Recursive_ RLE‽‽‽](https://liamappelbe.medium.com/the-unreasonable-effectiveness-of-run-length-encoding-0d4ab5f92802)
 - [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://jagregory.com/abrash-black-book). Includes an over-optimized impl of [CGoL](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). I would pay >50$ for this.
 - ["The Busy Beaver Frontier"](https://www.scottaaronson.com/papers/bb.pdf) by Scott Aaronson, et al.
 - ["A Relatively Small Turing Machine Whose Behavior Is Independent
 of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) by Adam Yedidia & Scott Aaronson
 	- [May 13/17, 2016](https://arxiv.org/pdf/1605.04343)
-- [💩 Enshittification is coming for everything](https://pluralistic.net/2024/01/30/go-nuts-meine-kerle/#ich-bin-ein-bratapfel)
-- Likely, [the most comprehensive debunking of theistic religions](https://www.whywontgodhealamputees.com)
 - [Graphical Linear Algebra](https://graphicallinearalgebra.net)
 - [Non-linear `Math.round`](https://brodowsky.it-sky.net/2015/02/06/geometric-and-harmonic-rounding)
 - [🔁Tur(n)ing](https://jk-keller.com/o__o/rotational_growth)
@@ -22,21 +23,26 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 - [Polygon Continuum](https://chalkdustmagazine.com/blog/overturned-polygons). This is a blog-post about `0 <= sides < 3`, and it includes links to 2 other blogs about negative and fractional sides. It explores the idea of _extending polygon sides to be Real numbers_.
 - [Bitwise Twiddling tricks](https://graphics.stanford.edu/~seander/bithacks.html)
 - [Hamming Weight indexing](https://stackoverflow.com/a/13614164)
+- [**NEVER PARSE H̶͎͒̄Ṭ̴̢̺̇͒̕M̵͎̹̮̤̑L̸̥̺̩̰̔̓͊̐̔̈́ ̶̞̻̒̈́͝W̵̰̐̿̎I̶̧̩̳͈͕̽̿͜T̷͇̱̭̝̺̃H̷̢̛̳͈͔̄̍̉̾ ̶̡̬̊̏̒̂͘R̸̨͇̱̐̃͛̃̑Ḛ̷̢͎͕̊͌̊̆̈́͂G̸̲̮̥̫̐͆̅̈͛͝E̶͖͚̎X̴̨̢̹̘̲̌ͅ**](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
+- [⚠️YAML bad❌](https://noyaml.com)
+- [G gets 🔥roasted in XSS privacy policy!](https://www.jwz.org/xscreensaver/google.html)
+- [💩 Enshittification is coming for everything](https://pluralistic.net/2024/01/30/go-nuts-meine-kerle/#ich-bin-ein-bratapfel)
+- Likely, [the most comprehensive debunking of theistic religions](https://www.whywontgodhealamputees.com)
+- [Gender and sex are complicated](https://www.scientificamerican.com/blog/sa-visual/visualizing-sex-as-a-spectrum). [Further info](https://www.nature.com/articles/518288a).
+- [Research on furries](https://furscience.com/research-findings)
 - [SU and Eternals are **way** too similar](https://vulture.com/2022/01/eternals-is-just-the-plot-of-steven-universe.html)
 - [El 💯mejor poema de Ron Lorent/Israel](https://cdn.verbub.com/images/ella-queria-signos-de-admiracion-el-le-daba-signos-de-interrogacion-el-112821.jpg)
-- [⚠️YAML bad❌](https://noyaml.com)
-- [**NEVER PARSE H̶͎͒̄Ṭ̴̢̺̇͒̕M̵͎̹̮̤̑L̸̥̺̩̰̔̓͊̐̔̈́ ̶̞̻̒̈́͝W̵̰̐̿̎I̶̧̩̳͈͕̽̿͜T̷͇̱̭̝̺̃H̷̢̛̳͈͔̄̍̉̾ ̶̡̬̊̏̒̂͘R̸̨͇̱̐̃͛̃̑Ḛ̷̢͎͕̊͌̊̆̈́͂G̸̲̮̥̫̐͆̅̈͛͝E̶͖͚̎X̴̨̢̹̘̲̌ͅ**](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
 - [_"Ghosts of Departed Proofs"_](https://kataskeue.com/gdp.pdf), related to the next link...
 - [Type-driven parsing](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate). [The Rust Book agrees with this](https://doc.rust-lang.org/book/ch09-03-to-panic-or-not-to-panic.html#creating-custom-types-for-validation).
 - [Why "`async` color-blindness" isn't always worth it](https://www.thecodedmessage.com/posts/async-colors)
 - Proposal for [SSH to replace HTTPS](https://shazow.net/posts/ssh-how-does-it-even)
-- [G gets 🔥roasted in XSS privacy policy!](https://www.jwz.org/xscreensaver/google.html)
 - [Why manual security isn't worth it](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/SoLongAndNoThanks.pdf)
+- [Unicode fingerprinting](https://www.zachaysan.com/writing/2018-01-01-fingerprinting-update)
 - [Relationship between Hawking Radiation and Casimir Effect](https://scholar.uwindsor.ca/cgi/viewcontent.cgi?article=3917&context=etd).  This is a thesis by Darragh Rooney that suggests it's connected to quantum gravity. BTW, please discuss in the Wikipedia Talk pages:
 	- [CE](https://en.wikipedia.org/wiki/Talk:Casimir_effect#Hawking_radiation_%22analogy%22)
 	- [HR](https://en.wikipedia.org/wiki/Talk:Hawking_radiation#Relationship_to_Casimir_Effect)
-- [Gender and sex are complicated](https://www.scientificamerican.com/blog/sa-visual/visualizing-sex-as-a-spectrum). [Further info](https://www.nature.com/articles/518288a).
 - [ByteBeat Scientific Paper](https://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html)
+- [Why The New Hacker's Dictionary is valid](https://www.catb.org/jargon/jargtxt.html)
 
 ### Documentation
 - [_"Putting the “You” in CPU"_](https://cpu.land), learn how programs **actually** execute.
