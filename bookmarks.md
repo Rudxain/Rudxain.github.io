@@ -116,7 +116,8 @@ Most of these aren't audio data per-se, they're more akin to digital-audio-works
 - Single
 	- [xkcd#435: "Purity"](https://xkcd.com/435), but [including logic and philosophy](https://i.imgur.com/F1Mf8.png)
 	- [Elemental Spices](https://i.redd.it/q2fzkh53in171.jpg)
-	- [Yoda Obama Keanu Thanos, Venn diagram](https://old.reddit.com/r/memes/comments/cbzu2u/credit_to_udiebetic_dodobird_it_didnt_let_me) 
+	- [Yoda Obama Keanu Thanos, Venn diagram](https://old.reddit.com/r/memes/comments/cbzu2u/credit_to_udiebetic_dodobird_it_didnt_let_me)
+	- [Minecraft armor sets meme](https://i.pinimg.com/originals/4f/0a/68/4f0a687abf29ef2c8cf0d4997bf86a5b.jpg)
 	- ["The Beatles" anagrams](https://i.pinimg.com/736x/6d/36/dd/6d36dd5c8f9f7cb2e2ecfc7ef153564a.jpg), alt: "I keep rearranging the letters of my sister's The Beatles sign on her bedroom door. She is not happy."
 	- [_"Doodle: Go home after practice~ 🎸"_](https://twitter.com/ttguweiz/status/789792797041635328), alt: girl with guitar-case walking on the street in a rainy day.
 	- [sunset in a cloudy city](https://pixiv.net/en/artworks/53727984)
