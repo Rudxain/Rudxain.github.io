@@ -9,7 +9,7 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - [Unicode "chars" are meaningless by default](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points)
 - [Text editors are complex beasts](https://lord.io/text-editing-hates-you-too), a reply/follow-up to [_"Text Rendering Hates You"_](https://gankra.github.io/blah/text-hates-you) by Aria/Alexis Beingessner
 - [Wise advice from humble dev](https://grugbrain.dev). That's why we should (at least pretend to) be dumb. Complexity bad!
-- [D.R.Y. debate](http://c2.com/cgi/wiki?DontRepeatYourself)
+- [D.R.Y. debate](https://c2.com/cgi/wiki?DontRepeatYourself)
 - [_Recursive_ RLE‽‽‽](https://liamappelbe.medium.com/the-unreasonable-effectiveness-of-run-length-encoding-0d4ab5f92802)
 - [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://jagregory.com/abrash-black-book). Includes an over-optimized impl of [CGoL](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). I would pay >50$ for this.
 - ["The Busy Beaver Frontier"](https://www.scottaaronson.com/papers/bb.pdf) by Scott Aaronson, et al.
@@ -57,7 +57,7 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 "As-is" are apps usable as-is, for browsers. "Indirect" are non cross-platform software and hardware.
 - As-is
 	- [LAN file share](https://pairdrop.net), and [an alt](https://www.sharedrop.io).
-	- [Web repo previewer](http://htmlpreview.github.io). For repositories that don't use GH-Pages.
+	- [Web repo previewer](https://htmlpreview.github.io). For repositories that don't use GH-Pages.
 	- [Wayback Machine](https://archive.org/web)
 	- [GD web client](https://gdbrowser.com)
 	- [OVC](https://onlinevideoconverter.com). [YTDL](https://github.com/ytdl-org/youtube-dl) is better, but OVC can slice/crop at timestamps before downloading.
@@ -85,7 +85,7 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 - [🔀Useless 🌐Websites](https://theuselessweb.com)
 - [🖱️Click ×4](https://clickclickclick.click)
 - [ΔR](https://deltarune.com). The website has some easter-eggs (even after Spamton Sweepstakes) that will be updated when new chapters release.
-- [Evolutionary Prisoner's Dilemma game](http://ncase.me/trust)
+- [Evolutionary Prisoner's Dilemma game](https://ncase.me/trust)
 - [Data Wing](https://play.google.com/store/apps/details?id=com.DanVogt.DATAWING)
 - [Better than Diep.io](https://arras.io)
 - [🔥♂️&💧♀️ saga](https://fireboynwatergirl.com). Is this the official URL?
