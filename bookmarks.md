@@ -45,6 +45,7 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 - [Why The New Hacker's Dictionary is valid](https://www.catb.org/jargon/jargtxt.html)
 
 ### Documentation
+- [Best resources for future Linux devs](https://kernelnewbies.org/FAQ)
 - [_"Putting the “You” in CPU"_](https://cpu.land), learn how programs **actually** execute.
 - [In-depth JS Task-Queue optimization](https://web.dev/articles/optimize-long-tasks)
 - [Web-Safe Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals#web_safe_fonts)
