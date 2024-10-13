@@ -42,8 +42,9 @@
 - am [anti-DRM](https://defectivebydesign.org)
 - am partially vegan
 	- I consume animal-based products, as least as possible
-- am autistic
+- am in the autistic spectrum (I was diagnosed when I was a kid/pre-teen)
 - ❤ minimalism, ❌ bloat
+- love useful redundancy, hate useless redundancy
 - *have too much clothing*
 	- **DON'T GIFT ME CLOTHES!** (buy them from me!)
 - reply/react to posts regardless of their ⌛date (I'm "ancient-agnostic", lol) ![You know, I'm something of a historian myself](https://pbs.twimg.com/media/FFcEIG5WQAgBo33.jpg)
