@@ -24,6 +24,10 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 - [Bitwise Twiddling tricks](https://graphics.stanford.edu/~seander/bithacks.html)
 - [Hamming Weight indexing](https://stackoverflow.com/a/13614164)
 - [**NEVER PARSE H̶͎͒̄Ṭ̴̢̺̇͒̕M̵͎̹̮̤̑L̸̥̺̩̰̔̓͊̐̔̈́ ̶̞̻̒̈́͝W̵̰̐̿̎I̶̧̩̳͈͕̽̿͜T̷͇̱̭̝̺̃H̷̢̛̳͈͔̄̍̉̾ ̶̡̬̊̏̒̂͘R̸̨͇̱̐̃͛̃̑Ḛ̷̢͎͕̊͌̊̆̈́͂G̸̲̮̥̫̐͆̅̈͛͝E̶͖͚̎X̴̨̢̹̘̲̌ͅ**](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
+- My fav argument against [Py's colons](https://docs.python.org/3/faq/design.html#why-are-colons-required-for-the-if-while-def-class-statements) is:
+	- > > _The colons are an extra visual clue to scanning the blocks. As such, they improve readability, one of Python's main strengths._
+		> 
+		> [Then Opening and closing braces should be called an "extra visual clue to scanning the block" in C++ and Java? Because they improved readability. Braces (`{`) then is C++, Java's main Strength.](https://wiki.c2.com/?SyntacticallySignificantWhitespaceConsideredHarmful)
 - [⚠️YAML bad❌](https://noyaml.com)
 - [G gets 🔥roasted in XSS privacy policy!](https://www.jwz.org/xscreensaver/google.html)
 - [💩 Enshittification is coming for everything](https://pluralistic.net/2024/01/30/go-nuts-meine-kerle/#ich-bin-ein-bratapfel)
