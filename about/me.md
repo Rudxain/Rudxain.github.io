@@ -47,6 +47,6 @@
 - love useful redundancy, hate useless redundancy
 - *have too much clothing*
 	- **DON'T GIFT ME CLOTHES!** (buy them from me!)
-- reply/react to posts regardless of their ⌛date (I'm "ancient-agnostic", lol) ![You know, I'm something of a historian myself](https://pbs.twimg.com/media/FFcEIG5WQAgBo33.jpg)
+- reply/react to posts regardless of their ⌛date (I'm a "necroposter", apparently) ![You know, I'm something of a historian myself](https://pbs.twimg.com/media/FFcEIG5WQAgBo33.jpg)
 - want to be euthanized (when the time is appropriate)
 - want my body to contribute to the ecosystem, so don't bury me in a coffin, let my body become nutritious material for all organisms!
