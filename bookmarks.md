@@ -39,7 +39,7 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 - [SU and Eternals are **way** too similar](https://vulture.com/2022/01/eternals-is-just-the-plot-of-steven-universe.html)
 - [El 💯mejor poema de Ron Lorent/Israel](https://cdn.verbub.com/images/ella-queria-signos-de-admiracion-el-le-daba-signos-de-interrogacion-el-112821.jpg)
 - [_"Ghosts of Departed Proofs"_](https://kataskeue.com/gdp.pdf), related to the next link...
-- [Type-driven parsing](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate). [The Rust Book agrees with this](https://doc.rust-lang.org/book/ch09-03-to-panic-or-not-to-panic.html#creating-custom-types-for-validation).
+- [Type-driven parsing](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate). [The Rust Book agrees with this](https://doc.rust-lang.org/book/ch09-03-to-panic-or-not-to-panic.html#creating-custom-types-for-validation) (AKA [`newtype` pattern](https://doc.rust-lang.org/rust-by-example/generics/new_types.html)).
 - [Why "`async` color-blindness" isn't always worth it](https://www.thecodedmessage.com/posts/async-colors)
 - Proposal for [SSH to replace HTTPS](https://shazow.net/posts/ssh-how-does-it-even)
 - [Why manual security isn't worth it](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/SoLongAndNoThanks.pdf)
