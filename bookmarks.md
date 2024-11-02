@@ -56,7 +56,6 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 - [In-depth JS Task-Queue optimization](https://web.dev/articles/optimize-long-tasks)
 - [Web-Safe Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals#web_safe_fonts)
 - [Rasterize SVGs without 3p libs](https://stackoverflow.com/questions/3975499/convert-svg-to-image-jpeg-png-etc-in-the-browser/74026755#74026755)
-- [Safer shell scripting](https://sipb.mit.edu/doc/safe-shell)
 - [Android built-in CLI utilities (all versions)](https://chromium.googlesource.com/aosp/platform/system/core/+/refs/heads/upstream/shell_and_utilities). This is like ["CIU"](https://caniuse.com) for shell environments.
 - [Android bloat list](https://raw.githubusercontent.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/main/resources/assets/uad_lists.json)
 
