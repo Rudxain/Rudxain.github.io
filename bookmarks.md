@@ -33,6 +33,7 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 - ["Privacy is the right to be imperfect" and "Data is the new ~gold~ oil"](https://www.socialcooling.com)
 - [💩 Enshittification is coming for everything](https://pluralistic.net/2024/01/30/go-nuts-meine-kerle/#ich-bin-ein-bratapfel)
 - [Digital chains and modern feudalism](https://gavinhoward.com/2023/11/your-loved-ones-are-prisoners-and-you-made-the-chain/). **WARNING:** deep rabbit hole!
+- Nicky Case, [“AI Safety for Fleshy Humans”](https://AIsafety.dance), Hack Club (2024).
 - Likely, [the most comprehensive debunking of theistic religions](https://www.whywontgodhealamputees.com)
 - [Gender and sex are complicated](https://www.scientificamerican.com/blog/sa-visual/visualizing-sex-as-a-spectrum). [Further info](https://www.nature.com/articles/518288a).
 - [Research on furries](https://furscience.com/research-findings)
