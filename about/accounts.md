@@ -32,7 +32,7 @@ My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 	- [My Xbox LIVE](https://account.xbox.com/en-us/profile?gamertag=Rudxain)
 - [My 🎮Dsc](https://discord.com/users/1168914552323326002)
 - 📞WhatsApp
-- [Banco Qik RD](https://qik.do). Please, support/donate here: `1000893125`
+- [Banco Qik RD](https://qik.do). Please, support/donate here: `DO52QDDM1000893125` (IBAN)
 - [NG user page](https://Rudxain.newgrounds.com)
 - [My Reddit](https://reddit.com/u/Rudxain). [DON'T CONTACT ME THERE](https://reddit.com/user/Rudxain/comments/15esvam/thanks_for_betraying_me_reddit_ceos).
 - [My 🔊☁️SC](https://soundcloud.com/Rudxain)
