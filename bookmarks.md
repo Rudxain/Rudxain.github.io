@@ -67,6 +67,7 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 	- [Wayback Machine](https://archive.org/web)
 	- [GD web client](https://gdbrowser.com)
 	- [OVC](https://onlinevideoconverter.com). [YTDL](https://github.com/ytdl-org/youtube-dl) is better, but OVC can slice/crop at timestamps before downloading.
+	- [Zazow](https://www.zazow.com/): highly customizable fractals.
 	- [🔺Triangulart🔻](https://maxwellito.github.io/triangulart)
 	- [Image vectorizer](https://svgco.de)
 	- [Try It Online](https://tio.run). A comprehensive collection of interpreters for normal-langs and eso-langs.
