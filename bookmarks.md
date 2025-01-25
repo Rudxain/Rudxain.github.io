@@ -49,6 +49,7 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 	- [CE](https://en.wikipedia.org/wiki/Talk:Casimir_effect#Hawking_radiation_%22analogy%22)
 	- [HR](https://en.wikipedia.org/wiki/Talk:Hawking_radiation#Relationship_to_Casimir_Effect)
 - [ByteBeat Scientific Paper](https://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html)
+- [Demoscene code-golf (SizeCoding)](http://sizecoding.org)
 - [Why The New Hacker's Dictionary is valid](https://www.catb.org/jargon/jargtxt.html)
 
 ### Documentation
