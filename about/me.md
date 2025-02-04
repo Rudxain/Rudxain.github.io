@@ -9,7 +9,7 @@
 	- I'm interested in [BT](https://en.wikipedia.org/wiki/Balanced_ternary)
 - prefer [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) 📅date-time⌚ format
 	- but it would be better if months and clocks were written in [dozenal](https://en.wikipedia.org/wiki/Duodecimal)
-- don't care about pronouns 🤷
+- don't care about my pronouns 🤷
 	- but it's funny to address me as anything other than "he/him" or "they/them"
 - am
 	- ♂️ male
