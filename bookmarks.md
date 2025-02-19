@@ -63,7 +63,7 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 ## 🛠️ Tools
 "As-is" are apps usable as-is, for browsers. "Indirect" are non cross-platform software and hardware.
 - As-is
-	- [LAN file share](https://pairdrop.net), and [an alt](https://www.sharedrop.io).
+	- [LAN file share](https://pairdrop.net)
 	- [repo web-page previewer](https://html-preview.github.io)
 	- [Wayback Machine](https://archive.org/web)
 	- [GD web client](https://gdbrowser.com)
