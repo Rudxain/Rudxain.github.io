@@ -35,6 +35,7 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 - [Digital chains and modern feudalism](https://gavinhoward.com/2023/11/your-loved-ones-are-prisoners-and-you-made-the-chain/). **WARNING:** deep rabbit hole!
 - [Software Freedom Conservancy](https://sfconservancy.org)
 - Nicky Case, [“AI Safety for Fleshy Humans”](https://AIsafety.dance), Hack Club (2024).
+- [Why abusers legitimately don't know what they did wrong](https://www.issendai.com/psychology/estrangement/missing-missing-reasons.html)
 - Likely, [the most comprehensive debunking of theistic religions](https://www.whywontgodhealamputees.com)
 - [Gender and sex are complicated](https://www.scientificamerican.com/blog/sa-visual/visualizing-sex-as-a-spectrum). [Further info](https://www.nature.com/articles/518288a).
 - [Research on furries](https://furscience.com/research-findings)
