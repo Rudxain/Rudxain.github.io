@@ -37,7 +37,7 @@
 	- which implies I'm against any kind of irrational discrimination, including "white supremacy", trans-hate, and furry-marginalization
 - am not anti-theism, but I don't support it either
 - am [atheist, not nega-theist](https://youtu.be/e-2WZsP6LA0?t=350)(alt: "false equivalents" by `@qualiasoup` & `@theramintrees`)
-	- actually 🤓, [I'm just a rational person](https://www.whywontgodhealamputees.com/no-atheists.htm)
+	- actually 🤓, [I'm just a rational person](https://www.whywontgodhealamputees.com/no-atheists.htm) (I don't entirely agree: there's a distinction between "The God" (imaginary) and "a deity" (unfalsifiable))
 - am [pro-adoption, pro-need (not pro-choice), and pro-life (not pro-birth)](https://amptoons.com/blog/?p=13565)(alt: "Do They Really Believe Abortion Is Murder?" by `Ampersand`)
 	- although, I don't take any position strongly, because I need more info on the subject
 - am [anti-DRM](https://defectivebydesign.org)
