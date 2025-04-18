@@ -26,8 +26,6 @@ My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 	- Crowd-Source (`crowdsource.google.com`)
 	- 🎮 Play Games Gamer-ID (same as my YT handle)
 - Microsoft (same address as Gmail, but `*@outlook.com`)
-	- Skype
-		- You can find me by phone-number (same as WhatsApp)
 	- [Learn](https://learn.microsoft.com/en-us/users/Rudxain)
 	- [My Xbox LIVE](https://account.xbox.com/en-us/profile?gamertag=Rudxain)
 - [My 🎮Dsc](https://discord.com/users/1168914552323326002)
@@ -70,6 +68,7 @@ My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 	- I don't even remember if I registered 💀
 
 ## Deleted
+- Skype (because [MS killed it](https://www.microsoft.com/en-us/microsoft-365/blog/2025/02/28/the-next-chapter-moving-from-skype-to-microsoft-teams))
 - Facebook. I only had 1 account. I've never forgot the password (unlike other people, lol). Usernames (oldest to newest):
 	1. `faladagron`
 	2. `faladragon`
