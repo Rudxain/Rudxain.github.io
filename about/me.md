@@ -19,7 +19,7 @@
 	- heterosexual
 	- panromantic (I guess? 🤔)
 - am single, and waiting to meet someone that would change that state
-- am learning and doing [STEAM](https://en.wikipedia.org/wiki/STEAM_fields) ❤, which implies I'm a:
+- am learning and doing [STEAM](https://en.wikipedia.org/wiki/STEAM_fields) ❤️, which implies I'm a:
 	- software developer/engineer (mostly)
 		- which implies I'm (at least) a programmer/coder
 	- audio-visual artist
@@ -50,7 +50,7 @@
 	- I consume animal-based products, as least as possible
 - love almost all animals (even the non-mammals) :3
 - am in the autistic spectrum (I was diagnosed when I was a kid/pre-teen)
-- ❤ minimalism, ❌ bloat
+- ❤️ minimalism, ❌ bloat
 - love useful redundancy, hate useless redundancy
 - *have too much clothing*
 	- **DON'T GIFT ME CLOTHES!** (buy them from me!)
