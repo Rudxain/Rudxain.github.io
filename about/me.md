@@ -9,6 +9,9 @@
 	- I'm interested in [BT](https://en.wikipedia.org/wiki/Balanced_ternary)
 - prefer [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) 📅date-time⌚ format
 	- but it would be better if months and clocks were written in [dozenal](https://en.wikipedia.org/wiki/Duodecimal)
+- am not allergic to anything, AFAIK
+- don't have PTSD (yet), so no need for [TW](https://en.wikipedia.org/wiki/Trigger_warning)s
+- don't like chairs, as most of them aren't ergonomic for me. I'd rather stay standing most of the time.
 - don't care about my pronouns 🤷
 	- but it's funny to address me as anything other than "he/him" or "they/them"
 - am
