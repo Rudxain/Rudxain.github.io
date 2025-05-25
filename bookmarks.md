@@ -10,8 +10,9 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - [Text editors are complex beasts](https://lord.io/text-editing-hates-you-too), a reply/follow-up to [_"Text Rendering Hates You"_](https://gankra.github.io/blah/text-hates-you) by Aria/Alexis Beingessner
 - [Wise advice from humble dev](https://grugbrain.dev). That's why we should (at least pretend to) be dumb. Complexity bad!
 - [D.R.Y. debate](https://c2.com/cgi/wiki?DontRepeatYourself)
+- [How to ask valuable questions](https://www.catb.org/esr/faqs/smart-questions.html)
 - [_Recursive_ RLE‽‽‽](https://liamappelbe.medium.com/the-unreasonable-effectiveness-of-run-length-encoding-0d4ab5f92802)
-- [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://jagregory.com/abrash-black-book). Includes an over-optimized impl of [CGoL](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). I would pay >50$ for this.
+- [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://jagregory.com/abrash-black-book). Includes an over-optimized impl of [CGoL](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 - ["The Busy Beaver Frontier"](https://www.scottaaronson.com/papers/bb.pdf) by Scott Aaronson, et al.
 - ["A Relatively Small Turing Machine Whose Behavior Is Independent
 of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) by Adam Yedidia & Scott Aaronson
