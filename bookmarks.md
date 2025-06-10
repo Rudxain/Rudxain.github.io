@@ -31,6 +31,7 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 - [⚠️YAML bad❌](https://noyaml.com)
 - [G gets 🔥roasted in XSS privacy policy!](https://www.jwz.org/xscreensaver/google.html)
 - ["Privacy is the right to be imperfect" and "Data is the new ~gold~ oil"](https://www.socialcooling.com)
+- [Web Bloat Crisis](https://idlewords.com/talks/website_obesity.htm)
 - [💩 Enshittification is coming for everything](https://pluralistic.net/2024/01/30/go-nuts-meine-kerle/#ich-bin-ein-bratapfel)
 - [Digital chains and modern feudalism](https://gavinhoward.com/2023/11/your-loved-ones-are-prisoners-and-you-made-the-chain/). **WARNING:** deep rabbit hole!
 - [Software Freedom Conservancy](https://sfconservancy.org)
