@@ -43,7 +43,7 @@
 	- actually 🤓, [I'm just a rational person](https://www.whywontgodhealamputees.com/no-atheists.htm) (I don't entirely agree: there's a distinction between "The God" (imaginary) and "a deity" (unfalsifiable))
 - am [pro-adoption, pro-need (not pro-choice), and pro-life (not pro-birth)](https://amptoons.com/blog/?p=13565)(alt: "Do They Really Believe Abortion Is Murder?" by `Ampersand`)
 	- although, I don't take any position strongly, because I need more info on the subject
-- am [anti-DRM](https://defectivebydesign.org)
+- am [pro-consumer-rights](https://consumerrights.wiki), anti-[enshittification](https://en.wikipedia.org/wiki/Enshittification)
 - am interested in procedurally-generated art such as: [byte-beat](http://canonical.org/~kragen/bytebeat/) and [shaders](https://www.shadertoy.com/view/cldXzM).
 - am considering to develop a [polarity](https://en.wikipedia.org/wiki/Polarization_(waves))-aware path-tracing engine, to support the rendering of surreal (and photo-realistic) objects and scenes!
 - am partially vegan
