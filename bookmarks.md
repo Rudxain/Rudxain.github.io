@@ -85,7 +85,7 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 	- [Android Display Tester](https://play.google.com/store/apps/details?id=com.gombosdev.displaytester)
 
 ## 😂🎮 Entertainment
-- [Twitter for JS devs](https://www.dwitter.net)
+- [xitter for JS devs](https://www.dwitter.net)
 - [♾️Craft](https://neal.fun/infinite-craft)
 - [💾NAND Game](https://nandgame.com)
 - [🤨Weird 📧 sent to Daniel Stenberg](https://github.com/bagder/emails)
@@ -116,7 +116,7 @@ Most of these aren't audio data per-se, they're more akin to digital-audio-works
 - [Improved ByteBeat player](https://wurstcaptures.untergrund.net/music)
 - [BB DAW](https://dollchan.net/bytebeat), and [alt](https://bytebeat.ficial.net)
 - [BB waveform visualizer](https://greggman.com/downloads/examples/html5bytebeat/html5bytebeat.html)
-- [Chrome Music Lab](https://musiclab.chromeexperiments.com)
+- [chrome Music Lab](https://musiclab.chromeexperiments.com)
 
 ## 🖼️ Image
 - Multi
