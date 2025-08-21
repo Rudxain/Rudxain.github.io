@@ -28,6 +28,7 @@ My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 - Microsoft (same address as Gmail, but `*@outlook.com`)
 	- [Learn](https://learn.microsoft.com/en-us/users/Rudxain)
 	- [My Xbox LIVE](https://account.xbox.com/en-us/profile?gamertag=Rudxain)
+- [My Valve/Steam profile](https://steamcommunity.com/id/rudxain) (UUID `76561198794430916`)
 - [My 🎮Dsc](https://discord.com/users/1168914552323326002)
 - 📞WhatsApp
 - [Banco Qik RD](https://qik.do). Please, support/donate here: `DO52QDDM1000893125` (IBAN)
