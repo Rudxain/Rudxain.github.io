@@ -28,6 +28,7 @@ My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 - Micro$haft (["microsoft"](https://consumerrights.wiki/Microsoft)) (same address as Gmail, but `*@outlook.com`)
 	- [Learn](https://learn.microsoft.com/en-us/users/Rudxain)
 	- [Xbox LIVE](https://account.xbox.com/en-us/profile?gamertag=Rudxain)
+- [Valve/Steam profile](https://steamcommunity.com/id/rudxain) (UUID `76561198794430916`)
 - [DisBloat](https://discord.com/users/1168914552323326002) (["discord"](https://consumerrights.wiki/Discord)), which [I want to stop using](https://joinmatrix.org/guide/matrix-vs-discord) but I can't because of [_FATE_](https://gamejolt.com/games/drFATE/975648).
 - 📞 WhatsBloat (["WhatsApp"](https://consumerrights.wiki/WhatsApp)). I'm considering to replace it by [Signal](https://signal.org/) or [Matrix](https://matrix.org/)
 - [banco qik RD](https://qik.do) ("Qik"). Please, support/donate here: `DO52QDDM1000893125` (IBAN)
