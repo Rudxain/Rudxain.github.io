@@ -17,40 +17,37 @@ My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 
 ## Existent
 (Some may be inactive)
-- Google (same address as Outlook, but `*@gmail.com`)
+- [Gluegle](https://www.theverge.com/2024/6/11/24176490/mm-delicious-glue) (AKA ["Google"](https://consumerrights.wiki/Google)) (same address as Outlook, but `*@gmail.com`)
 	- [YT channel](https://youtube.com/@Rudxain)
 		- I registered [my custom URL](https://youtube.com/c/RFSGameplayer) when requisites were lower, now I can't update/remove it 💀
 	- 📞Duo
-	- [My Android Developers](https://g.dev/rudxain)
+	- [Android Developers](https://g.dev/rudxain)
 	- Learn Digital (`learndigital.withgoogle.com`)
 	- Crowd-Source (`crowdsource.google.com`)
 	- 🎮 Play Games Gamer-ID (same as my YT handle)
-- Microsoft (same address as Gmail, but `*@outlook.com`)
+- Micro$haft (AKA ["Microsoft"](https://consumerrights.wiki/Microsoft)) (same address as Gmail, but `*@outlook.com`)
 	- [Learn](https://learn.microsoft.com/en-us/users/Rudxain)
-	- [My Xbox LIVE](https://account.xbox.com/en-us/profile?gamertag=Rudxain)
-- [My Valve/Steam profile](https://steamcommunity.com/id/rudxain) (UUID `76561198794430916`)
-- [My 🎮Dsc](https://discord.com/users/1168914552323326002)
-- 📞WhatsApp
-- [Banco Qik RD](https://qik.do). Please, support/donate here: `DO52QDDM1000893125` (IBAN)
+	- [Xbox LIVE](https://account.xbox.com/en-us/profile?gamertag=Rudxain)
+- [Valve/Steam profile](https://steamcommunity.com/id/rudxain) (UUID `76561198794430916`)
+- [DickCrap](https://discord.com/users/1168914552323326002) (AKA ["Discord"](https://consumerrights.wiki/Discord)), which [I want to stop using](https://joinmatrix.org/guide/matrix-vs-discord) but I can't because of [_FATE_](https://gamejolt.com/games/drFATE/975648).
+- 📞 WhatsBloat (AKA ["WhatsApp"](https://consumerrights.wiki/WhatsApp)). I'm considering to replace it by [Signal](https://signal.org/) or [Matrix](https://matrix.org/)
+- [Banco Dick RD](https://qik.do) (AKA "Qik"). Please, support/donate here: `DO52QDDM1000893125` (IBAN)
 - [NG user page](https://Rudxain.newgrounds.com)
-- [My Reddit](https://reddit.com/u/Rudxain). [DON'T CONTACT ME THERE](https://reddit.com/user/Rudxain/comments/15esvam/thanks_for_betraying_me_reddit_ceos).
-- [My 🔊☁️SC](https://soundcloud.com/Rudxain)
+- [Fuckddit](https://reddit.com/u/Rudxain). [DON'T CONTACT ME THERE](https://reddit.com/user/Rudxain/comments/15esvam/thanks_for_betraying_me_reddit_ceos).
+- [🔊☁️ FartCloud](https://soundcloud.com/Rudxain) (AKA ["SoundCloud"](https://consumerrights.wiki/SoundCloud))
 - [Wiki-Profile](https://en.wikipedia.org/wiki/User:Rudxain)
 - [Khan Academy](http://khanacademy.org/profile/Rudxain)
 - [Coursera profile](https://coursera.org/user/cdfd656c5769f1b3785e1ae95a5d57c2)
-- [My edX](https://profile.edx.org/u/Rudxain)
+- [edX](https://profile.edx.org/u/Rudxain)
 - [GH repos](https://github.com/Rudxain?tab=repositories) & [Gists](https://gist.github.com/Rudxain)
 - [LL-AM quasi-profile](https://llamalab.com/automate/community/flows/42921). User-id: `#34225`. A [live JSON of some of my flows](https://llamalab.com/automate/community/api/v1/users/34225/flows) is available (current limit is 64).
-- [My Cargo Crates](https://crates.io/users/Rudxain)
+- [Cargo Crates](https://crates.io/users/Rudxain)
 - My Rust [User](https://users.rust-lang.org/u/rudxain) & [Internals](https://internals.rust-lang.org/u/rudxain) forum profiles.
 - [ECMAScript Discourse profile](https://es.discourse.group/u/rudxain)
 - G.I.M.P.S. (`Mersenne.org`). My user-id is private, and AFAIK my profile has no URL.
 	- I used to grind CPUs with Prime95, hoping to get some money, or at least help humanity get better crypto-security.
-- OpenAI. I'm planning to delete it.
-	- ChatGPT
-	- DALL-E
-- [`RFS_Roblox`](https://roblox.com/users/323158352/profile)
-- [My FancyForce/Happy-Wheels](https://totaljerkface.com/profile.tjf?uid=6050400) username: `RFSwerewolf`
+- [`RFS_Roblox`](https://roblox.com/users/323158352/profile) ([RobTox](https://consumerrights.wiki/Roblox), actually)
+- [FancyForce/Happy-Wheels](https://totaljerkface.com/profile.tjf?uid=6050400) username: `RFSwerewolf`
 - [Geometry Dash profile](https://gdbrowser.com/u/Rudxain). My RobTop-Games/Boomlings.com username was `RFS`, [someone else](https://gdbrowser.com/u/RFS) claimed it.
 - [`RFS_Osu`](https://osu.ppy.sh/users/9905562)!
 - SuperCell
@@ -69,8 +66,8 @@ My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 	- I don't even remember if I registered 💀
 
 ## Deleted
-- Skype (because [MS killed it](https://www.microsoft.com/en-us/microsoft-365/blog/2025/02/28/the-next-chapter-moving-from-skype-to-microsoft-teams))
-- Facebook. I only had 1 account. I've never forgot the password (unlike other people, lol). Usernames (oldest to newest):
+- Skype (because [M$ killed it](https://www.microsoft.com/en-us/microsoft-365/blog/2025/02/28/the-next-chapter-moving-from-skype-to-microsoft-teams))
+- [FuckBook](https://stallman.org/facebook) (see also [this](https://salimvirani.com/facebook) & [this](https://consumerrights.wiki/Meta)). I only had 1 account. I've never forgot the password (unlike other people, lol). Usernames (oldest to newest):
 	1. `faladagron`
 	2. `faladragon`
 	3. `Bitscardo`
@@ -78,13 +75,13 @@ My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 	5. `RicardoFSerrata`
 	6. `RicardoFernandezSerrata`
 	7. `Rudxain`
-- Instagram
+- [InstaCrap](https://github.com/Rudxain/uBO-rules/pull/9) (AKA ["Instagram"](https://consumerrights.wiki/Instagram))
 	- I had many usernames because I **deleted it 3 or 4 times**
-- Twitter
-	- it was boring circa ~2014
+- [exTwitter](https://stallman.org/twitter). [See also](https://consumerrights.wiki/X_Corp).
 - 🔊☁️SC: `rfs-680354630`
 	- I thought I wouldn't need it
 - NG: `RFS-Gamer`
+- [Shitify](https://consumerrights.wiki/Spotify)
 - Duolingo
 	- I liked it
 	- I completed the **full English & Spanish** courses with max scores
@@ -99,13 +96,14 @@ My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 		- French
 		- German
 - Desmos
-	- Cloud-saving projects is useful, but I don't need it
-- Samsung
+	- saving projects is useful, but I don't need it
+- [CrapZong](https://rudxain.github.io/blog/post/Samsung-rants) (AKA ["Samsung"](https://consumerrights.wiki/Samsung))
 	- I just wanted a dark-theme on my Galaxy J3 Mission (Android 8), so I installed the most "vanilla"/"faithful" theme (I don't remember the name, but it was high-contrast)
 - Canva
 	- [useless](https://youtu.be/FYuQkR0J0iM)
-- Adobe
-	- worse than Apple
+- [ADooBee](https://consumerrights.wiki/Adobe)
+	- worse than [RottenCore](https://stallman.org/apple) (AKA ["Apple"](https://consumerrights.wiki/Apple))
+- [ClosedAI](https://consumerrights.wiki/OpenAI)
 - AI Dungeon
 - `saymine.com`
 	- I found it thanks to [TJ](https://youtube.com/@ThioJoe)
