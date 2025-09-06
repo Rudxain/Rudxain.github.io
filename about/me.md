@@ -44,7 +44,7 @@
 - am [pro-adoption, pro-need (not pro-choice), and pro-life (not pro-birth)](https://amptoons.com/blog/?p=13565)(alt: "Do They Really Believe Abortion Is Murder?" by `Ampersand`)
 	- although, I don't take any position strongly, because I need more info on the subject
 - am [pro-consumer-rights](https://consumerrights.wiki), anti-[enshittification](https://en.wikipedia.org/wiki/Enshittification)
-- am interested in procedurally-generated art such as: [byte-beat](http://canonical.org/~kragen/bytebeat/) and [shaders](https://www.shadertoy.com/view/cldXzM).
+- am interested in procedurally-generated art such as: [byte-beat](http://canonical.org/~kragen/bytebeat/) and [shaders](https://www.shadertoy.com/).
 - am considering to develop a [polarity](https://en.wikipedia.org/wiki/Polarization_(waves))-aware path-tracing engine, to support the rendering of surreal (and photo-realistic) objects and scenes!
 - am partially vegan
 	- I consume animal-based products, as least as possible
