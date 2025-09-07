@@ -17,24 +17,24 @@ My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 
 ## Existent
 (Some may be inactive)
-- [Gluegle](https://www.theverge.com/2024/6/11/24176490/mm-delicious-glue) (AKA ["Google"](https://consumerrights.wiki/Google)) (same address as Outlook, but `*@gmail.com`)
-	- [YT channel](https://youtube.com/@Rudxain)
+- [Gluegle](https://www.theverge.com/2024/6/11/24176490/mm-delicious-glue) (["Google"](https://consumerrights.wiki/Google)) (same address as Outlook, but `*@gmail.com`)
+	- [GlueTube channel](https://youtube.com/@Rudxain) (["YouTube"](https://consumerrights.wiki/YouTube))
 		- I registered [my custom URL](https://youtube.com/c/RFSGameplayer) when requisites were lower, now I can't update/remove it 💀
 	- 📞Duo
 	- [Android Developers](https://g.dev/rudxain)
 	- Learn Digital (`learndigital.withgoogle.com`)
 	- Crowd-Source (`crowdsource.google.com`)
 	- 🎮 Play Games Gamer-ID (same as my YT handle)
-- Micro$haft (AKA ["Microsoft"](https://consumerrights.wiki/Microsoft)) (same address as Gmail, but `*@outlook.com`)
+- Micro$haft (["Microsoft"](https://consumerrights.wiki/Microsoft)) (same address as Gmail, but `*@outlook.com`)
 	- [Learn](https://learn.microsoft.com/en-us/users/Rudxain)
 	- [Xbox LIVE](https://account.xbox.com/en-us/profile?gamertag=Rudxain)
 - [Valve/Steam profile](https://steamcommunity.com/id/rudxain) (UUID `76561198794430916`)
-- [DickCrap](https://discord.com/users/1168914552323326002) (AKA ["Discord"](https://consumerrights.wiki/Discord)), which [I want to stop using](https://joinmatrix.org/guide/matrix-vs-discord) but I can't because of [_FATE_](https://gamejolt.com/games/drFATE/975648).
-- 📞 WhatsBloat (AKA ["WhatsApp"](https://consumerrights.wiki/WhatsApp)). I'm considering to replace it by [Signal](https://signal.org/) or [Matrix](https://matrix.org/)
-- [Banco Dick RD](https://qik.do) (AKA "Qik"). Please, support/donate here: `DO52QDDM1000893125` (IBAN)
+- [DickCrap](https://discord.com/users/1168914552323326002) (["Discord"](https://consumerrights.wiki/Discord)), which [I want to stop using](https://joinmatrix.org/guide/matrix-vs-discord) but I can't because of [_FATE_](https://gamejolt.com/games/drFATE/975648).
+- 📞 WhatsBloat (["WhatsApp"](https://consumerrights.wiki/WhatsApp)). I'm considering to replace it by [Signal](https://signal.org/) or [Matrix](https://matrix.org/)
+- [Banco Dick RD](https://qik.do) ("Qik"). Please, support/donate here: `DO52QDDM1000893125` (IBAN)
 - [NG user page](https://Rudxain.newgrounds.com)
-- [Fuckddit](https://reddit.com/u/Rudxain). [DON'T CONTACT ME THERE](https://reddit.com/user/Rudxain/comments/15esvam/thanks_for_betraying_me_reddit_ceos).
-- [🔊☁️ FartCloud](https://soundcloud.com/Rudxain) (AKA ["SoundCloud"](https://consumerrights.wiki/SoundCloud))
+- [Fuckddit](https://reddit.com/user/Rudxain/comments/15esvam/thanks_for_betraying_me_reddit_ceos) (["Reddit"](https://consumerrights.wiki/Reddit))
+- [🔊☁️ FartCloud](https://soundcloud.com/Rudxain) (["SoundCloud"](https://consumerrights.wiki/SoundCloud))
 - [Wiki-Profile](https://en.wikipedia.org/wiki/User:Rudxain)
 - [Khan Academy](http://khanacademy.org/profile/Rudxain)
 - [Coursera profile](https://coursera.org/user/cdfd656c5769f1b3785e1ae95a5d57c2)
@@ -75,7 +75,7 @@ My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 	5. `RicardoFSerrata`
 	6. `RicardoFernandezSerrata`
 	7. `Rudxain`
-- [InstaCrap](https://github.com/Rudxain/uBO-rules/pull/9) (AKA ["Instagram"](https://consumerrights.wiki/Instagram))
+- [InstaCrap](https://github.com/Rudxain/uBO-rules/pull/9) (["Instagram"](https://consumerrights.wiki/Instagram))
 	- I had many usernames because I **deleted it 3 or 4 times**
 - [exTwitter](https://stallman.org/twitter). [See also](https://consumerrights.wiki/X_Corp).
 - 🔊☁️SC: `rfs-680354630`
@@ -97,12 +97,12 @@ My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 		- German
 - Desmos
 	- saving projects is useful, but I don't need it
-- [CrapZong](https://rudxain.github.io/blog/post/Samsung-rants) (AKA ["Samsung"](https://consumerrights.wiki/Samsung))
+- [CrapZong](https://rudxain.github.io/blog/post/Samsung-rants) (["Samsung"](https://consumerrights.wiki/Samsung))
 	- I just wanted a dark-theme on my Galaxy J3 Mission (Android 8), so I installed the most "vanilla"/"faithful" theme (I don't remember the name, but it was high-contrast)
 - Canva
 	- [useless](https://youtu.be/FYuQkR0J0iM)
 - [ADooBee](https://consumerrights.wiki/Adobe)
-	- worse than [RottenCore](https://stallman.org/apple) (AKA ["Apple"](https://consumerrights.wiki/Apple))
+	- worse than [RottenCore](https://stallman.org/apple) (["Apple"](https://consumerrights.wiki/Apple))
 - [ClosedAI](https://consumerrights.wiki/OpenAI)
 - AI Dungeon
 - `saymine.com`
