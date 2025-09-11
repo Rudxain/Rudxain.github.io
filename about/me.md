@@ -37,7 +37,7 @@
 - am anti-dogmatism (except for a [special case](https://rudxain.github.io/blog/post/dogma_non-sentient)) and anti-faith
 	- which implies I'm areligious and anti-religion (not anti-religious)
 	- but I'm pro-trust & pro-hope
-	- which implies I'm against any kind of irrational discrimination, including "white supremacy", trans-hate, and furry-marginalization
+	- which implies I'm against any kind of irrational discrimination, including "white supremacy", trans-hate, and [furry](https://furscience.com/)-marginalization
 - am not anti-theism, but I don't support it either
 - am [atheist, not nega-theist](https://youtu.be/e-2WZsP6LA0?t=350)(alt: "false equivalents" by `@qualiasoup` & `@theramintrees`)
 	- actually 🤓, [I'm just a rational person](https://www.whywontgodhealamputees.com/no-atheists.htm) (I don't entirely agree: there's a distinction between "The God" (imaginary) and "a deity" (unfalsifiable))
