@@ -35,6 +35,7 @@ My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 - [NG user page](https://Rudxain.newgrounds.com)
 - [Fuckddit](https://reddit.com/user/Rudxain/comments/15esvam/thanks_for_betraying_me_reddit_ceos) (["Reddit"](https://consumerrights.wiki/Reddit))
 - [🔊☁️ FartCloud](https://soundcloud.com/Rudxain) (["SoundCloud"](https://consumerrights.wiki/SoundCloud))
+- [My Consumer-Rights profile](https://consumerrights.wiki/User:Rudxain)
 - [Wiki-Profile](https://en.wikipedia.org/wiki/User:Rudxain)
 - [Khan Academy](http://khanacademy.org/profile/Rudxain)
 - [Coursera profile](https://coursera.org/user/cdfd656c5769f1b3785e1ae95a5d57c2)
