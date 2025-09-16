@@ -19,6 +19,7 @@
 	- heterosexual
 	- panromantic (I guess? 🤔)
 - am single, and waiting to meet someone that would change that state
+- worked as an assistant, mostly being a digitizer and receptionist (includes customer service), at a college/university
 - am learning and doing [STEAM](https://en.wikipedia.org/wiki/STEAM_fields) ❤️, which implies I'm a:
 	- software developer/engineer (mostly)
 		- which implies I'm (at least) a programmer/coder
