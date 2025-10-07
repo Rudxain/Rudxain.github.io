@@ -3,14 +3,49 @@ Unlike typical browser "favorites"/"bookmarks", most of these links are _infrequ
 
 To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages domain or my GH Profile-`README`, they'll be removed from this page.
 
+## TO-DO
+> These aren't categorized/sorted, yet
+
+- [Why "code-of-conduct"s are useless](https://eev.ee/blog/2016/07/22/on-a-technicality)
+- [Files are hard](https://danluu.com/file-consistency)
+- [NetCat cheat-sheet](https://camilotejeiro.github.io/2017/05/17/netcat-command-linux.html)
+- https://esolangs.org/wiki/Brian_%26_Chuck
+- ["Lambda Calculus in 383 Bytes" (Sector-λ)](https://justine.lol/lambda). The blog-post is beyond awesome!
+- ["C ABI" is a lie](https://faultlore.com/blah/c-isnt-a-language)
+- [Counterexamples in Type Systems](https://counterexamples.org/)
+- https://gavinhoward.com/2024/05/what-rust-got-wrong-on-formal-verification
+- https://gavinhoward.com/2024/09/rewriting-rust-a-response
+- [Building the fastest Lua interpreter.. automatically! (Deegen)](https://sillycross.github.io/2022/11/22/2022-11-22)
+- https://gavinhoward.org/2023/06/let-me-cure-your-impostor-syndrome
+- https://gwern.net/computers#computers-all-the-way-down
+- [Networks all the way down](https://gwern.net/doc/www/fgiesen.wordpress.com/81a7f5e44ec4e9a55df9bb2dbd5535302ba06acb.html)
+- https://gwern.net/correlation
+- https://gwern.net/everything
+- https://journal.stuffwithstuff.com/2010/11/26/the-biology-of-sloppy-code
+- https://pointersgonewild.com/2013/07/19/programming-without-text-files
+- https://www.hacklewayne.com
+- https://www.hyrumslaw.com
+- https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names
+- ["Bidirectional Laser Tracer"](https://www.shadertoy.com/view/7tjSDh). It has diffraction!
+- [Mandelbox Sweeper by evvvvil_](https://www.shadertoy.com/view/3lyXDm)
+- https://www.piskelapp.com/
+
 ## Text
 - [UTF-8 Manifesto](https://utf8everywhere.org)
+- [“It’s Not Wrong that "🤦🏼‍♂️".length == 7”](https://hsivonen.fi/string-length/)
 - [Unicode is a mess because languages are a mess](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode)
 - [Unicode "chars" are meaningless by default](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points)
 - [Text editors are complex beasts](https://lord.io/text-editing-hates-you-too), a reply/follow-up to [_"Text Rendering Hates You"_](https://gankra.github.io/blah/text-hates-you) by Aria/Alexis Beingessner
 - [Wise advice from humble dev](https://grugbrain.dev). That's why we should (at least pretend to) be dumb. Complexity bad!
-- [D.R.Y. debate](https://c2.com/cgi/wiki?DontRepeatYourself)
 - [How to ask valuable questions](https://www.catb.org/esr/faqs/smart-questions.html)
+- [How to ask good questions](https://jvns.ca/blog/good-questions)
+- [Don't ask to ask, just ask](https://dontasktoask.com)
+- https://eev.ee/blog/2016/03/06/maybe-we-could-tone-down-the-javascript
+- [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
+- [You really don't need all that JavaScript, I promise](https://www.kryogenix.org/code/dont-need-that-js)
+- [Unobtrusive JS](https://www.w3.org/wiki/The_principles_of_unobtrusive_JavaScript)
+- https://jakearchibald.com/2013/progressive-enhancement-still-important
+- ["Everyone has JS, right?"](https://www.kryogenix.org/code/browser/everyonehasjs.html)
 - [_Recursive_ RLE‽‽‽](https://liamappelbe.medium.com/the-unreasonable-effectiveness-of-run-length-encoding-0d4ab5f92802)
 - [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://jagregory.com/abrash-black-book). Includes an over-optimized impl of [CGoL](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 - ["The Busy Beaver Frontier"](https://www.scottaaronson.com/papers/bb.pdf) by Scott Aaronson, et al.
@@ -23,33 +58,43 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 - [How extensions of Real numbers relate to geometric curvatures](https://reddit.com/r/math/comments/7g82yv/splitcomplex_numbers/dqi8bl1). alt: Complex = Circular (+ [curv](https://en.wikipedia.org/wiki/Curvature)), Dual = Euclidean (0 curv), Split = Hyperbolic (- curv).
 - [Polygon Continuum](https://chalkdustmagazine.com/blog/overturned-polygons). This is a blog-post about `0 <= sides < 3`, and it includes links to 2 other blogs about negative and fractional sides. It explores the idea of _extending polygon sides to be Real numbers_.
 - [Bitwise Twiddling tricks](https://graphics.stanford.edu/~seander/bithacks.html)
-- [Hamming Weight indexing](https://stackoverflow.com/a/13614164)
 - [**NEVER PARSE H̶͎͒̄Ṭ̴̢̺̇͒̕M̵͎̹̮̤̑L̸̥̺̩̰̔̓͊̐̔̈́ ̶̞̻̒̈́͝W̵̰̐̿̎I̶̧̩̳͈͕̽̿͜T̷͇̱̭̝̺̃H̷̢̛̳͈͔̄̍̉̾ ̶̡̬̊̏̒̂͘R̸̨͇̱̐̃͛̃̑Ḛ̷̢͎͕̊͌̊̆̈́͂G̸̲̮̥̫̐͆̅̈͛͝E̶͖͚̎X̴̨̢̹̘̲̌ͅ**](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454)
+- [Why footnotes are bad on the web](https://jakearchibald.com/2025/give-footnotes-the-boot)
+- [Nutshell: expandable, embeddable explanations](https://ncase.me/nutshell)
+- [The hi-res user experience](https://web.archive.org/web/20250911131755/https://headrush.typepad.com/creating_passionate_users/2005/12/the_hires_user_.html)
+- [In the economy of user effort, be a bargain, not a scam](https://lea.verou.me/blog/2025/user-effort)
+- ["Elegance" in interfaces](https://eev.ee/blog/2016/04/21/elegance)
+	- The ZDoom section reminds me of the link above.
+	- The Inform7 section reminds me of [this](https://gavinhoward.com/2025/04/how-i-solved-the-expression-problem)
+- [The growth of command line options](https://danluu.com/cli-complexity)
+- [Git koans](https://stevelosh.com/blog/2013/04/git-koans): Master Git is an enigma.
+- [Very long GNOME rant](https://woltman.com/gnome-bad)
+- [C locale rant](https://github.com/mpv-player/mpv/commit/1e70e82baa9193f6f027338b0fab0f5078971fbe)
 - My fav argument against [Py's colons](https://docs.python.org/3/faq/design.html#why-are-colons-required-for-the-if-while-def-class-statements) is:
 	- > > _The colons are an extra visual clue to scanning the blocks. As such, they improve readability, one of Python's main strengths._
 		>
 		> [Then Opening and closing braces should be called an "extra visual clue to scanning the block" in C++ and Java? Because they improved readability. Braces (`{`) then is C++, Java's main Strength.](https://wiki.c2.com/?SyntacticallySignificantWhitespaceConsideredHarmful)
 - [⚠️YAML bad❌](https://noyaml.com)
-- [G gets 🔥roasted in XSS privacy policy!](https://www.jwz.org/xscreensaver/google.html)
-- ["Privacy is the right to be imperfect" and "Data is the new ~gold~ oil"](https://www.socialcooling.com)
 - [Web Bloat Crisis](https://idlewords.com/talks/website_obesity.htm)
-- [💩 Enshittification is coming for everything](https://pluralistic.net/2024/01/30/go-nuts-meine-kerle/#ich-bin-ein-bratapfel)
-- [Digital chains and modern feudalism](https://gavinhoward.com/2023/11/your-loved-ones-are-prisoners-and-you-made-the-chain/). **WARNING:** deep rabbit hole!
-- [Software Freedom Conservancy](https://sfconservancy.org)
+- [JS bloat (2024)](https://tonsky.me/blog/js-bloat)
+- [UA story/history](https://webaim.org/blog/user-agent-string-history/)
+- ["UA gotta be kidding"](https://bkardell.com/blog/UAGottaBeKidding.html)
 - Nicky Case, [“AI Safety for Fleshy Humans”](https://AIsafety.dance), Hack Club (2024).
+- [Enshittification is everywhere](https://consumerrights.wiki/w/Enshittification)
+- [The coming civil war over general purpose computing - Boing Boing](https://boingboing.net/2012/08/23/civilwar.html)
+- ["The Right to Read"](https://www.gnu.org/philosophy/right-to-read), a dystopian tale about DRM.
+- [Enshittification of love](https://godsandgoods.substack.com/p/the-enshittification-of-transcendental)
 - [Why abusers legitimately don't know what they did wrong](https://www.issendai.com/psychology/estrangement/missing-missing-reasons.html)
-- Likely, [the most comprehensive debunking of theistic religions](https://www.whywontgodhealamputees.com)
-- [Gender and sex are complicated](https://www.scientificamerican.com/blog/sa-visual/visualizing-sex-as-a-spectrum). [Further info](https://www.nature.com/articles/518288a).
-- [SU and Eternals are **way** too similar](https://vulture.com/2022/01/eternals-is-just-the-plot-of-steven-universe.html)
+- Likely, [the most comprehensive debunking of theistic religions](https://web.archive.org/web/20250527070909/https://whywontgodhealamputees.com/). [See also](https://rationalwiki.org/wiki/Why_Won%27t_God_Heal_Amputees).
 - [El 💯mejor poema de Ron Lorent/Israel](https://cdn.verbub.com/images/ella-queria-signos-de-admiracion-el-le-daba-signos-de-interrogacion-el-112821.jpg)
 - [Type-driven parsing](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate). [The Rust Book agrees with this](https://doc.rust-lang.org/book/ch09-03-to-panic-or-not-to-panic.html#creating-custom-types-for-validation) (AKA [`newtype` pattern](https://doc.rust-lang.org/rust-by-example/generics/new_types.html)). See also [_"Ghosts of Departed Proofs"_](https://kataskeue.com/gdp.pdf).
 - [Why "`async` color-blindness" isn't always worth it](https://www.thecodedmessage.com/posts/async-colors)
+- [Gopher relevance](https://gopher.floodgap.com/gopher/gw?=gopher.floodgap.com+70+302f676f706865722f72656c6576616e63652e747874)
+- [Gopher - Take back the web](https://gopher.fyi/)
 - Proposal for [SSH to replace HTTPS](https://shazow.net/posts/ssh-how-does-it-even)
 - [Why manual security isn't worth it](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/SoLongAndNoThanks.pdf)
+- [dotpe's horrible security](https://web.archive.org/web/20240923081639/https://peabee.substack.com/p/whats-inside-the-qr-code-menu-at)
 - [Unicode fingerprinting](https://www.zachaysan.com/writing/2018-01-01-fingerprinting-update)
-- [Relationship between Hawking Radiation and Casimir Effect](https://scholar.uwindsor.ca/cgi/viewcontent.cgi?article=3917&context=etd).  This is a thesis by Darragh Rooney that suggests it's connected to quantum gravity. BTW, please discuss in the Wikipedia Talk pages:
-	- [CE](https://en.wikipedia.org/wiki/Talk:Casimir_effect#Hawking_radiation_%22analogy%22)
-	- [HR](https://en.wikipedia.org/wiki/Talk:Hawking_radiation#Relationship_to_Casimir_Effect)
 - [ByteBeat Scientific Paper](https://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html)
 - [Demoscene code-golf (SizeCoding)](http://sizecoding.org)
 - [Why The New Hacker's Dictionary is valid](https://www.catb.org/jargon/jargtxt.html)
@@ -78,7 +123,6 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 - Indirect
 	- [Enhance privacy & security on major OSes](https://privacy.sexy)
 	- [Libre communication](https://www.fsf.org/blogs/community/better-than-zoom-try-these-free-software-tools-for-staying-in-touch)
-	- [Less-bloated private clients for many domains](https://codeberg.org/PrivacyDev/DPR-addon/src/branch/master/README.md#redirects), which is missing these [IG proxies](https://codeberg.org/ThePenguinDev/Proxigram/wiki/Instances).
 	- [Libre Phones](https://fsfe.org/activities/android/liberate.en)
 	- [Better G Play Store](https://auroraoss.com)
 	- [Android Display Tester](https://play.google.com/store/apps/details?id=com.gombosdev.displaytester)
@@ -111,6 +155,7 @@ Most of these aren't audio data per-se, they're more akin to digital-audio-works
 - [Wasm Audacity](https://wavacity.com)
 - [∿ Szynalski's Oscillator](https://szynalski.com/tone-generator)
 - [GDcologne's 30$ site 🗿](https://thirtydollar.website)
+- [Live coding algorithmic patterns, supersedes TidalCycles](https://codeberg.org/uzu/strudel)
 - [Generalized Fibonacci Music](https://marcthespark.github.io/FibonacciMusicBox)
 - [Improved ByteBeat player](https://wurstcaptures.untergrund.net/music)
 - [BB DAW](https://dollchan.net/bytebeat), and [alt](https://bytebeat.ficial.net)
@@ -121,7 +166,6 @@ Most of these aren't audio data per-se, they're more akin to digital-audio-works
 - Multi
 	- [Lagom LCD tests](http://lagom.nl/lcd-test)
 	- [Algorithmic Wallpaper Gen](https://bggenerator.com) (no AI)
-	- [Adin Campbell article+gallery](https://designyoutrust.com/2020/04/these-surreal-landscapes-look-like-they-are-from-another-planet). My fave is the 1st sunset.
 - Single
 	- [xkcd#435: "Purity"](https://xkcd.com/435), but [including logic and philosophy](https://i.imgur.com/F1Mf8.png)
 	- [Paradox of the 3 "omni-pillars": "God is like a table, on top is theodicy"](https://www.smbc-comics.com/?id=2292)
