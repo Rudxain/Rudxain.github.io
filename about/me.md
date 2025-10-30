@@ -33,7 +33,7 @@
 	2. Colegio Jesús En Ti Confío
 	3. Liceo Católico Tecnológico de Barahona
 	4. Universidad Católica Tecnológica de Barahona (1 semester)
-	5. Instituto Tecnológico de Santo Domingo (only once)
+	5. [ITLA](https://es.wikipedia.org/wiki/Instituto_Tecnol%C3%B3gico_de_las_Am%C3%A9ricas) (only once)
 - am [against indoctrination/brainwashing](https://youtu.be/IaUhR-tRkHY)(alt: "bending truth \| how adults get indoctrinated" by `@theramintrees`), religious and secular alike
 - am anti-dogmatism (except for a [special case](https://rudxain.github.io/blog/post/dogma_non-sentient)) and anti-faith
 	- which implies I'm areligious and anti-religion (not anti-religious)
