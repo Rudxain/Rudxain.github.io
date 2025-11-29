@@ -3,6 +3,42 @@ Unlike typical browser "favorites"/"bookmarks", most of these links are _infrequ
 
 To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages domain or my GH Profile-`README`, they'll be removed from this page.
 
+## TO-DO
+> These aren't categorized, yet
+
+
+- [The coming civil war over general purpose computing - Boing Boing](https://boingboing.net/2012/08/23/civilwar.html)
+- https://www.gnu.org/philosophy/right-to-read
+- https://godsandgoods.substack.com/p/the-enshittification-of-transcendental
+- https://www.zachaysan.com/writing/2017-12-30-zero-width-characters
+- Dotpe leak: https://web.archive.org/web/20240923081639/https://peabee.substack.com/p/whats-inside-the-qr-code-menu-at
+- [The hi-res user experience](https://web.archive.org/web/20250911131755/https://headrush.typepad.com/creating_passionate_users/2005/12/the_hires_user_.html)
+- [In the economy of user effort, be a bargain, not a scam](https://lea.verou.me/blog/2025/user-effort)
+- [Git koans](https://stevelosh.com/blog/2013/04/git-koans): Master Git is an enigma.
+- [Very long GNOME rant](https://woltman.com/gnome-bad)
+- https://esolangs.org/wiki/Brian_%26_Chuck
+- ["Lambda Calculus in 383 Bytes" (Sector-λ)](https://justine.lol/lambda). The blog-post is beyond awesome!
+- ["C ABI" is a lie](https://faultlore.com/blah/c-isnt-a-language)
+- [Counterexamples in Type Systems](https://counterexamples.org/)
+- https://gavinhoward.com/2024/05/what-rust-got-wrong-on-formal-verification
+- https://gavinhoward.com/2024/09/rewriting-rust-a-response
+- [Building the fastest Lua interpreter.. automatically! (Deegen)](https://sillycross.github.io/2022/11/22/2022-11-22)
+- https://gavinhoward.org/2023/06/let-me-cure-your-impostor-syndrome
+- https://gwern.net/computers#computers-all-the-way-down
+- [Networks all the way down](https://gwern.net/doc/www/fgiesen.wordpress.com/81a7f5e44ec4e9a55df9bb2dbd5535302ba06acb.html)
+- https://gwern.net/correlation
+- https://gwern.net/everything
+- https://jakearchibald.com/2025/give-footnotes-the-boot
+- https://journal.stuffwithstuff.com/2010/11/26/the-biology-of-sloppy-code
+- https://pointersgonewild.com/2013/07/19/programming-without-text-files
+- https://www.hacklewayne.com
+- https://www.hyrumslaw.com
+- https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names
+- locale rant: https://github.com/mpv-player/mpv/commit/1e70e82baa9193f6f027338b0fab0f5078971fbe
+- ["Bidirectional Laser Tracer"](https://www.shadertoy.com/view/7tjSDh). It has diffraction!
+- [Mandelbox Sweeper by evvvvil_](https://www.shadertoy.com/view/3lyXDm)
+- https://www.piskelapp.com/
+
 ## Text
 - [UTF-8 Manifesto](https://utf8everywhere.org)
 - [Unicode is a mess because languages are a mess](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode)
@@ -10,8 +46,14 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - [Text editors are complex beasts](https://lord.io/text-editing-hates-you-too), a reply/follow-up to [_"Text Rendering Hates You"_](https://gankra.github.io/blah/text-hates-you) by Aria/Alexis Beingessner
 - [Wise advice from humble dev](https://grugbrain.dev). That's why we should (at least pretend to) be dumb. Complexity bad!
 - [How to ask valuable questions](https://www.catb.org/esr/faqs/smart-questions.html)
-- ["Everyone has JS, right?"](https://www.kryogenix.org/code/browser/everyonehasjs.html)
+- [How to ask good questions](https://jvns.ca/blog/good-questions)
+- [Don't ask to ask, just ask](https://dontasktoask.com)
+- https://eev.ee/blog/2016/03/06/maybe-we-could-tone-down-the-javascript
+- [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
+- [You really don't need all that JavaScript, I promise](https://www.kryogenix.org/code/dont-need-that-js)
 - [Unobtrusive JS](https://www.w3.org/wiki/The_principles_of_unobtrusive_JavaScript)
+- https://jakearchibald.com/2013/progressive-enhancement-still-important
+- ["Everyone has JS, right?"](https://www.kryogenix.org/code/browser/everyonehasjs.html)
 - [_Recursive_ RLE‽‽‽](https://liamappelbe.medium.com/the-unreasonable-effectiveness-of-run-length-encoding-0d4ab5f92802)
 - [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://jagregory.com/abrash-black-book). Includes an over-optimized impl of [CGoL](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 - ["The Busy Beaver Frontier"](https://www.scottaaronson.com/papers/bb.pdf) by Scott Aaronson, et al.
@@ -35,10 +77,12 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 - [Enshittification is everywhere](https://consumerrights.wiki/w/Enshittification)
 - Nicky Case, [“AI Safety for Fleshy Humans”](https://AIsafety.dance), Hack Club (2024).
 - [Why abusers legitimately don't know what they did wrong](https://www.issendai.com/psychology/estrangement/missing-missing-reasons.html)
-- Likely, [the most comprehensive debunking of theistic religions](https://web.archive.org/web/20250527070909/https://whywontgodhealamputees.com/)
+- Likely, [the most comprehensive debunking of theistic religions](https://web.archive.org/web/20250527070909/https://whywontgodhealamputees.com/). [See also](https://rationalwiki.org/wiki/Why_Won%27t_God_Heal_Amputees).
 - [El 💯mejor poema de Ron Lorent/Israel](https://cdn.verbub.com/images/ella-queria-signos-de-admiracion-el-le-daba-signos-de-interrogacion-el-112821.jpg)
 - [Type-driven parsing](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate). [The Rust Book agrees with this](https://doc.rust-lang.org/book/ch09-03-to-panic-or-not-to-panic.html#creating-custom-types-for-validation) (AKA [`newtype` pattern](https://doc.rust-lang.org/rust-by-example/generics/new_types.html)). See also [_"Ghosts of Departed Proofs"_](https://kataskeue.com/gdp.pdf).
 - [Why "`async` color-blindness" isn't always worth it](https://www.thecodedmessage.com/posts/async-colors)
+- [Gopher relevance](https://gopher.floodgap.com/gopher/gw?=gopher.floodgap.com+70+302f676f706865722f72656c6576616e63652e747874)
+- [Gopher - Take back the web](https://gopher.fyi/)
 - Proposal for [SSH to replace HTTPS](https://shazow.net/posts/ssh-how-does-it-even)
 - [Why manual security isn't worth it](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/SoLongAndNoThanks.pdf)
 - [Unicode fingerprinting](https://www.zachaysan.com/writing/2018-01-01-fingerprinting-update)
