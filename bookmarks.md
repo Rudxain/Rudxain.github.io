@@ -37,16 +37,9 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - [Unicode is a mess because languages are a mess](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode)
 - [Unicode "chars" are meaningless by default](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points)
 - [Text editors are complex beasts](https://lord.io/text-editing-hates-you-too), a reply/follow-up to [_"Text Rendering Hates You"_](https://gankra.github.io/blah/text-hates-you) by Aria/Alexis Beingessner
-- [Wise advice from humble dev](https://grugbrain.dev). That's why we should (at least pretend to) be dumb. Complexity bad!
 - [How to ask valuable questions](https://www.catb.org/esr/faqs/smart-questions.html)
 - [How to ask good questions](https://jvns.ca/blog/good-questions)
 - [Don't ask to ask, just ask](https://dontasktoask.com)
-- https://eev.ee/blog/2016/03/06/maybe-we-could-tone-down-the-javascript
-- [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
-- [You really don't need all that JavaScript, I promise](https://www.kryogenix.org/code/dont-need-that-js)
-- [Unobtrusive JS](https://www.w3.org/wiki/The_principles_of_unobtrusive_JavaScript)
-- https://jakearchibald.com/2013/progressive-enhancement-still-important
-- ["Everyone has JS, right?"](https://www.kryogenix.org/code/browser/everyonehasjs.html)
 - [_Recursive_ RLE‽‽‽](https://liamappelbe.medium.com/the-unreasonable-effectiveness-of-run-length-encoding-0d4ab5f92802)
 - [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://jagregory.com/abrash-black-book). Includes an over-optimized impl of [CGoL](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 - ["The Busy Beaver Frontier"](https://www.scottaaronson.com/papers/bb.pdf) by Scott Aaronson, et al.
@@ -76,8 +69,6 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 		>
 		> [Then Opening and closing braces should be called an "extra visual clue to scanning the block" in C++ and Java? Because they improved readability. Braces (`{`) then is C++, Java's main Strength.](https://wiki.c2.com/?SyntacticallySignificantWhitespaceConsideredHarmful)
 - [⚠️YAML bad❌](https://noyaml.com)
-- [Web Bloat Crisis](https://idlewords.com/talks/website_obesity.htm)
-- [JS bloat (2024)](https://tonsky.me/blog/js-bloat)
 - [UA story/history](https://webaim.org/blog/user-agent-string-history/)
 - ["UA gotta be kidding"](https://bkardell.com/blog/UAGottaBeKidding.html)
 - Nicky Case, [“AI Safety for Fleshy Humans”](https://AIsafety.dance), Hack Club (2024).
@@ -120,7 +111,6 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 	- [Image vectorizer](https://svgco.de)
 	- [Try It Online](https://tio.run). A comprehensive collection of interpreters for normal-langs and eso-langs.
 	- [👽🛸 Blur Busters](https://testufo.com)
-	- [Browserize](https://privacycheck.sec.lrz.de). A comprehensive and detailed collection of fingerprinting methods.
 - Indirect
 	- [Enhance privacy & security on major OSes](https://privacy.sexy)
 	- [Libre communication](https://www.fsf.org/blogs/community/better-than-zoom-try-these-free-software-tools-for-staying-in-touch)
@@ -137,7 +127,6 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 - [🥒Cucumber Quest](https://cucumber.gigidigi.com/cq/page-1)
 - [🪟W93](https://windows93.net)
 - [🔀Useless 🌐Websites](https://theuselessweb.com)
-- [🖱️Click ×4](https://clickclickclick.click)
 - [ΔR](https://deltarune.com). The website has some easter-eggs (even after Spamton Sweepstakes) that will be updated when new chapters release.
 - [Evolutionary Prisoner's Dilemma game](https://ncase.me/trust)
 - [Data Wing](https://play.google.com/store/apps/details?id=com.DanVogt.DATAWING)
