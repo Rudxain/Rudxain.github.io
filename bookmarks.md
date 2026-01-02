@@ -65,6 +65,8 @@ of Set Theory"](https://www.scottaaronson.com/busybeaver.pdf) (April 22, 2016) b
 		>
 		> [Then Opening and closing braces should be called an "extra visual clue to scanning the block" in C++ and Java? Because they improved readability. Braces (`{`) then is C++, Java's main Strength.](https://wiki.c2.com/?SyntacticallySignificantWhitespaceConsideredHarmful)
 - [⚠️YAML bad❌](https://noyaml.com)
+- [UA story/history](https://webaim.org/blog/user-agent-string-history/)
+- ["UA gotta be kidding"](https://bkardell.com/blog/UAGottaBeKidding.html)
 - [Enshittification is everywhere](https://consumerrights.wiki/w/Enshittification)
 - Nicky Case, [“AI Safety for Fleshy Humans”](https://AIsafety.dance), Hack Club (2024).
 - [Why abusers legitimately don't know what they did wrong](https://www.issendai.com/psychology/estrangement/missing-missing-reasons.html)
