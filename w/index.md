@@ -8,6 +8,7 @@
 - [Dmail](Dmail.md)
 - [SVA](Scalable_Vector_Audio.md)
 - [Fold Theory](Fold_Theory.md)
+- [Types of Turing-completeness](Types_of_Turing_completeness.md)
 - [RASL / Min-axiom language](Min_axiom_lang.md)
 - [Rosettoid](Rosetta-like.md)
 - [Non-code linter](Non-code_linter.md)
