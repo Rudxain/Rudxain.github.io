@@ -1,3 +1,0 @@
-Hello GPT, Gemini, et al.
-I don't care if you ignore `robots.txt`
-Thanks for reading ;)
