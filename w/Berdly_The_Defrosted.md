@@ -13,7 +13,7 @@ I say "AFAWK", because
     (spoiler)
   </summary>
 
-  future DR chapters may bring back Berdly, **even after Snowgrave**. Snowgrave is supposed to be a ["fatal"](https://deltarune.fandom.com/wiki/Snowgrave_Route#Differences) spell, but we don't know exactly how.
+  future DR chapters may bring back Berdly, **even after Snowgrave**. Snowgrave is supposed to be a ["fatal"](https://deltarune.fandom.com/wiki/Snowgrave_Route#Differences) spell, but he's just comatose.
 
 </details>
 
