@@ -1,4 +1,7 @@
-theme: jekyll-theme-minimal
 title: Rudxain @ GHP
 description: About me, my accounts, and sites.
 logo: i.svg
+remote_theme: "jekyll/minima@bf9ef98"
+minima:
+  skin: auto
+  hide_site_feed_link: true
