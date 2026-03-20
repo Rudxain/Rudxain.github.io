@@ -66,7 +66,6 @@ To reduce redundancy, if any of these URLs is included anywhere in my GH-Pages d
 - [⚠️YAML bad❌](https://noyaml.com)
 - [UA story/history](https://webaim.org/blog/user-agent-string-history/)
 - ["UA gotta be kidding"](https://bkardell.com/blog/UAGottaBeKidding.html)
-- Nicky Case, [“AI Safety for Fleshy Humans”](https://AIsafety.dance), Hack Club (2024).
 - [Enshittification is everywhere](https://consumerrights.wiki/w/Enshittification)
 - [The coming civil war over general purpose computing - Boing Boing](https://boingboing.net/2012/08/23/civilwar.html)
 - ["The Right to Read"](https://www.gnu.org/philosophy/right-to-read), a dystopian tale about DRM.
