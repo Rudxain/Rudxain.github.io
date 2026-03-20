@@ -46,6 +46,7 @@
 	- although, I don't take any position strongly, because I need more info on the subject
 - am [pro-consumer-rights](https://consumerrights.wiki), anti-[enshittification](https://en.wikipedia.org/wiki/Enshittification)
 - am interested in procedurally-generated art such as: [byte-beat](http://canonical.org/~kragen/bytebeat/) and [shaders](https://www.shadertoy.com/).
+- will assume you don't know what [nuance](https://AIsafety.dance) is, if you say you "love" or "hate" AI
 - am partially vegan
 	- I consume animal-based products, as least as possible
 - love almost all animals (even the non-mammals) :3
