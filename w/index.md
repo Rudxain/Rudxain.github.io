@@ -5,6 +5,7 @@
 - [Griznoz](Griznoz.md)
 - [Phoenix Buster](Phoenix_Buster.md) <!-- BTD intentionally unlisted/unindexed -->
 - [CPU EsoGov List](List_of_CPU_Eso-Governors.md)
+- [Differential Perma-Cache](Delta-perma-cache.md)
 - [Dmail](Dmail.md)
 - [SVA](Scalable_Vector_Audio.md)
 - [Fold Theory](Fold_Theory.md)
