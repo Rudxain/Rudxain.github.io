@@ -41,6 +41,7 @@ My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 - [Khan Academy](http://khanacademy.org/profile/Rudxain)
 - [Coursera profile](https://coursera.org/user/cdfd656c5769f1b3785e1ae95a5d57c2)
 - [edX](https://profile.edx.org/u/Rudxain)
+- [Kaggle profile](https://www.kaggle.com/rudxain)
 - [GH repos](https://github.com/Rudxain?tab=repositories) & [Gists](https://gist.github.com/Rudxain)
 - [LL-AM quasi-profile](https://llamalab.com/automate/community/flows/42921). User-id: `#34225`. A [live JSON of some of my flows](https://llamalab.com/automate/community/api/v1/users/34225/flows) is available (current limit is 64).
 - [Cargo Crates](https://crates.io/users/Rudxain)
