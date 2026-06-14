@@ -9,7 +9,7 @@ My emails and phones are private, to reduce spam. If you need those addresses, a
 
 I have 1 public email address, and its username is the exact same as mine (ends with `@gmail.com`).
 
-My personal email addresses **do not contain my name, nickname**, or anything that looks similar to those.
+My personal email address **does not contain my name, nickname**, or anything that looks similar to those.
 
 My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 - CIC Gmail
@@ -25,9 +25,6 @@ My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 	- Learn Digital (`learndigital.withgoogle.com`)
 	- Crowd-Source (`crowdsource.google.com`)
 	- 🎮 Play Games Gamer-ID (same as my YT handle)
-- Micro$haft (["microsoft"](https://consumerrights.wiki/Microsoft)) (same address as Gmail, but `*@outlook.com`)
-	- [Learn](https://learn.microsoft.com/en-us/users/Rudxain)
-	- [Xbox LIVE](https://account.xbox.com/en-us/profile?gamertag=Rudxain)
 - [Valve/Steam profile](https://steamcommunity.com/id/rudxain) (UUID `76561198794430916`)
 - [DisBloat](https://discord.com/users/1168914552323326002) (["discord"](https://consumerrights.wiki/Discord)), which [I want to stop using](https://joinmatrix.org/guide/matrix-vs-discord) but I can't because of [_FATE_](https://gamejolt.com/games/drFATE/975648).
 - 📞 WhatsBloat (["WhatsApp"](https://consumerrights.wiki/WhatsApp)). I'm considering to replace it by [Signal](https://signal.org/) or [Matrix](https://matrix.org/)
@@ -69,7 +66,10 @@ My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 	- I don't even remember if I registered 💀
 
 ## Deleted
-- Skype (because [M$ killed it](https://www.microsoft.com/en-us/microsoft-365/blog/2025/02/28/the-next-chapter-moving-from-skype-to-microsoft-teams))
+- [MicroSlop](https://consumerrights.wiki/w/User:Rudxain/Microslop) (same address as Gmail, but `*@outlook.com`)
+	- [Learn](https://learn.microsoft.com/en-us/users/Rudxain)
+	- [Xbox LIVE](https://account.xbox.com/en-us/profile?gamertag=Rudxain)
+	- Skype (because [M$ killed it](https://www.microsoft.com/en-us/microsoft-365/blog/2025/02/28/the-next-chapter-moving-from-skype-to-microsoft-teams))
 - [FuckBook](https://stallman.org/facebook) (see also [this](https://salimvirani.com/facebook) & [this](https://consumerrights.wiki/Meta)). I only had 1 account. I've never forgot the password (unlike other people, lol). Usernames (oldest to newest):
 	1. `faladagron`
 	2. `faladragon`
