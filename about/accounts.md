@@ -7,7 +7,7 @@ If you find a user claiming to be me, but their account doesn't match anything h
 
 My emails and phones are private, to reduce spam. If you need those addresses, ask privately.
 
-I have 1 public email address, and its username is the exact same as mine (ends with `@gmail.com`).
+I have 2 public email addresses: it's my username followed by `@gmail.com` or `@proton.me`.
 
 My personal email address **does not contain my name, nickname**, or anything that looks similar to those.
 
