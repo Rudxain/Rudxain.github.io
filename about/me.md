@@ -1,4 +1,5 @@
 # I...
+> Read [my manifesto](./MANIFESTO.md) for more details
 
 - speak
 	1. 🇩🇴 Español
@@ -42,17 +43,14 @@
 - am not anti-theism, but I don't support it either
 - am [atheist, not nega-theist](https://youtu.be/e-2WZsP6LA0?t=350)(alt: "false equivalents" by `@qualiasoup` & `@theramintrees`)
 	- actually 🤓, [I'm just a rational person](https://www.whywontgodhealamputees.com/no-atheists.htm) (I don't entirely agree: there's a distinction between "The God" (imaginary) and "a deity" (unfalsifiable))
-- am [pro-adoption, pro-need (not pro-choice), and pro-life (not pro-birth)](https://amptoons.com/blog/?p=13565)(alt: "Do They Really Believe Abortion Is Murder?" by `Ampersand`)
-	- although, I don't take any position strongly, because I need more info on the subject
 - am [pro-consumer-rights](https://consumerrights.wiki), anti-[enshittification](https://en.wikipedia.org/wiki/Enshittification)
 - am interested in procedurally-generated art such as: [byte-beat](http://canonical.org/~kragen/bytebeat/) and [shaders](https://www.shadertoy.com/).
 - will assume you don't know what [nuance](https://AIsafety.dance) is, if you say you "love" or "hate" AI
 - am partially vegan
-	- I consume animal-based products, as least as possible
 - love almost all animals (even the non-mammals) :3
 - am in the autistic spectrum (I was diagnosed when I was a kid/pre-teen)
 - ❤️ minimalism, ❌ bloat
-- love useful redundancy, hate useless redundancy
+- love useful redundancy, hate wasteful redundancy
 - *have too much clothing*
 	- **DON'T GIFT ME CLOTHES!** (buy them from me!)
 - reply/react to posts regardless of their ⌛date (I'm a "necroposter", apparently: "I'm something of a historian myself")
