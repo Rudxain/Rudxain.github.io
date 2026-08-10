@@ -35,7 +35,6 @@ My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 - [My CRW profile](https://consumerrights.wiki/User:Rudxain)
 - [My Zulip CRW profile](https://zulip.consumerrights.wiki/#user/301)
 - [Wiki-Profile](https://en.wikipedia.org/wiki/User:Rudxain)
-- [Khan Academy](http://khanacademy.org/profile/Rudxain)
 - [Coursera profile](https://coursera.org/user/cdfd656c5769f1b3785e1ae95a5d57c2)
 - [edX](https://profile.edx.org/u/Rudxain)
 - [Kaggle profile](https://www.kaggle.com/rudxain)
@@ -84,6 +83,7 @@ My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 	- I thought I wouldn't need it
 - NG: `RFS-Gamer`
 - [Shitify](https://consumerrights.wiki/Spotify)
+- Khan Academy
 - Duolingo
 	- I liked it
 	- I completed the **full English & Spanish** courses with max scores
