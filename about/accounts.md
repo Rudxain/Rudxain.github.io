@@ -46,7 +46,6 @@ My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 - [ECMAScript Discourse profile](https://es.discourse.group/u/rudxain)
 - G.I.M.P.S. (`Mersenne.org`). My user-id is private, and AFAIK my profile has no URL.
 	- I used to grind CPUs with Prime95, hoping to get some money, or at least help humanity get better crypto-security.
-- [`RFS_Roblox`](https://roblox.com/users/323158352/profile) ([RobTox](https://consumerrights.wiki/Roblox), actually)
 - [FancyForce/Happy-Wheels](https://totaljerkface.com/profile.tjf?uid=6050400) username: `RFSwerewolf`
 - [Geometry Dash profile](https://gdbrowser.com/u/Rudxain). My RobTop-Games/Boomlings.com username was `RFS`, [someone else](https://gdbrowser.com/u/RFS) claimed it.
 - [`RFS_Osu`](https://osu.ppy.sh/users/9905562)!
@@ -111,3 +110,4 @@ My `*.edu.do` emails **contain my shortened full-name**. Such as my:
 - `saymine.com`
 	- I found it thanks to [TJ](https://youtube.com/@ThioJoe)
 	- It's useless for me, because I rarely get mails 💀
+- `RFS_Roblox`/uid=323158352 ([RobTox](https://consumerrights.wiki/Roblox))
