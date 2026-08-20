@@ -20,6 +20,7 @@
 - ["Non-Math" Arithmetic](Non-numeric_Arithmetic.md)
 - [Gold Pickaxe Effect](Gold_Pickaxe_Effect.md)
 - [Crap inhibitors](Crap_inhibitors.md)
+- [Chasing a resting quill](Chasing_a_resting_quill.md)
 - [Dissolution of Logic](Dissolution_of_Logic.md)
 - [SDaW](Silence_Disguised_as_Words.md)
 - [Calpas Paradox](Calpas_Paradox.md)
